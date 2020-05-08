@@ -22,6 +22,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -61,5 +63,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+  <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5eb4ca836b1983cd"></script>
   </body>
 </html>
