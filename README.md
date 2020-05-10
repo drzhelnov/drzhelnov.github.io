@@ -48,3 +48,4 @@
 |-------------------------|------------------------------------|-------------------------------------|---------------------------------------------|
 | [Олег Гордиенко](mailto:angleter812@gmail.com) | Да | Да | [oleg-gordienko](https://github.com/drzhelnov/clients/tree/oleg-gordienko) |
 | [Георгий Бардавелидзе](https://instagr.am/goshabar) | Да | Да | [georgii-bardavelidze](https://github.com/drzhelnov/clients/tree/georgii-bardavelidze) |
+| Амир Мереджи | Нет | Нет | — |
