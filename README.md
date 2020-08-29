@@ -107,14 +107,14 @@
 | 1 | Олег Гордиенко |
 |---|----------------|
 | Контакты | [Email](mailto:angleter812@gmail.com) |
-| Материалы в публичном репозитории `clients` | [oleg-gordienko](https://github.com/drzhelnov/clients/tree/oleg-gordienko) |
+| Материалы | 🔓 [GitHub](https://github.com/drzhelnov/clients/tree/oleg-gordienko) |
 
 | 2 | Георгий Бардавелидзе |
 |---|----------------------|
 | Контакты | [Instagram](https://instagr.am/goshabar) |
-| Материалы в публичном репозитории `clients` | [georgii-bardavelidze](https://github.com/drzhelnov/clients/tree/georgii-bardavelidze) |
+| Материалы | 🔓 [GitHub](https://github.com/drzhelnov/clients/tree/georgii-bardavelidze) |
 
 | 3 | Амир Мереджи |
 |---|--------------|
 | Контакты | 🚫 |
-| Материалы в публичном репозитории `clients` | 🚫 |
+| Материалы | 🚫 |
