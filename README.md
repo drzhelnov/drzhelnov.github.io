@@ -82,14 +82,14 @@
 | Разрешение на публикацию контактов | Да |
 | Контакты | [Email](mailto:angleter812@gmail.com) |
 | Разрешение на публикацию материалов | Да |
-| Материалы в публичном репозитории `clients` | [oleg-gordienko](https://github.com/drzhelnov/clients/tree/oleg-gordienko) |
+| Материалы в публичном репозитории | [clients/oleg-gordienko](https://github.com/drzhelnov/clients/tree/oleg-gordienko) |
 
 | 2 | Георгий Бардавелидзе |
 |---|----------------------|
 | Разрешение на публикацию контактов | Да |
 | Контакты | [Instagram](https://instagr.am/goshabar) |
 | Разрешение на публикацию материалов | Да |
-| Материалы в публичном репозитории `clients` | [georgii-bardavelidze](https://github.com/drzhelnov/clients/tree/georgii-bardavelidze) |
+| Материалы в публичном репозитории | [clients/georgii-bardavelidze](https://github.com/drzhelnov/clients/tree/georgii-bardavelidze) |
 
 | 3 | Амир Мереджи |
 |---|--------------|
