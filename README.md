@@ -38,11 +38,11 @@
 | Срок | 2 дня на каждые 1000 знаков с пробелами _исходного_ текста |
 | Цена | 10 USD за каждые 1000 знаков с пробелами **итогового** текста |
 
-### Систематические обзоры, scoping-обзоры и синтез доказательств
+### Синтез доказательств
 
 |   | Обзор источников |
 |---|------------------|
-| Описание | Проспективное выполнение систематического обзорного исследования с нуля по стандартам [Cochrane-MECIR](https://training.cochrane.org/handbook/current) / [JBI](https://synthesismanual.jbi.global) от написания протокола на английском языке по рекомендациям [PRISMA-P](http://prisma-statement.org/Extensions/Protocols) и его регистрации в [PROSPERO](https://www.crd.york.ac.uk/prospero/) / [OSF](https://osf.io/) и до написания отчетной статьи на английском языке по рекомендациям [PRISMA](http://prisma-statement.org/PRISMAStatement/) / [PRISMA-ScR](http://prisma-statement.org/Extensions/ScopingReviews) / [PRISMA-S](https://doi.org/10.31219/osf.io/sfc38) до публикации рукописи в рецензируемом журнале определенного квартиля |
+| Описание | Систематические обзоры литературы, литературные обзоры предметного поля (scoping-обзоры). Проспективное выполнение систематического обзорного исследования с нуля по стандартам [Cochrane-MECIR](https://training.cochrane.org/handbook/current) / [JBI](https://synthesismanual.jbi.global) от написания протокола на английском языке по рекомендациям [PRISMA-P](http://prisma-statement.org/Extensions/Protocols) и его регистрации в [PROSPERO](https://www.crd.york.ac.uk/prospero/) / [OSF](https://osf.io/) и до написания отчетной статьи на английском языке по рекомендациям [PRISMA](http://prisma-statement.org/PRISMAStatement/) / [PRISMA-ScR](http://prisma-statement.org/Extensions/ScopingReviews) / [PRISMA-S](https://doi.org/10.31219/osf.io/sfc38) до публикации рукописи в рецензируемом журнале определенного квартиля |
 | Срок | По согласованию, но не менее 8 недель |
 | Цена | Складывается из предоплаты и постоплаты |
 | _Предоплата_ | 1 000 USD |
