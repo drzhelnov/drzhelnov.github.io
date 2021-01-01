@@ -18,7 +18,9 @@
 
 Записаться на занятие:
 
-<iframe src="https://yandex.ru/poll/3GcumALqv3fGsRiAZUqrkZ"></iframe>
+<div class="container"> 
+  <iframe class="responsive-iframe" src="https://yandex.ru/poll/3GcumALqv3fGsRiAZUqrkZ"></iframe>
+</div>
 
 ### Перевод текстов
 
