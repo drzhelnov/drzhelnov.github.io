@@ -22,6 +22,8 @@
   <iframe class="responsive-iframe" src="https://yandex.ru/poll/3GcumALqv3fGsRiAZUqrkZ"></iframe>
 </div>
 
+<br>
+
 ### Перевод текстов
 
 |   | Перевод с английского |
