@@ -39,10 +39,6 @@
         width: 100%;
         height: 100%;
       }
-
-      #clickable-div, #descr-div {
-        display: none;
-      }
     </style>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -87,11 +83,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p id="descr-div">{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="display: none">{{ site.description | default: site.github.project_tagline }}</p>
 
         <p><a id="div-toggler" onclick="toggleDiv()"></a></p>
         <script>document.getElementById("div-toggler").innerHTML = lblShow</script>
-        <div id="clickable-div">
+        <div id="clickable-div" style="display: none">
         <p>Я Павел Желнов, врач — травматолог-ортопед (<a href="https://www.1spbgmu.ru/ru/">ПСПбГМУ</a>, 2017, 2019), врач-эксперт по страховым случаям за рубежом (<a href="https://class-assistance.com/">КЛАСС-Ассист</a>, 2018–2020). В ординатуре и первый год работы занимался спинальной хирургией и общей травматологией. Сейчас не занимаюсь клинической работой. Веду санпросветработу в <a href="http://osdm.org/spb">петербургском отделении Общества специалистов доказательной медицины</a>.</p>
         <p>Занимаюсь обзорами литературы с 2016 года. Незаконченный аспирант (<a href="https://www.1spbgmu.ru/ru/">ПСПбГМУ</a>, 2019–2020), сейчас <a href="http://orcid.org/0000-0003-2767-5123">независимый исследователь</a>. <a href="https://doi.org/10.17605/OSF.IO/MKCB5">Участвовал</a> в обновлении <a href="https://doi.org/10.17605/OSF.IO/P93GE">рекомендаций PRISMA 2020</a>, сейчас <a href="https://zhelnov-to-editors.github.io/ru/">перевожу их на русский язык</a>. В печати <a href="https://github.com/p1m-ortho/xw-p1m-org-osf-projects">два scoping-обзора на русском языке</a>, которые я провел и написал. Подробнее портфолио см. на <a href="https://github.com/p1m-ortho">GitHub</a>.</p>
         </div>
