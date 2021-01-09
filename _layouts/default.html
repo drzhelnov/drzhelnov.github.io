@@ -68,12 +68,12 @@
     function toggleDiv() {
       var div = document.getElementById("clickable-div");
       var btn = document.getElementById("div-toggler");
-      if (div.style.display === "none") {
-        div.style.display = "block";
-        btn.innerHTML = lblHide;
-      } else {
+      if (div.style.display === "block") {
         div.style.display = "none";
         btn.innerHTML = lblShow;
+      } else {
+        div.style.display = "block";
+        btn.innerHTML = lblHide;
       }
     }
     </script>
