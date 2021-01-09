@@ -64,11 +64,11 @@
     function toggleDiv() {
       var div = document.getElementById("clickable-div");
       var btn = document.getElementById("div-toggler");
-      if (div.style.display === "block") {
+      if (div.style.display === "inline-block") {
         div.style.display = "none";
         btn.innerHTML = lblShow;
       } else {
-        div.style.display = "block";
+        div.style.display = "inline-block";
         btn.innerHTML = lblHide;
       }
     }
@@ -111,10 +111,6 @@
         </ul>-->
         {% endif %}
         <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
-        {% if site.github.is_project_page %}
-        <p>Этот проект содержит <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Хостинг от GitHub Pages &mdash; тема от <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </header>
       <section>
         <h1>Содержание</h1>
@@ -145,6 +141,12 @@
       {{ content }}
 
       </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>Этот проект содержит <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Хостинг от GitHub Pages &mdash; тема от <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
