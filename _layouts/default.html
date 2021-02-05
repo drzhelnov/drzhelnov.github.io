@@ -71,10 +71,6 @@
     <noscript><div><img src="https://mc.yandex.ru/watch/70928308" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
     <script>
-    if (window.location.href == {{ site.url }}) {
-        var tos = document.getElementById("tos");
-        tos.style.display = "block";
-    }
     var lblShow = "Показать биографию";
     var lblHide = "Спрятать биографию"
     function toggleDiv() {
@@ -83,7 +79,6 @@
       if (div.style.display === "inline-block") {
         div.style.display = "none";
         btn.innerHTML = lblShow;
-        btn.innerHTML = window.location.href;
       } else {
         div.style.display = "inline-block";
         btn.innerHTML = lblHide;
@@ -131,7 +126,7 @@
         {% endif %}
         <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
       </header>
-      <section id="tos" style="display: none">
+      <section style="display: {% if page.url == site.url %}block{% else %}none{% endif %}">
         <h1>Содержание</h1>
         <ul>
           <li><a href="#публичная-оферта">Публичная оферта</a>
