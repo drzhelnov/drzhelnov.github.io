@@ -71,8 +71,6 @@
     <noscript><div><img src="https://mc.yandex.ru/watch/70928308" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
     <script>
-        var tos = document.getElementById("tos");
-        tos.innerHTML = window.location.href;
     if (window.location.href == {{ site.url }}) {
         var tos = document.getElementById("tos");
         tos.style.display = "block";
@@ -85,6 +83,7 @@
       if (div.style.display === "inline-block") {
         div.style.display = "none";
         btn.innerHTML = lblShow;
+        btn.innerHTML = window.location.href;
       } else {
         div.style.display = "inline-block";
         btn.innerHTML = lblHide;
