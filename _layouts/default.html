@@ -71,6 +71,10 @@
     <noscript><div><img src="https://mc.yandex.ru/watch/70928308" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
     <script>
+    if (window.location.href == {{ site.url }}) {
+        var tos = document.getElementById("tos");
+        tos.style.display = "block";
+    }
     var lblShow = "Показать биографию";
     var lblHide = "Спрятать биографию"
     function toggleDiv() {
@@ -126,7 +130,7 @@
         {% endif %}
         <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
       </header>
-      <section>
+      <section id="tos" style="display: none">
         <h1>Содержание</h1>
         <ul>
           <li><a href="#публичная-оферта">Публичная оферта</a>
