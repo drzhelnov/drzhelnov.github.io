@@ -173,7 +173,11 @@
         {% if site.github.is_project_page %}
         <p>Этот проект содержит <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        {% if page.url == "/" %}
         <p><small>Хостинг от GitHub Pages &mdash; тема от <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% else %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
