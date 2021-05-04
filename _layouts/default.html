@@ -25,8 +25,23 @@
         background-color: white;
       }
 
+      header.no-header-header {
+        display: none;
+      }
+
+      section.no-header-content {
+        width: auto;
+        float: none;
+      }
+
       footer {
         z-index: -1;
+      }
+
+      footer.unfixed-footer {
+        z-index: 0;
+        float: none;
+        position: relative;
       }
 
       li ul {
@@ -88,7 +103,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header style="display: {% if page.url == "/" %}block{% else %}none{% endif %}">
+      <header{% if page.url == "/" %}{% else %}class="no-header-header"{% endif %}>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
@@ -127,7 +142,7 @@
         {% endif %}
         <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
       </header>
-      <section style="display: {% if page.url == "/" %}block{% else %}none{% endif %}">
+      <section{% if page.url == "/" %}{% else %}class="no-header-header"{% endif %}>
         <h1>Содержание</h1>
         <ul>
           <li><a href="#публичная-оферта">Публичная оферта</a>
@@ -149,12 +164,12 @@
           </li>
         </ul>
       </section>
-      <section>
+      <section{% if page.url == "/" %}{% else %}class="no-header-content"{% endif %}>
 
       {{ content }}
 
       </section>
-      <footer>
+      <footer{% if page.url == "/" %}{% else %}class="unfixed-footer"{% endif %}>
         {% if site.github.is_project_page %}
         <p>Этот проект содержит <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
