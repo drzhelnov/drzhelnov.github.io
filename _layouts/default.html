@@ -25,11 +25,11 @@
         background-color: white;
       }
 
-      header.no-header-header {
+      .no-header-header {
         display: none;
       }
 
-      section.no-header-content {
+      .no-header-content {
         width: auto;
         float: none;
       }
@@ -38,7 +38,7 @@
         z-index: -1;
       }
 
-      footer.unfixed-footer {
+      .unfixed-footer {
         z-index: 0;
         float: none;
         position: relative;
@@ -103,7 +103,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header{% if page.url == "/" %}{% else %}class="no-header-header"{% endif %}>
+      <header{% if page.url == "/" %}{% else %} class="no-header-header"{% endif %}>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
@@ -142,7 +142,7 @@
         {% endif %}
         <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox"></div>
       </header>
-      <section{% if page.url == "/" %}{% else %}class="no-header-header"{% endif %}>
+      <section{% if page.url == "/" %}{% else %} class="no-header-header"{% endif %}>
         <h1>Содержание</h1>
         <ul>
           <li><a href="#публичная-оферта">Публичная оферта</a>
@@ -164,12 +164,12 @@
           </li>
         </ul>
       </section>
-      <section{% if page.url == "/" %}{% else %}class="no-header-content"{% endif %}>
+      <section{% if page.url == "/" %}{% else %} class="no-header-content"{% endif %}>
 
       {{ content }}
 
       </section>
-      <footer{% if page.url == "/" %}{% else %}class="unfixed-footer"{% endif %}>
+      <footer{% if page.url == "/" %}{% else %} class="unfixed-footer"{% endif %}>
         {% if site.github.is_project_page %}
         <p>Этот проект содержит <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
