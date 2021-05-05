@@ -18,10 +18,9 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 
 -----
 
-## Week 1
-
 | Syllabus | U.S. Med School |
 |---|---|
+| **Week 1** |  |
 | **M1** Module 1 [META: Mindfully Evolving, Thriving & Advocating - Week 1](/usmle/meta/week1.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 1](/usmle/gar/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 2 - Week 1](/usmle/pom1/m2w1.html) | University of Texas Medical Branch at Galveston |
@@ -31,11 +30,7 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | _Longitudinal_ [Practice of Medicine at M1 Module 4 - Week 1](/usmle/pom1/m4w1.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 1](/usmle/nhb/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 5 - Week 1](/usmle/pom1/m5w1.html) | University of Texas Medical Branch at Galveston |
-
-## Week 2
-
-| Syllabus | U.S. Med School |
-|---|---|
+| **Week 2** |  |
 | **M1** Module 1 [META: Mindfully Evolving, Thriving & Advocating - Week 2](/usmle/meta/week2.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 2](/usmle/gar/week2.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 2 - Week 2](/usmle/pom1/m2w2.html) | University of Texas Medical Branch at Galveston |
@@ -45,64 +40,40 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | _Longitudinal_ [Practice of Medicine at M1 Module 4 - Week 2](/usmle/pom1/m4w2.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 2](/usmle/nhb/week2.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 5 - Week 2](/usmle/pom1/m5w2.html) | University of Texas Medical Branch at Galveston |
-
-## Week 3
-
-| Syllabus | U.S. Med School |
-|---|---|
+| **Week 3** |  |
 | **M1** Module 1 [META: Mindfully Evolving, Thriving & Advocating - Week 3](/usmle/meta/week3.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 3](/usmle/gar/week3.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 3 [Molecules, Cells, and Tissues - Week 3](/usmle/mct/week3.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 3 Auto-immunity and Transplantation](/usmle/phd/week3.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 3](/usmle/nhb/week3.html) | University of Texas Medical Branch at Galveston |
-
-## Week 4
-
-| Syllabus | U.S. Med School |
-|---|---|
+| **Week 4** |  |
 | **M1** Module 1 [META: Mindfully Evolving, Thriving & Advocating - Week 4](/usmle/meta/week4.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 4](/usmle/gar/week4.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 2 - Weeks 4-5](/usmle/pom1/m2w4-5.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 3 [Molecules, Cells, and Tissues - Week 4](/usmle/mct/week4.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 4 Bacteriology](/usmle/phd/week4.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 4](/usmle/nhb/week4.html) | University of Texas Medical Branch at Galveston |
-
-## Week 5
-
-| Syllabus | U.S. Med School |
-|---|---|
+| **Week 5** |  |
 | **M1** Module 1 [META: Mindfully Evolving, Thriving & Advocating - Week 5](/usmle/meta/week5.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 5](/usmle/gar/week5.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 3 [Molecules, Cells, and Tissues - Week 5](/usmle/mct/week5.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 5 Virology](/usmle/phd/week5.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 4 - Week 5](/usmle/pom1/m4w5.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 5](/usmle/nhb/week5.html) | University of Texas Medical Branch at Galveston |
-
-## Week 6
-
-| Syllabus | U.S. Med School |
-|---|---|
+| **Week 6** |  |
 | **M1** Module 1 [META: Mindfully Evolving, Thriving & Advocating - Week 6](/usmle/meta/week6.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 6](/usmle/gar/week6.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 3 [Molecules, Cells, and Tissues - Week 6](/usmle/mct/week6.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 6 Parasitology & Mycology](/usmle/phd/week6.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 4 - Week 6](/usmle/pom1/m4w6.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 6](/usmle/nhb/week6.html) | University of Texas Medical Branch at Galveston |
-
-## Week 7
-
-| Syllabus | U.S. Med School |
-|---|---|
+| **Week 7** |  |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 7](/usmle/gar/week7.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M1 Module 2 - Week 7](/usmle/pom1/m2w7.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 3 [Molecules, Cells, and Tissues - Week 7](/usmle/mct/week7.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 7 Neoplasia I](/usmle/phd/week7.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 7](/usmle/nhb/week7.html) | University of Texas Medical Branch at Galveston |
-
-## Week 8
-
-| Syllabus | U.S. Med School |
-|---|---|
+| **Week 8** |  |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 8](/usmle/gar/week8.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 8 Neoplasia II](/usmle/phd/week8.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 8](/usmle/nhb/week8.html) | University of Texas Medical Branch at Galveston |
