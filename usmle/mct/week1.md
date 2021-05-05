@@ -1,6 +1,6 @@
 # Molecules, Cells, and Tissues: Week 1
 
-[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/usmle/mct/course-information/)
+[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/usmle/mct/course-information.html)
 
 ## Lecture 1 - Introduction to Metabolism
 

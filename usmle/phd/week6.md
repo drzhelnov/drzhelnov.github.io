@@ -1,6 +1,6 @@
 # Pathobiology and Host Defense: Week 6
 
-[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information/)
+[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information.html)
 
 ### Week 6 - Parasitology & Mycology
 

@@ -1,6 +1,6 @@
 # Pathobiology and Host Defense: Week 8
 
-[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information/)
+[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information.html)
 
 ### Week 8 - Neoplasia II
 

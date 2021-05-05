@@ -1,6 +1,6 @@
 # Molecules, Cells, and Tissues: Week 7
 
-[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/usmle/mct/course-information/)
+[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/usmle/mct/course-information.html)
 
 ## Lecture 37 - Muscle Structure and Function
 

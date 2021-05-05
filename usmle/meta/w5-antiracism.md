@@ -1,6 +1,6 @@
 # META: Mindfully Evolving, Thriving & Advocating: Week 5 - Anti-Racism Readings
 
-[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information/)
+[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information.html)
 
 ## Anti-Racism Progression - Novice > Intermediate > Expert
 

@@ -1,6 +1,6 @@
 # Neuroscience and Human Behavior: Week 1
 
-[Course Information Year 1 Courses: Neuroscience and Human Behavior](/usmle/nhb/course-information/)
+[Course Information Year 1 Courses: Neuroscience and Human Behavior](/usmle/nhb/course-information.html)
 
 ## Boards and Beyond - Suggested
 
