@@ -77,27 +77,27 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 8](/usmle/gar/week8.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 8 Neoplasia II](/usmle/phd/week8.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 8](/usmle/nhb/week8.html) | University of Texas Medical Branch at Galveston |
-| **M3** [Obstetrics and Gynecology Clerkship - Orientation Prior to Start of Clerkship](/usmle/obgyn/orientation.html) | Florida State University College of Medicine |
+| **M3** [Obstetrics and Gynecology Clerkship - Orientation Prior to Start of Clerkship](/usmle/obgyn/orientation.html) | Florida State University |
 | **Week 9** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 1](/usmle/cvp/case1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 6](/usmle/pom2/m6.html) | University of Texas Medical Branch at Galveston |
-| **M3** [Obstetrics and Gynecology Clerkship - Week 1](/usmle/obgyn/week1.html) | Florida State University College of Medicine |
+| **M3** [Obstetrics and Gynecology Clerkship - Week 1](/usmle/obgyn/week1.html) | Florida State University |
 | **Week 10** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 2](/usmle/cvp/case2.html) | University of Texas Medical Branch at Galveston |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 3](/usmle/cvp/case3.html) | University of Texas Medical Branch at Galveston |
-| **M3** [Obstetrics and Gynecology Clerkship - Week 2](/usmle/obgyn/week2.html) | Florida State University College of Medicine |
+| **M3** [Obstetrics and Gynecology Clerkship - Week 2](/usmle/obgyn/week2.html) | Florida State University |
 | **Week 11** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 4](/usmle/cvp/case4.html) | University of Texas Medical Branch at Galveston |
-| **M3** [Obstetrics and Gynecology Clerkship - Week 3](/usmle/obgyn/week3.html) | Florida State University College of Medicine |
+| **M3** [Obstetrics and Gynecology Clerkship - Week 3](/usmle/obgyn/week3.html) | Florida State University |
 | **Week 12** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 5](/usmle/cvp/case5.html) | University of Texas Medical Branch at Galveston |
-| **M3** [Obstetrics and Gynecology Clerkship - Week 4](/usmle/obgyn/week4.html) | Florida State University College of Medicine |
+| **M3** [Obstetrics and Gynecology Clerkship - Week 4](/usmle/obgyn/week4.html) | Florida State University |
 | **Week 13** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 6](/usmle/cvp/case6.html) | University of Texas Medical Branch at Galveston |
-| **M3** [Obstetrics and Gynecology Clerkship - Week 5](/usmle/obgyn/week5.html) | Florida State University College of Medicine |
+| **M3** [Obstetrics and Gynecology Clerkship - Week 5](/usmle/obgyn/week5.html) | Florida State University |
 | **Week 14** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 7](/usmle/cvp/case7.html) | University of Texas Medical Branch at Galveston |
-| **M3** [Obstetrics and Gynecology Clerkship - Week 6](/usmle/obgyn/week6.html) | Florida State University College of Medicine |
+| **M3** [Obstetrics and Gynecology Clerkship - Week 6](/usmle/obgyn/week6.html) | Florida State University |
 | **Week 15** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 8](/usmle/cvp/case8.html) | University of Texas Medical Branch at Galveston |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 9](/usmle/cvp/case9.html) | University of Texas Medical Branch at Galveston |
