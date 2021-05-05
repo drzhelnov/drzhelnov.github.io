@@ -99,21 +99,35 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **Week 17** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 11](/usmle/cvp/case11.html) | University of Texas Medical Branch at Galveston |
 | **Week 18** |  |
+| **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 1](/usmle/rfe/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 7](/usmle/pom2/m7.html) | University of Texas Medical Branch at Galveston |
 | **Week 19** |  |
+| **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 2](/usmle/rfe/week2.html) | University of Texas Medical Branch at Galveston |
 | **Week 20** |  |
+| **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 3](/usmle/rfe/week3.html) | University of Texas Medical Branch at Galveston |
 | **Week 21** |  |
+| **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 4](/usmle/rfe/week4.html) | University of Texas Medical Branch at Galveston |
 | **Week 22** |  |
+| **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 5](/usmle/rfe/week5.html) | University of Texas Medical Branch at Galveston |
 | **Week 23** |  |
+| **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 6](/usmle/rfe/week6.html) | University of Texas Medical Branch at Galveston |
 | **Week 24** |  |
+| **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 7](/usmle/rfe/week7.html) | University of Texas Medical Branch at Galveston |
 | **Week 25** |  |
+| **M2** Module 8 [Gastrointestinal/Nutrition - Week 1](/usmle/gin/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 8](/usmle/pom2/m8.html) | University of Texas Medical Branch at Galveston |
 | **Week 26** |  |
+| **M2** Module 8 [Gastrointestinal/Nutrition - Week 2](/usmle/gin/week2.html) | University of Texas Medical Branch at Galveston |
 | **Week 27** |  |
+| **M2** Module 8 [Gastrointestinal/Nutrition - Week 3](/usmle/gin/week3.html) | University of Texas Medical Branch at Galveston |
 | **Week 28** |  |
+| **M2** Module 8 [Gastrointestinal/Nutrition - Week 4](/usmle/gin/week4.html) | University of Texas Medical Branch at Galveston |
 | **Week 29** |  |
+| **M2** Module 8 [Gastrointestinal/Nutrition - Week 5](/usmle/gin/week5.html) | University of Texas Medical Branch at Galveston |
 | **Week 30** |  |
+| **M2** Module 8 [Gastrointestinal/Nutrition - Week 6](/usmle/gin/week6.html) | University of Texas Medical Branch at Galveston |
 | **Week 31** |  |
+| **M2** Module 8 [Gastrointestinal/Nutrition - Week 7](/usmle/gin/week7.html) | University of Texas Medical Branch at Galveston |
 | **Week 32** |  |
 | _Longitudinal_ [Practice of Medicine at M2 Module 9](/usmle/pom2/m9.html) | University of Texas Medical Branch at Galveston |
 | **Week 33** |  |
