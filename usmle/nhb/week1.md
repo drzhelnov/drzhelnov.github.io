@@ -12,7 +12,7 @@ This Week: 52 minutes total
 
 *   [Neurology - Boards and Beyond](https://boardsbeyond.com/category/step-1/neurology)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
 
 **Sub-Category: 01. Introduction to Neurology - 52 min**

@@ -34,7 +34,7 @@
     
 *   [What is Systemic Racism](https://youtu.be/p7Rq78jFiJg)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     6:06
     
@@ -49,14 +49,14 @@
     
 *   [James Baldwin Discusses Racism](https://youtu.be/WWwOi17WHpE)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     17:08  
     Dick Cavett Show
     
 *   [How to deconstruct racism, one headline at a time](https://youtu.be/RZgkjEdMbSw)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     16:50  
     Baratunde Thurston
@@ -85,37 +85,37 @@
 
 *   [Does Racism Play a Role in Health Inequities?](https://www.youtube.com/watch?v=Mudlev9tTIY)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     6:39
     
 *   [The Path to Ending Systemic Racism](https://youtu.be/8IGZ_M0OOmA)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1:06:31
     
 *   [Let's get to the root of racial injustice | TEDx](https://youtu.be/-aCn72iXO9s)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     19:37
     
 *   [Bias in Medicine: Last Week Tonight with John Oliver](https://youtu.be/TATSAHJKRd8)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     racial disparities start at 8:22 but he talks about gender disparities before and it’s worth a watch)
     
 *   [The Disturbing History of American Medicine | Racist American History](https://youtu.be/9tAauiPGOjI)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     3:24
     
 *   [Notes of a native son: The world according to James Baldwin — Christina Greer](https://youtu.be/dKku0AfTs0c)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     4:13
     
@@ -127,25 +127,25 @@
 
 *   [Angela Davis on Racism](https://youtu.be/lIVSrU3Ajtw)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     6:30
     
 *   ["The Revolution Will Not Be Televised" - Gil Scott-Heron](https://youtu.be/kZvWt29OG0s)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1:16
     
 *   [The Path to Ending Systemic Racism](https://youtu.be/8IGZ_M0OOmA)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1:06:31
     
 *   [Martin Luther King Jr. speaks with NBC News 11 months before assassination](https://www.nbcnews.com/video/martin-luther-king-jr-speaks-with-nbc-news-11-months-before-assassination-1202163779741)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     26:43
     
@@ -157,13 +157,13 @@
 
 *   [Boots Riley How Capitalism Needed Racism To Operate](https://youtu.be/JmyWvjszBOw)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     5:18
     
 *   [Black Feminism & the Movement for Black Lives: Barbara Smith, Reina Gossett, Charlene Carruthers](https://youtu.be/eV3nnFheQRo)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     50:48
     
@@ -185,7 +185,7 @@
     
 *   [The Problem with Race-Based Medicine - TED](https://www.ted.com/talks/dorothy_roberts_the_problem_with_race_based_medicine?language=en)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Dorothy Roberts; 14 min 29 sec
     
@@ -260,7 +260,7 @@
     
 *   [The Problem with Race-Based Medicine - TED](https://www.ted.com/talks/dorothy_roberts_the_problem_with_race_based_medicine?language=en)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Dorothy Roberts; 14 min 29 sec
     
@@ -382,13 +382,13 @@
 
 **Owned by the Library:**
 
-*   [![Cover Art](//syndetics.com/index.aspx?isbn=9780465083619/LC.GIF&client=springshare)Why Are All the Black Kids Sitting Together in the Cafeteria? by Beverly Daniel Tatum](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=903483)
+*   [Cover ArtWhy Are All the Black Kids Sitting Together in the Cafeteria? by Beverly Daniel Tatum](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=903483)
     
     ISBN: 9780465083619
     
     Publication Date: 2003
     
-*   [![Cover Art](//syndetics.com/index.aspx?isbn=9780807047415/LC.GIF&client=springshare)White Fragility by Robin DiAngelo; Michael Eric Dyson (Foreword by)](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=6048775)
+*   [Cover ArtWhite Fragility by Robin DiAngelo; Michael Eric Dyson (Foreword by)](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=6048775)
     
     ISBN: 9780807047415
     
@@ -396,7 +396,7 @@
     
     Only 1 simultaneous reader at a time
     
-*   [![Cover Art](//syndetics.com/index.aspx?isbn=9780767915472/LC.GIF&client=springshare)Medical Apartheid by Harriet A. Washington](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=6101226)
+*   [Cover ArtMedical Apartheid by Harriet A. Washington](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=6101226)
     
     ISBN: 9780767915472
     
@@ -404,7 +404,7 @@
     
     Only 1 simultaneous reader at a time
     
-*   [![Cover Art](//syndetics.com/index.aspx?isbn=9781479812271/LC.GIF&client=springshare)Reproductive Injustice by Dána-Ain Davis](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=5774083)
+*   [Cover ArtReproductive Injustice by Dána-Ain Davis](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=5774083)
     
     ISBN: 9781479812271
     
@@ -444,7 +444,7 @@ You may try the local public library (Rosenberg for Galveston residents) or cons
 
 **In the Library:**
 
-*   [![Cover Art](//syndetics.com/index.aspx?isbn=9780520248908/LC.GIF&client=springshare)Black and Blue: The Orgins and Consequences of Medical Racism by John Hoberman](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=867683)
+*   [Cover ArtBlack and Blue: The Orgins and Consequences of Medical Racism by John Hoberman](http://libux.utmb.edu/login?url=https://ebookcentral.proquest.com/lib/utmb-ebooks/detail.action?docID=867683)
     
     ISBN: 9780520248908
     

@@ -31,19 +31,19 @@ Video Run Time Total: 2 hours 26 minutes
 
 *   [Clinician-Centered Interviewing: An Evidence-Based Approach](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=16633717)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 hour 9 minutes
     
 *   [Building Efficiency and Effectiveness through Patient-Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=16633716)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     14 min 13 sec
     
 *   [Patient-Centered Interviewing: An Evidence-Based Approach](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=16633718)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 hour 17 min
     
@@ -72,19 +72,19 @@ Video Run Time Total: 2 hours 26 minutes
 
 *   [Ch 13 Abdomen - All Sections - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/multimedia.aspx?categoryId=21787#21780)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     16 min 51 sec
     
 *   [Ch 13 - 13.3 Anatomy Review -Abdomen - - Bates Visual Guide to Physical Examination](https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091322)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     2 min 12 sec
     
 *   [Ch 13 - 13. 4 Examining the Abdomen - Bates Visual Guide to Physical Examination](https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091324)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     3 min 30 sec
     
@@ -93,13 +93,13 @@ Video Run Time Total: 2 hours 26 minutes
 
 *   [Ch 7 Head, Eyes, and Ears - All Sections - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/multimedia.aspx?categoryID=21787#21774)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     26 min 16 sec
     
 *   [Ch 8 Nose, Mouth, and Neck - All Sections - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/multimedia.aspx?categoryID=21787#21775)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     18 min 01 sec
     
@@ -108,13 +108,13 @@ Video Run Time Total: 2 hours 26 minutes
 
 *   [Ch 17 - 17.3 Anatomy Review - Cranial Nerves - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091394)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     44 sec
     
 *   [Ch 17 - 17.4 Examining the Cranial Nerves I-XII - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091396)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     9 min 51 sec
     
@@ -129,28 +129,28 @@ Total Viewing Time: 39:34
 
 *   [Introduction to Clinical Reasoning](https://youtu.be/acJspBatjJE)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     University of California San Francisco (UCSF) School of Medicine. Denise Connor, MD.  
     25:31
     
 *   [Hypothesis Directed Data Collection](https://youtu.be/AcNW1VpdaL0)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Society to Improve Diagnostics in Medicine  
     4:46
     
 *   [Problem Representation](https://youtu.be/8YhoREXzKLc)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Society to Improve Diagnostics in Medicine  
     5:11
     
 *   [Prioritized Differential Diagnosis](https://youtu.be/-jCVFHkq938)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Society to Improve Diagnostics in Medicine  
     4:06
@@ -164,7 +164,7 @@ Total Viewing Time: 39:34
 
 *   [Clinical Problem Solving - Module 1: Part 3 - Illness Scripts](https://www.youtube.com/watch?v=KATky6USI6E)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     UCSF School of Medicine, Catherine Lucey, MD  
     16:57
@@ -196,7 +196,7 @@ Total Viewing Time: 39:34
     
 *   [TED Talk: We need to talk about an injustice](https://youtu.be/c2tOp7OxyQ8)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Bryan Stevenson 23:41
     

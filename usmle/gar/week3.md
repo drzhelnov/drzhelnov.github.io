@@ -54,7 +54,7 @@ QS 4 M822e 2015 (Reserve-Core, 2nd floor Library Information Desk)
 
 *   [Basic Suturing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=17670490)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     15 mins 14 secs
 

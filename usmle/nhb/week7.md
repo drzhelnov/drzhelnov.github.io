@@ -29,7 +29,7 @@ This Week: 67 minutes total
 
 *   [Psychiatry - Boards and Beyond](https://boardsbeyond.com/category/step-1/psychiatry1)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
 
 **Sub-Category: 02. Pathology**

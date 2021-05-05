@@ -13,68 +13,68 @@
 
 *   [Pharmacology Lecture Videos - Access Medicine](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/multimedia.aspx#21767)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Table of Contents Page for Videos linked below  
     This page includes "View in Context" links to go to reading material pertaining to the video
     
 *   [Lecture 1 - Introduction to Pharmacodynamics & Pharmacokinetics](https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809728)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     10:49
     
 *   [Lecture 2 - Routes of Drug Administration, Absorption Rate & the First Pass Effect](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809730)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     12:04
     
 *   [Lecture 3 - Concentration vs. Time Graphs](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809732)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     8:59
     
 *   [Lecture 4 - Apparent Volume of Distribution](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809734)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     15:10
     
 *   [Lecture 5 - Review Problems](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809736)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     7:43
     
 *   [Lecture 6 - First Order vs. Zero Order Elimination](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809738)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     10:34
     
 *   [Lecture 7 - Half-life](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809740)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     9:10
     
 *   [Lecture 8 - Clearance](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809742)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     13:59
     
 *   [Lecture 9 - Dosage Regimens - Continuous Infusion, Loading Dose, Maintenance Dosing Rate](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809744)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     15:26
     
 *   [Lecture 11 - Practice Problems - Dosage Regimens](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=6809748)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     14:56  
     Note: there is no video titled "Lecture 10"

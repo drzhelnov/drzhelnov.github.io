@@ -29,13 +29,13 @@ QS 4 M822e 2015 (Reserve-Core, 2nd floor Library Information Desk)
 
 *   [Lumbar Puncture Decubitus Position](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=5481063)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     10 mins 11 secs
     
 *   [Lumbar Puncture](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=17670479)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     16 mins 29 secs
 

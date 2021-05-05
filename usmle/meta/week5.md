@@ -12,25 +12,25 @@ Total Time: 29 min 46 sec
 
 *   [Growth Mindset Vs. Fixed Mindset: An Introduction TEDED](https://ed.ted.com/featured/qrZmOV7R)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     In class activity - 2 min 42 sec
     
 *   [The Power of Believing You Can Improve - TED Talk](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Carol Dweck; 10 min 13 sec
     
 *   [The Power of belief -- mindset and success - TEDx](https://youtu.be/pN34FNbOKXc)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Eduardo Briceno; 10 min 51 sec
     
 *   [Grit: The Power of Passion and Perseverance - TED](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Angela Duckworth; 6 min
     
@@ -41,19 +41,19 @@ Total viewing time: 57 min 24 sec
 
 *   [The Power of Vulnerability - TED](https://youtu.be/iCvmsMzlF7o)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Brene Brown; 20 min 49 sec
     
 *   [The Price of Invulnerability - TED](https://youtu.be/_UoMXF73j0c)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Brene Brown; 15 min 57 sec
     
 *   [Listening to Shame - TED](https://youtu.be/psN1DORYYV0)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Brene Brown; 20 min 38 sec
     
@@ -105,7 +105,7 @@ Total viewing time: 57 min 24 sec
     
 *   [What is Systemic Racism](https://youtu.be/p7Rq78jFiJg)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     6:06
     
@@ -120,14 +120,14 @@ Total viewing time: 57 min 24 sec
     
 *   [James Baldwin Discusses Racism](https://youtu.be/WWwOi17WHpE)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     17:08  
     Dick Cavett Show
     
 *   [How to deconstruct racism, one headline at a time](https://youtu.be/RZgkjEdMbSw)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     16:50  
     Baratunde Thurston
@@ -206,13 +206,13 @@ Watch one of these videos. Write a reflection of what the hardest and most joyfu
 
 *   [Anki Tutorial](https://youtu.be/e9GtFLAI2RU)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     8:26
     
 *   [How to Use Anki Effectively - Flash Card Basics for Pre-Med and Med Students \[Part 1\]](https://youtu.be/7K2StK7e3ww)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     5:29
     
@@ -225,7 +225,7 @@ Watch one of these videos. Write a reflection of what the hardest and most joyfu
 **Medical Dictionaries**  
 (Note: These are also linked on the Student's Guide to Clinical Information Sources)
 
-*   [![](//syndetics.com/index.aspx?isbn=9780781733908/LC.GIF&client=springshare)Stedman's Medical Dictionary by Thomas Lathrop Stedman](http://libux.utmb.edu/login?url=https://online.statref.com//dictionaryhelp.aspx?type=dictionary&grpalias=TEX)
+*   [Stedman's Medical Dictionary by Thomas Lathrop Stedman](http://libux.utmb.edu/login?url=https://online.statref.com//dictionaryhelp.aspx?type=dictionary&grpalias=TEX)
     
     Call Number: W 13 S812m 2006 (Reserve)
     
@@ -233,17 +233,17 @@ Watch one of these videos. Write a reflection of what the hardest and most joyfu
     
     Publication Date: 2016
     
-*   [![](//syndetics.com/index.aspx?isbn=0877792941/LC.GIF&client=springshare)Merriam-Webster's Medical Dictionary by Merriam-Webster](https://www.merriam-webster.com/medical)
+*   [Merriam-Webster's Medical Dictionary by Merriam-Webster](https://www.merriam-webster.com/medical)
     
     ISBN: 0877792941
     
-*   [![](//syndetics.com/index.aspx?isbn=9780803659049/LC.GIF&client=springshare)Taber's Cyclopedic Medical Dictionary](http://libux.utmb.edu/login?url=https://online.statref.com/Home/Resolve?id=25061&grpalias=TEX)
+*   [Taber's Cyclopedic Medical Dictionary](http://libux.utmb.edu/login?url=https://online.statref.com/Home/Resolve?id=25061&grpalias=TEX)
     
     ISBN: 9780803659049
     
     Publication Date: 2017
     
-*   [![image of a head](http://www.whonamedit.com/static/img/scull-logo-100px.png)Who Named It.com: Dictionary of Medical Eponyms by Ole Daniel Enersen](http://www.whonamedit.com/)
+*   [image of a headWho Named It.com: Dictionary of Medical Eponyms by Ole Daniel Enersen](http://www.whonamedit.com/)
     
     Publication Date: no date
 

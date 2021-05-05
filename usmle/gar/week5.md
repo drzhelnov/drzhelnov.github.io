@@ -94,13 +94,13 @@ QS 4 M822e 2015 (Reserve-Core, 2nd floor Library Information Desk)
 
 *   [Insertion of the Female Urethral Catheter](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=17670481)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     6 min 49 secs
     
 *   [Insertion of the Male Urethral Catheter](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=17670482)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     9 mins 58 secs
 

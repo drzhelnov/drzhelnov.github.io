@@ -71,7 +71,7 @@
 
 **Optional:**
 
-*   [![Cover Art](//syndetics.com/index.aspx?isbn=9780128137123/LC.GIF&client=springshare)Human Parasitology by Burton J. Bogitsh; Clint E. Carter; Thomas N. Oeltmann](http://libux.utmb.edu/login?url=https://www.sciencedirect.com/book/9780128137123/human-parasitology)
+*   [Cover ArtHuman Parasitology by Burton J. Bogitsh; Clint E. Carter; Thomas N. Oeltmann](http://libux.utmb.edu/login?url=https://www.sciencedirect.com/book/9780128137123/human-parasitology)
     
     ISBN: 9780128137123
     

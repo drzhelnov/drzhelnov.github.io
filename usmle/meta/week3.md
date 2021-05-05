@@ -17,7 +17,7 @@ Finish reading _In Shock_ and _Learning in Medicine_ if you haven't already.
 
 *   [The Medical History and Physical - Strong Medicine, Eric Strong, MD](https://youtu.be/0BfkBC34U38)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     Comprehensive review of the full written and oral History and Physical (H&P), including a comparison of how written and oral H&Ps differ; 30 min 08 sec
     
@@ -31,7 +31,7 @@ Finish reading _In Shock_ and _Learning in Medicine_ if you haven't already.
 
 *   [The Economics of Healthcare: Crash Course Econ #29](https://youtu.be/cbBKoyjFLUY)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     10:25
     

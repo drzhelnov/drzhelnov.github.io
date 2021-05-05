@@ -60,7 +60,7 @@ Chapter 13 - Cardiovascular System
 
 *   [Chest Tube Insertion](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/MultimediaPlayer.aspx?MultimediaID=5481073)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     10 mins
 

@@ -12,7 +12,7 @@ This Week: 197 minutes total
 
 *   [Neurology - Boards and Beyond](https://boardsbeyond.com/category/step-1/neurology)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
 
 **Sub-Category: 05. The Eye**
@@ -36,7 +36,7 @@ This Week: 197 minutes total
 
 *   [Psychiatry - Boards and Beyond](https://boardsbeyond.com/category/step-1/psychiatry1)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
 
 **Sub-Category: 02. Pathology**

@@ -34,7 +34,7 @@
 
 **Books:**
 
-*   ![](//syndetics.com/index.aspx?isbn=9780393249248/LC.GIF&client=springshare)No Apparent Distress by Rachel Pearson
+*   No Apparent Distress by Rachel Pearson
     
     Call Number: W 18 P362n 2017 (Reserve Core)
     
@@ -42,7 +42,7 @@
     
     Publication Date: 2017
     
-*   ![](//syndetics.com/index.aspx?isbn=9780452272583/LC.GIF&client=springshare)A Not Entirely Benign Procedure by Perri Klass
+*   A Not Entirely Benign Procedure by Perri Klass
     
     Call Number: W 18 K63N 1987 (Reserve Core)
     
@@ -70,101 +70,101 @@
 
 *   [Ch 16 - Musculoskeletal Physical Examination - Bates](http://libux.utmb.edu/login?url=http://batesvisualguide.com/multimedia.aspx?categoryID=21787#21783)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     32:59
     
 *   [Ch 16 - 16.1 Introduction - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091354)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     2:32 minutes
     
 *   [Ch 16 - 16.2 Anatomy Review - Mandible - Bates Visual Guide to Physical Examination](https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091354)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     0:31
     
 *   [Ch 16 - 16.3 Examining the Mandible - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091358)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     0:52
     
 *   [Ch 16 - 16.4 Anatomy Review - Shoulders - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091360)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 min 3 sec
     
 *   [Ch 16 - 16.5 Examining the Shoulders - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091362)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
 *   [Ch 16 - 16.6 Anatomy Review - Elbows - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091364)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     37 sec
     
 *   [Ch 16 - 16.7 Examining the Elbows - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091366)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 min 16 sec
     
 *   [Ch 16 - 16.8 Anatomy Review - Wrists and Hands - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091368)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     56 sec
     
 *   [Ch 16 - 16.9 Examining the Wrists and Hands - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091370)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     3 min 49 sec
     
 *   [Ch 16 - 16.10 Anatomy Review - Spine - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091372)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 min 17 sec
     
 *   [Ch 16 - 16.11 Examining the Spine - Bates Visual Guide to Physical Examination](https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091374)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     2 min 49 sec
     
 *   [Ch 16 - 16.12. Anatomy Review - Hips - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091376)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 min 08 sec
     
 *   [Ch 16 - 16.13 Examining the Hips - Bates Visual Guide to Physical Examination](https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091378)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     4 min 12 sec
     
 *   [Ch 16 - 16.14 Anatomy Review - Knees - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091380)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 min 40 sec
     
 *   [Ch 16 - 16.15 Examining the Knees - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091382)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     3 min 10 sec
     
 *   [Ch 16 - 16.17 Examining the Ankles and Feet - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091386)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     1 min 31 sec
     
@@ -188,31 +188,31 @@ Bates' Visual Guide to Physical Examination
 
 *   [Ch 17 - 17.3 Anatomy Review - Cranial Nerves - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaid=6091394)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     44 sec
     
 *   [Ch 17 - 17.4 Examining the Cranial Nerves I-XII - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091396)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     9 min 51 sec
     
 *   [Ch 17 - 17.5 Examining the Motor System - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091398)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     5 min 14 sec
     
 *   [Ch 17 - 17.6 Assessment of Coordination - Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/MultimediaPlayer.aspx?multimediaID=6091400)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     4 min 51 sec
     
 *   [Ch 18 - Nervous System: Sensory System and Reflexes Bates Visual Guide to Physical Examination](http://libux.utmb.edu/login?url=https://batesvisualguide.com/multimedia.aspx?categoryID=21787#21785)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     16 min 34 sec - watch all videos in this chapter
     
@@ -240,7 +240,7 @@ If the transferrin link does not work, click on the book title below and:
 *   [Transferrin](http://libux.utmb.edu/login?url=http://ovidsp.dc2.ovid.com.libux.utmb.edu/sp-4.07.0b/ovidweb.cgi?&S=CJBKFPKJNDEBAPBCIPAKNHEHADIPAA00&Link+Set=S.sh.51%7c1%7csl_10&Counter5=SS_full_text%7c02060355%2f10th_Edition%2f2%7cbooks%7cbookdb%7cbooks2)
     
 
-*   [![](//syndetics.com/index.aspx?isbn=9781496377128/LC.GIF&client=springshare)A Manual of Laboratory and Diagnostic Tests by Frances Talaska Fischbach; Margaret A. Fischbach](http://libux.utmb.edu/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=booktext&D=books2&AN=02060355/10th_Edition/2&XPATH=/OVIDBOOK%5b1%5d/METADATA%5b1%5d/TBY%5b1%5d/AUTHORS%5b1%5d)
+*   [A Manual of Laboratory and Diagnostic Tests by Frances Talaska Fischbach; Margaret A. Fischbach](http://libux.utmb.edu/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=booktext&D=books2&AN=02060355/10th_Edition/2&XPATH=/OVIDBOOK%5b1%5d/METADATA%5b1%5d/TBY%5b1%5d/AUTHORS%5b1%5d)
     
     Call Number: QY 25 F528m 2009 (Reserve)
     

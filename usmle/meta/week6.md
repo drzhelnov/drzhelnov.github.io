@@ -16,7 +16,7 @@
     
 *   [How the Stonewall Riots Sparked a Movement - History Channel](https://youtu.be/Q9wdMJmuBlA)
     
-    *   ![Video](//libapps.s3.amazonaws.com/sites/998/icons/11712/PlayButton.png "Video  ")
+    *   Video
     
     3:54 minutes
     
