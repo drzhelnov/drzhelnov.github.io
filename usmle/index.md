@@ -79,6 +79,7 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 8](/usmle/nhb/week8.html) | University of Texas Medical Branch at Galveston |
 | **Week 9** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 1](/usmle/cvp/case1.html) | University of Texas Medical Branch at Galveston |
+| _Longitudinal_ [Practice of Medicine at M2 Module 6](/usmle/pom2/m6.html) | University of Texas Medical Branch at Galveston |
 | **Week 10** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 2](/usmle/cvp/case2.html) | University of Texas Medical Branch at Galveston |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 3](/usmle/cvp/case3.html) | University of Texas Medical Branch at Galveston |
@@ -97,3 +98,32 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 10](/usmle/cvp/case10.html) | University of Texas Medical Branch at Galveston |
 | **Week 17** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 11](/usmle/cvp/case11.html) | University of Texas Medical Branch at Galveston |
+| **Week 18** |  |
+| _Longitudinal_ [Practice of Medicine at M2 Module 7](/usmle/pom2/m7.html) | University of Texas Medical Branch at Galveston |
+| **Week 19** |  |
+| **Week 20** |  |
+| **Week 21** |  |
+| **Week 22** |  |
+| **Week 23** |  |
+| **Week 24** |  |
+| **Week 25** |  |
+| _Longitudinal_ [Practice of Medicine at M2 Module 8](/usmle/pom2/m8.html) | University of Texas Medical Branch at Galveston |
+| **Week 26** |  |
+| **Week 27** |  |
+| **Week 28** |  |
+| **Week 29** |  |
+| **Week 30** |  |
+| **Week 31** |  |
+| **Week 32** |  |
+| _Longitudinal_ [Practice of Medicine at M2 Module 9](/usmle/pom2/m9.html) | University of Texas Medical Branch at Galveston |
+| **Week 33** |  |
+| **Week 34** |  |
+| **Week 35** |  |
+| **Week 36** |  |
+| **Week 37** |  |
+| **Week 38** |  |
+| _Longitudinal_ [Practice of Medicine at M2 Module 10](/usmle/pom2/m10.html) | University of Texas Medical Branch at Galveston |
+| **Week 39** |  |
+| **Week 40** |  |
+| **Week 41** |  |
+| **Week 42** |  |
