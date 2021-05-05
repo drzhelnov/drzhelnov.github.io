@@ -77,3 +77,23 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 8](/usmle/gar/week8.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 8 Neoplasia II](/usmle/phd/week8.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 8](/usmle/nhb/week8.html) | University of Texas Medical Branch at Galveston |
+| **Week 9** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 1](/usmle/cvp/case1.html) | University of Texas Medical Branch at Galveston |
+| **Week 10** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 2](/usmle/cvp/case2.html) | University of Texas Medical Branch at Galveston |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 3](/usmle/cvp/case3.html) | University of Texas Medical Branch at Galveston |
+| **Week 11** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 4](/usmle/cvp/case4.html) | University of Texas Medical Branch at Galveston |
+| **Week 12** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 5](/usmle/cvp/case5.html) | University of Texas Medical Branch at Galveston |
+| **Week 13** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 6](/usmle/cvp/case6.html) | University of Texas Medical Branch at Galveston |
+| **Week 14** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 7](/usmle/cvp/case7.html) | University of Texas Medical Branch at Galveston |
+| **Week 15** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 8](/usmle/cvp/case8.html) | University of Texas Medical Branch at Galveston |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 9](/usmle/cvp/case9.html) | University of Texas Medical Branch at Galveston |
+| **Week 16** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 10](/usmle/cvp/case10.html) | University of Texas Medical Branch at Galveston |
+| **Week 17** |  |
+| **M2** Module 6 [Cardiovascular/Pulmonary - Case 11](/usmle/cvp/case11.html) | University of Texas Medical Branch at Galveston |
