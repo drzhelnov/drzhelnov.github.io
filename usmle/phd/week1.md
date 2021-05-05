@@ -1,6 +1,6 @@
 # Pathobiology and Host Defense: Week 1
 
-[Course Information Year 1 Courses: Pathobiology & Host Defense](/phd/course-information.md)
+[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information.md)
 
 ### Week 1 - Cellular Injury and Adaptation
 

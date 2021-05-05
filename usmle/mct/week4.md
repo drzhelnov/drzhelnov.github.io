@@ -1,6 +1,6 @@
 # Molecules, Cells, and Tissues: Week 4
 
-[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/mct/course-information.md)
+[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/usmle/mct/course-information.md)
 
 Mid Term Exam - Good luck!
 

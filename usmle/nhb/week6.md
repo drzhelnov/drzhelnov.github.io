@@ -1,6 +1,6 @@
 # Neuroscience and Human Behavior: Week 6
 
-[Course Information Year 1 Courses: Neuroscience and Human Behavior](/nhb/course-information.md)
+[Course Information Year 1 Courses: Neuroscience and Human Behavior](/usmle/nhb/course-information.md)
 
 ## Boards and Beyond - Suggested
 

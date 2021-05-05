@@ -1,6 +1,6 @@
 # Molecules, Cells, and Tissues: Week 5
 
-[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/mct/course-information.md)
+[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/usmle/mct/course-information.md)
 
 ## Lecture 22 - Cellular Aspects of Embryonic Development
 

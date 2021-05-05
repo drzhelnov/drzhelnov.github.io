@@ -1,6 +1,6 @@
 # Molecules, Cells, and Tissues: Week 2
 
-[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/mct/course-information.md)
+[Course Information Year 1 Courses: Molecules, Cells, and Tissues](/usmle/mct/course-information.md)
 
 ## Lecture 9 - Fatty Acid Metabolism
 
