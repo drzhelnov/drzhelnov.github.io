@@ -1,6 +1,6 @@
 # Gross Anatomy/Radiology (GAR): Week 7
 
-[Course Information Year 1 Courses: Gross Anatomy & Radiology: Overview](/usmle/gar/course-information.md)
+[Course Information Year 1 Courses: Gross Anatomy & Radiology: Overview](/usmle/gar/course-information/)
 
 ## Anatomy Lectures 27, 28, 29, 30
 

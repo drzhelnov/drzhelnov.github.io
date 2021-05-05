@@ -1,6 +1,6 @@
 # META: Mindfully Evolving, Thriving & Advocating: Week 2
 
-[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information.md)
+[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information/)
 
 ## Clinical Skills- Patient Centered Interviewing
 

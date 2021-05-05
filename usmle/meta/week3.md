@@ -1,6 +1,6 @@
 # META: Mindfully Evolving, Thriving & Advocating: Week 3
 
-[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information.md)
+[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information/)
 
 ## Outside of Class Activities
 

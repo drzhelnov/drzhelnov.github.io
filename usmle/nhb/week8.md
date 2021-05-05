@@ -1,6 +1,6 @@
 # Neuroscience and Human Behavior: Week 8
 
-[Course Information Year 1 Courses: Neuroscience and Human Behavior](/usmle/nhb/course-information.md)
+[Course Information Year 1 Courses: Neuroscience and Human Behavior](/usmle/nhb/course-information/)
 
 ## Neuroscience of Clinical Psychiatry
 

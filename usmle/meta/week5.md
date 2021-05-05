@@ -1,8 +1,8 @@
 # META: Mindfully Evolving, Thriving & Advocating: Week 5
 
-[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information.md)
+[Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information/)
 
-Note - Required Anti-Racism Readings for Week 5 are listed here and also on the [Anti-Racism Readings tab](/meta/w5-antiracism.md), along with definitions of Novice, Intermediate, and Expert.. Be sure to check out the resources on the [Ant-Racism Readings tab](/meta/w5-antiracism.md) to delve deeper into this important topic. 
+Note - Required Anti-Racism Readings for Week 5 are listed here and also on the [Anti-Racism Readings tab](/meta/w5-antiracism/), along with definitions of Novice, Intermediate, and Expert.. Be sure to check out the resources on the [Ant-Racism Readings tab](/meta/w5-antiracism/) to delve deeper into this important topic. 
 
 ## Learning - Growth Mindset & Shame Resilience
 

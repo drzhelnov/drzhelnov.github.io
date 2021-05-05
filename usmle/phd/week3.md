@@ -1,6 +1,6 @@
 # Pathobiology and Host Defense: Week 3
 
-[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information.md)
+[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information/)
 
 ### Week 3 - Auto-immunity and Transplantation
 

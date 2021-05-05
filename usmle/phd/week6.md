@@ -1,6 +1,6 @@
 # Pathobiology and Host Defense: Week 6
 
-[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information.md)
+[Course Information Year 1 Courses: Pathobiology & Host Defense](/usmle/phd/course-information/)
 
 ### Week 6 - Parasitology & Mycology
 
@@ -56,7 +56,7 @@
 *   [Week 6 Objectives](https://guides.utmb.edu/ld.php?content_id=59875490)
     
 
-*   [Guide to Parisitology](https://utmb.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_764325_1&course_id=_14646_1)
+*   [Guide to Parisitology](https://utmb.blackboard.com/webapps/blackboard/execute/content/file?/=view&content_id=_764325_1&course_id=_14646_1)
     
     Must be logged into Blackboard. If you are not already logged in, click the link login to Blackboard, come back to this page and click the link again.
     
@@ -64,7 +64,7 @@
     
     Must be logged into Blackboard. If you are not already logged in, click the link login to Blackboard, come back to this page and click the link again.
     
-*   [Week 6 Objectives](https://utmb.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_768394_1&course_id=_14646_1)
+*   [Week 6 Objectives](https://utmb.blackboard.com/webapps/blackboard/execute/content/file?/=view&content_id=_768394_1&course_id=_14646_1)
     
     Must be logged into Blackboard. If you are not already logged in, click the link login to Blackboard, come back to this page and click the link again.
     
