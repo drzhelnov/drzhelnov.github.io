@@ -1,4 +1,4 @@
-# Course Information Year 1 Courses: Pathobiology & Host Defense**
+# Course Information Year 1 Courses: Pathobiology & Host Defense
 
 The Major Basic Science disciplines covered in the Pathobiology and Host Defense Course include Pathology, Microbiology and Immunology. The course provides the necessary introductory background for each topic so that each students knowledge base can be expanded upon during the organ system part of the curriculum.
 

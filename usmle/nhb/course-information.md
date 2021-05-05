@@ -1,4 +1,4 @@
-# Course Information Year 1 Courses: Neuroscience and Human Behavior**
+# Course Information Year 1 Courses: Neuroscience and Human Behavior
 
 **Lectures**  
   
