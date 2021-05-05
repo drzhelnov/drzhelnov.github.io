@@ -129,15 +129,26 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **Week 31** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 7](/usmle/gin/week7.html) | University of Texas Medical Branch at Galveston |
 | **Week 32** |  |
+| **M2** Module 9 [Endocrinology and Reproduction - Week 1](/usmle/eer/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 9](/usmle/pom2/m9.html) | University of Texas Medical Branch at Galveston |
 | **Week 33** |  |
+| **M2** Module 9 [Endocrinology and Reproduction - Week 2](/usmle/eer/week2.html) | University of Texas Medical Branch at Galveston |
 | **Week 34** |  |
+| **M2** Module 9 [Endocrinology and Reproduction - Week 3](/usmle/eer/week3.html) | University of Texas Medical Branch at Galveston |
 | **Week 35** |  |
+| **M2** Module 9 [Endocrinology and Reproduction - Week 4](/usmle/eer/week4.html) | University of Texas Medical Branch at Galveston |
 | **Week 36** |  |
+| **M2** Module 9 [Endocrinology and Reproduction - Week 5](/usmle/eer/week5.html) | University of Texas Medical Branch at Galveston |
 | **Week 37** |  |
+| **M2** Module 9 [Endocrinology and Reproduction - Week 6](/usmle/eer/week6.html) | University of Texas Medical Branch at Galveston |
 | **Week 38** |  |
+| **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 1](/usmle/dhm/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 10](/usmle/pom2/m10.html) | University of Texas Medical Branch at Galveston |
 | **Week 39** |  |
+| **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 2](/usmle/dhm/week2.html) | University of Texas Medical Branch at Galveston |
 | **Week 40** |  |
+| **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 3](/usmle/dhm/week3.html) | University of Texas Medical Branch at Galveston |
 | **Week 41** |  |
+| **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 4](/usmle/dhm/week4.html) | University of Texas Medical Branch at Galveston |
 | **Week 42** |  |
+| **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 5](/usmle/dhm/week5.html) | University of Texas Medical Branch at Galveston |
