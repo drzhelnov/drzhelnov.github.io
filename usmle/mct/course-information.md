@@ -1,4 +1,4 @@
-**Course Information Year 1 Courses: Molecules, Cells, and Tissues**
+# Course Information Year 1 Courses: Molecules, Cells, and Tissues**
 
 There are two broad aims of this 8-week course module. The first is to help students obtain knowledge, at an introductory level, of relevant concepts that deal with the normal structure and function of the body at the cellular and molecular levels. This includes acquiring knowledge of fields traditionally classified as Cell Biology, Microscopic Anatomy (or Histology), Biochemistry, Molecular Biology, Genetics, Cell Physiology and Pharmacology. The second aim is to help and encourage students to obtain experience in applying these basic science concepts to understand human diseases.
 

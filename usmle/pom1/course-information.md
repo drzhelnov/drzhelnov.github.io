@@ -1,4 +1,4 @@
-**Course Information Year 1 Courses: Practice of Medicine**
+# Course Information Year 1 Courses: Practice of Medicine**
 
 **"Think Like a Doctor"**  
   
