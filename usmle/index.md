@@ -101,15 +101,20 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **Week 15** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 8](/usmle/cvp/case8.html) | University of Texas Medical Branch at Galveston |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 9](/usmle/cvp/case9.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Pediatrics Clerkship - Week 1](/usmle/peds/week1.html) | Windsor University |
 | **Week 16** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 10](/usmle/cvp/case10.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Pediatrics Clerkship - Week 2](/usmle/peds/week2.html) | Windsor University |
 | **Week 17** |  |
 | **M2** Module 6 [Cardiovascular/Pulmonary - Case 11](/usmle/cvp/case11.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Pediatrics Clerkship - Week 3](/usmle/peds/week3.html) | Windsor University |
 | **Week 18** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 1](/usmle/rfe/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 7](/usmle/pom2/m7.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Pediatrics Clerkship - Week 4](/usmle/peds/week4.html) | Windsor University |
 | **Week 19** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 2](/usmle/rfe/week2.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Pediatrics Clerkship - Week 5](/usmle/peds/week5.html) | Windsor University |
 | **Week 20** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 3](/usmle/rfe/week3.html) | University of Texas Medical Branch at Galveston |
 | **Week 21** |  |
