@@ -117,17 +117,23 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M3** [Pediatrics Clerkship - Week 5](/usmle/peds/week5.html) | Windsor University |
 | **Week 20** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 3](/usmle/rfe/week3.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Surgical Clerkship - Week 1](/usmle/surg/week1.html) | Louisiana State University |
 | **Week 21** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 4](/usmle/rfe/week4.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Surgical Clerkship - Week 2](/usmle/surg/week2.html) | Louisiana State University |
 | **Week 22** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 5](/usmle/rfe/week5.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Surgical Clerkship - Week 3](/usmle/surg/week3.html) | Louisiana State University |
 | **Week 23** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 6](/usmle/rfe/week6.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Surgical Clerkship - Week 4](/usmle/surg/week4.html) | Louisiana State University |
 | **Week 24** |  |
 | **M2** Module 7 [Renal, Fluids, and Electrolytes - Week 7](/usmle/rfe/week7.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Surgical Clerkship - Week 5](/usmle/surg/week5.html) | Louisiana State University |
 | **Week 25** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 1](/usmle/gin/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 8](/usmle/pom2/m8.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Surgical Clerkship - Week 6](/usmle/surg/week6.html) | Louisiana State University |
 | **Week 26** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 2](/usmle/gin/week2.html) | University of Texas Medical Branch at Galveston |
 | **Week 27** |  |

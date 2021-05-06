@@ -1,0 +1,121 @@
+# Surgical Clerkship: Week 4
+
+[Surgical Clerkship - Syllabus (PDF)](/usmle/surg/Surgical%20Clerkship%20Survivial%20Guide%209th%20Ed.pdf)
+
+_<u>Online Modules: Ethics and Nutrition:</u>_   
+These were created so that you could learn on your own time and at your own pace. They should be taken seriously, even though there is no grade associated with them. Faculty and residents expect you to be familiar with these concepts as you care for your patients
+
+* The **Nutrition Module** is very thorough (long). Take your time with it, take notes. Although much of the detail will not be required for you to know at this time, it is an excellent module designed by Stanford and is a valuable resource.
+* Make sure you take the quizzes after each module
+* The **Ethics Module** is undergoing an overhaul. The content available on the LSU webpage, however, is still very relevant and important.
+* http://www.medschool.lsuhsc.edu/medical_education/undergraduate/JrSrResources.asp
+
+**Suggested textbooks:**
+
+* **Cope’s Early Diagnosis of the Acute Abdomen**
+  
+  * Cope’s book will be checked out to students on a first-come-first-serve basis and must returned the Thursday before your General Surgery ends.
+  * If not returned by the end of the General Surgery rotation you will receive an INCOMPLETE.
+  * Cope’s is an extremely well-written book on the basics of an abdominal exam. It’s like a private rotation with a master surgeon. It’s essential reading for students interested in a career in surgery. You will not be quizzed, but if you read it, it will be obvious.
+  
+* **General Surgery Essentials by Peter
+Lawrence, 4th Ed.)**
+
+  * A great reference for students, useful
+when studying for USMLE steps 1, 2 &
+3
+
+**Other Recommendations:**
+
+* **NMS Case Files in General Surgery**
+
+  * A student favorite, a good study guide
+
+* **Surgical Recall**
+
+  * Standard ammo in a student’s pocket, good daily pocket review
+  * Advanced Surgical Recall (written for junior surgical residents, or students gunning for a surgical career)
+
+* **Pre-Test for General Surgery**
+
+  * By all accounts a difficult read, but if you expect to do very well on the shelf, you should be running at this speed
+
+* **Kaplan Review for General Surgery**
+
+  * Contains the famous Pestana review, a favorite for high-yield facts. A good review, not a great reference
+  
+* **Mont Reid Handbook**
+
+  * A great pocket-reference with extensive content in bullet form if you like that sort of thing
+
+* **The Washington University Handbook**
+
+  * Like the Mont Reid but more paragraphs than bullets, if you prefer this sort of thing
+
+## Core Topics for Attending Student Sessions
+
+**_Place emphasis on diagnosis/workup/management. Less on actual surgeries._**
+
+* **Women & Children**
+  
+  * **Pediatric Surgical Disease**
+  
+    * Approach to a child with PYLORIC HYPERTROPHY
+    * Approach to a child with INGUINAL HERNIA
+    * Approach to a child with RETROPERITONEAL MASS
+    * Approach to a child with INTUSSISCEPATIENTION
+    * Approach to a child with ANAL ATRESIA
+    * Approach to a child with MALROTATION
+    * Approach to a newborn with persistent jaundice
+      
+      * Biliary atresia
+    
+    * Approach to baby with feeding intolerance
+      
+      * TEF
+    
+    * Approach to baby who does not pass stool
+      
+      * Hirschsprung
+      * Imperforate anus
+      * Meconium ileus
+    
+    * Approach to a child with an abdominal mass
+      
+      * (wilms, nephroblastoma etc)
+    
+    * Approach to a premature newborn with blood per rectum.
+      
+      * NEC
+    
+    * Approach to a baby with abdominal wall defects
+      
+      * (gastroschisis, omphalocele)
+    
+    * Approach to a child with a mediastinal mass
+  
+  * **Breast**
+    
+    * Approach to a patient with a breast mass.
+      
+      * DCIS/LCIS
+      * Carcinoma
+      * Fibroadenoma
+      * Fibrocystic disease
+      * Gynecomastia
+      * Cancer treatment
+      * Inflammatory breast cancer
+    
+    * Approach to a patient with breast pain
+      
+      * Abscess
+    
+    * Approach to a patient with nipple discharge
+      
+      * Bloody vs. non-bloody
+
+```
+Source:
+https://www.medschool.lsuhsc.edu/surgery/docs/Surgical%20Clerkship%20Survivial%20Guide%209th%20Ed.pdf
+Captured on May 1, 2021
+```
