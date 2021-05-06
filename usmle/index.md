@@ -1,4 +1,4 @@
-# USMLE 1+2CK Prep for IMGs in 50 Weeks
+# USMLE 1+2CK Prep for IMGs in 52 Weeks
 
 ## An Amalgam Schedule Made of U.S. Med Schools’ Syllabi
 
@@ -169,3 +169,13 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **Week 41** |  |
 | **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 5](/usmle/dhm/week5.html) | University of Texas Medical Branch at Galveston |
 | **Week 42** |  |
+| **Week 43** |  |
+| **Week 44** |  |
+| **Week 45** |  |
+| **Week 46** |  |
+| **Week 47** |  |
+| **Week 48** |  |
+| **Week 49** |  |
+| **Week 50** |  |
+| **Week 51** |  |
+| **Week 52** |  |
