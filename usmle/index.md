@@ -136,10 +136,14 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M3** [Surgical Clerkship - Week 6](/usmle/surg/week6.html) | Louisiana State University |
 | **Week 26** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 2](/usmle/gin/week2.html) | University of Texas Medical Branch at Galveston |
+| **M4** [Critical Care Selective - Orientation (Day 1)](/usmle/crit/orientation.html) | University of California, Riverside |
+| **M4** [Critical Care Selective - Week 1](/usmle/crit/week1.html) | University of California, Riverside |
 | **Week 27** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 3](/usmle/gin/week3.html) | University of Texas Medical Branch at Galveston |
+| **M4** [Critical Care Selective - Week 2](/usmle/crit/week2.html) | University of California, Riverside |
 | **Week 28** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 4](/usmle/gin/week4.html) | University of Texas Medical Branch at Galveston |
+| **M4** [Critical Care Selective - Week 3](/usmle/crit/week3.html) | University of California, Riverside |
 | **Week 29** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 5](/usmle/gin/week5.html) | University of Texas Medical Branch at Galveston |
 | **Week 30** |  |
