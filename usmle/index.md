@@ -146,10 +146,13 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M4** [Critical Care Selective - Week 3](/usmle/crit/week3.html) | University of California, Riverside |
 | **Week 29** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 5](/usmle/gin/week5.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Emergency Medicine Clerkship - Week 1](/usmle/em/week1.html) | Northeast Ohio Medical University |
 | **Week 30** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 6](/usmle/gin/week6.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Emergency Medicine Clerkship - Week 2](/usmle/em/week2.html) | Northeast Ohio Medical University |
 | **Week 31** |  |
 | **M2** Module 8 [Gastrointestinal/Nutrition - Week 7](/usmle/gin/week7.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Emergency Medicine Clerkship - Week 3](/usmle/em/week3.html) | Northeast Ohio Medical University |
 | **Week 32** |  |
 | **M2** Module 9 [Endocrinology and Reproduction - Week 1](/usmle/eer/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 9](/usmle/pom2/m9.html) | University of Texas Medical Branch at Galveston |
