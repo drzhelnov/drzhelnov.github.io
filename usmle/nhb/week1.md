@@ -10,7 +10,7 @@ Boards and Beyond does not allow direct linking to specific videos. Links will g
 
 This Week: 52 minutes total
 
-*   [Step 1 > Neurology - Boards and Beyond](https://boardsbeyond.com/category/step-1/neurology)
+*   [Neurology - Step 1 - Boards and Beyond](https://boardsbeyond.com/category/step-1/neurology)
     
     *   Video
     
@@ -93,7 +93,9 @@ WL 102 P9547 2013, Reserve Core, 2nd floor Information Desk
 HTML to Markdown conversion with Turndown by Dom Christie
 https://domchristie.github.io/turndown/
 
-Source:
-https://guides.utmb.edu/nhb/week1
+Sources:
+- https://guides.utmb.edu/nhb/week1
 Captured on May the Fourth, 2021
+- https://boardsbeyond.com/category/step-1/neurology
+Captured on May 7, 2021
 ```
