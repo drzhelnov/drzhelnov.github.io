@@ -1,4 +1,4 @@
-# USMLE 1+2CK Prep for IMGs in 52 Weeks
+# USMLE 1+2CK Prep for IMGs in 53 Weeks
 
 ## An Amalgam Schedule Made of U.S. Med Schools’ Syllabi
 
@@ -156,12 +156,16 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **Week 32** |  |
 | **M2** Module 9 [Endocrinology and Reproduction - Week 1](/usmle/eer/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 9](/usmle/pom2/m9.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Family Medicine Clerkship - Week 1](/usmle/fm/week1.html) | University of Texas Medical Branch at Galveston |
 | **Week 33** |  |
 | **M2** Module 9 [Endocrinology and Reproduction - Week 2](/usmle/eer/week2.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Family Medicine Clerkship - Week 2](/usmle/fm/week2.html) | University of Texas Medical Branch at Galveston |
 | **Week 34** |  |
 | **M2** Module 9 [Endocrinology and Reproduction - Week 4](/usmle/eer/week4.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Family Medicine Clerkship - Week 3](/usmle/fm/week3.html) | University of Texas Medical Branch at Galveston |
 | **Week 35** |  |
 | **M2** Module 9 [Endocrinology and Reproduction - Week 5](/usmle/eer/week5.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Family Medicine Clerkship - Week 4](/usmle/fm/week4.html) | University of Texas Medical Branch at Galveston |
 | **Week 36** |  |
 | **M2** Module 9 [Endocrinology and Reproduction - Week 6](/usmle/eer/week6.html) | University of Texas Medical Branch at Galveston |
 | **Week 37** |  |
@@ -186,3 +190,4 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **Week 50** |  |
 | **Week 51** |  |
 | **Week 52** |  |
+| **Week 53** |  |
