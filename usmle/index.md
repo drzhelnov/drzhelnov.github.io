@@ -1,4 +1,4 @@
-# USMLE 1+2CK Prep for IMGs in 53 Weeks
+# USMLE 1+2CK Prep for IMGs in 50 Weeks
 
 ## An Amalgam Schedule Made of U.S. Med Schools’ Syllabi
 
@@ -187,18 +187,26 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M3** [Internal Medicine Clerkship - Week 6](/usmle/im/week6.html) | Windsor University |
 | **Week 42** |  |
 | **M3** [Internal Medicine Clerkship - Week 7](/usmle/im/week7.html) | Windsor University |
+| **M3** Psychiatry Clerkship - Week 1 | Northeast Ohio Medical University |
 | **Week 43** |  |
 | **M3** [Internal Medicine Clerkship - Week 8](/usmle/im/week8.html) | Windsor University |
+| **M3** Psychiatry Clerkship - Week 2 | Northeast Ohio Medical University |
 | **Week 44** |  |
 | **M3** [Internal Medicine Clerkship - Week 9](/usmle/im/week9.html) | Windsor University |
+| **M3** Psychiatry Clerkship - Week 3 | Northeast Ohio Medical University |
 | **Week 45** |  |
 | **M3** [Internal Medicine Clerkship - Week 10](/usmle/im/week10.html) | Windsor University |
+| **M3** Psychiatry Clerkship - Week 4 | Northeast Ohio Medical University |
 | **Week 46** |  |
 | **M3** [Internal Medicine Clerkship - Week 11](/usmle/im/week11.html) | Windsor University |
+| **M3** Psychiatry Clerkship - Week 5 | Northeast Ohio Medical University |
 | **Week 47** |  |
+| **M3** Neurology Clerkship - Week 1 | University of North Dakota |
+| **M3** Neurology Clerkship - Week 2 | University of North Dakota |
+| **M3** Neurosurgery Elective | University of Texas Health Science Center at Houston |
 | **Week 48** |  |
+| _Review_ Weeks 1-8  | University of Texas Medical Branch at Galveston |
 | **Week 49** |  |
+| _Review_ Weeks 9-28  | <br>University of Texas Medical Branch at Galveston<br>Florida State University<br>Windsor University<br>Louisiana State University<br>University of California, Riverside |
 | **Week 50** |  |
-| **Week 51** |  |
-| **Week 52** |  |
-| **Week 53** |  |
+| _Review_ Weeks 29-47 | University of Texas Medical Branch at Galveston<br>Northeast Ohio Medical University<br>Windsor University<br>University of North Dakota<br>University of Texas Health Science Center at Houston |
