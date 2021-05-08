@@ -203,7 +203,7 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **Week 47** |  |
 | **M3** [Neurology Clerkship - Week 1](/usmle/neuro/week1.html) | University of North Dakota |
 | **M3** [Neurology Clerkship - Week 2](/usmle/neuro/week2.html) | University of North Dakota |
-| **M3** Neurosurgery Elective | University of Texas Health Science Center at Houston |
+| **M3** [Neurosurgery Elective](/usmle/nsur/reading-assignments.html) | University of Texas Health Science Center at Houston |
 | **Week 48** |  |
 | _Review_ **Weeks 1-8** |  |
 | _Review_ **M1** Module 1 META: Mindfully Evolving, Thriving & Advocating | University of Texas Medical Branch at Galveston |
