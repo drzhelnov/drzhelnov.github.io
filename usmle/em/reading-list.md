@@ -1,5 +1,7 @@
 # Emergency Medicine Clerkship: Appendix A. Reading List
 
+[Emergency Medicine Clerkship - Syllabus (PDF)](/usmle/em/EM-Clerkship-Syllabus-AY2020-21.pdf)
+
 You are required to read the following chapters, as assigned, from [Emergency Medicine Clerkship Primer (Clerkship Directors in Emergency Medicine 2008)](https://www.saem.org/docs/default-source/saem-documents/students/em-clerkship-primer_0_0.pdf). All readings should be completed by Wednesday or Monday, as indicated, in the week assigned.
 
 * [By Wednesday of Week 1](/usmle/em/week1.html)

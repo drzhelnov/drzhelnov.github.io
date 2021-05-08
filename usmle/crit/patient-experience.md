@@ -1,5 +1,7 @@
 # Critical Care Selective: Patient Experience and Procedure Logs
 
+[Organization and Course Description](/usmle/crit/course-description.html)
+
 For this selective, medical students are expected to encounter the following types of patients and clinical conditions and have the indicated level of student responsibility.  
 
 The standardized levels of student responsibility include:

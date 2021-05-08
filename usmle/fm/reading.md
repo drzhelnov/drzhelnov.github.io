@@ -1,5 +1,9 @@
 # Family Medicine Clerkship: Reading
 
+[Family Medicine Clerkship - Syllabus (PDF)](/usmle/fm/Syllabus.pdf)
+
+[Family Medicine Clerkship - Clerkship Survival Guide (PDF)](/usmle/fm/Clerkship%20Survival%20Guide.pdf)
+
 Family Medicine is a broad and diverse field. It combines the traditional biomedical disciplines with particular skills in the analysis and use of community resources; knowledge and experience of organizational and management techniques for the delivery of medical care; and an awareness and ability to understand, diagnose, and use the psychological and social elements that are concomitant of health and disease. This information may be drawn from many sources.
 
 ## RECOMMENDED TEXTS

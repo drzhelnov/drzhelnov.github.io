@@ -1,5 +1,7 @@
 # Emergency Medicine Clerkship: Clinical Skills Experience Portfolio
 
+[Emergency Medicine Clerkship - Syllabus (PDF)](/usmle/em/EM-Clerkship-Syllabus-AY2020-21.pdf)
+
 The Emergency Medicine Clinical Skills Experience Portfolio (CSEP) is an electronic checklist of clinical experiences developed for the clerkship and designed for students to use to track their progress in developing knowledge and skill in the following areas:
 
 * Diagnoses/Symptoms/Clinical Scenarios

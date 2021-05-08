@@ -1,8 +1,6 @@
-# Internal Medicine Clerkship: Week 1
+# Internal Medicine Clerkship: Web Based Educational Assignments For Independent Learning
 
 [Internal Medicine Clerkship - Syllabus (PDF)](/usmle/im/Internal-Medicine.pdf)
-
-## WEB BASED EDUCATIONAL ASSIGNMENTS FOR INDEPENDENT LEARNING
 
 Proof of completion of the following three web-based assignments along with your patient log will complete to your portfolio for medicine. As part of their evaluation students need to bring this portfolio to the end-of-clerkship oral exam.
 

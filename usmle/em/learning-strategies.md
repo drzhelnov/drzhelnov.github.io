@@ -1,5 +1,7 @@
 # Emergency Medicine Clerkship: Instructional Methods/Learning Strategies
 
+[Emergency Medicine Clerkship - Syllabus (PDF)](/usmle/em/EM-Clerkship-Syllabus-AY2020-21.pdf)
+
 Each clerkship rotation will be composed of a combination of clinical activity and related materials, didactics, simulation, reading as well as a variety of other activities.
 
 <u>Clinical activity:</u> The number of shifts will be no fewer than nine [9] and include days, evenings, nights and weekends, and span all three weeks of the clerkship.   
