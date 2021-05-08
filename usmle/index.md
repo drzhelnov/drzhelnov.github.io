@@ -205,8 +205,32 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M3** Neurology Clerkship - Week 2 | University of North Dakota |
 | **M3** Neurosurgery Elective | University of Texas Health Science Center at Houston |
 | **Week 48** |  |
-| _Review_ Weeks 1-8  | University of Texas Medical Branch at Galveston |
+| _Review_ **Weeks 1-8** |  |
+| _Review_ **M1** Module 1 META: Mindfully Evolving, Thriving & Advocating | University of Texas Medical Branch at Galveston |
+| _Review_ **M1** Module 2 Gross Anatomy/Radiology | University of Texas Medical Branch at Galveston |
+| _Review_ **M1** Module 3 Molecules, Cells, and Tissues | University of Texas Medical Branch at Galveston |
+| _Review_ **M1** Module 4 Pathobiology and Host Defense | University of Texas Medical Branch at Galveston |
+| _Review_ **M1** Module 5 Neuroscience and Human Behavior | University of Texas Medical Branch at Galveston |
+| _Review_ Practice of Medicine at M1 | University of Texas Medical Branch at Galveston |
 | **Week 49** |  |
-| _Review_ Weeks 9-28  | <br>University of Texas Medical Branch at Galveston<br>Florida State University<br>Windsor University<br>Louisiana State University<br>University of California, Riverside |
+| _Review_ **Weeks 9-28** |  |
+| _Review_ **M2** Module 6 Cardiovascular/Pulmonary | University of Texas Medical Branch at Galveston |
+| _Review_ **M2** Module 7 Renal, Fluids, and Electrolytes | University of Texas Medical Branch at Galveston |
+| _Review_ **M2** Module 8 Gastrointestinal/Nutrition - Weeks 1-4 | University of Texas Medical Branch at Galveston |
+| _Review_ Practice of Medicine at M2 Modules 6-8 | University of Texas Medical Branch at Galveston |
+| _Review_ **M3** Obstetrics and Gynecology Clerkship | Florida State University |
+| _Review_ **M3** Pediatrics Clerkship | Windsor University |
+| _Review_ **M3** Surgical Clerkship | Louisiana State University |
+| _Review_ **M4** Critical Care Selective | University of California, Riverside |
 | **Week 50** |  |
-| _Review_ Weeks 29-47 | University of Texas Medical Branch at Galveston<br>Northeast Ohio Medical University<br>Windsor University<br>University of North Dakota<br>University of Texas Health Science Center at Houston |
+| _Review_ **Weeks 29-47** |  |
+| _Review_ **M2** Module 8 Gastrointestinal/Nutrition - Weeks 5-7 | University of Texas Medical Branch at Galveston |
+| _Review_ **M2** Module 9 Endocrinology and Reproduction | University of Texas Medical Branch at Galveston |
+| _Review_ **M2** Module 10 Dermatology/ Hematology/ Musculoskeletal | University of Texas Medical Branch at Galveston |
+| _Review_ Practice of Medicine at M2 Modules 9-10 | University of Texas Medical Branch at Galveston |
+| _Review_ **M3** Emergency Medicine Clerkship | Northeast Ohio Medical University |
+| _Review_ **M3** Family Medicine Clerkship | University of Texas Medical Branch at Galveston |
+| _Review_ **M3** Internal Medicine Clerkship | Windsor University |
+| _Review_ **M3** Psychiatry Clerkship | Northeast Ohio Medical University |
+| _Review_ **M3** Neurology Clerkship | University of North Dakota |
+| _Review_ **M3** Neurosurgery Elective | University of Texas Health Science Center at Houston |
