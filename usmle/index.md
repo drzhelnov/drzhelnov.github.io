@@ -201,8 +201,8 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M3** [Internal Medicine Clerkship - Week 11](/usmle/im/week11.html) | Windsor University |
 | **M3** [Psychiatry Clerkship - Week 5](/usmle/psych/week5.html) | Northeast Ohio Medical University |
 | **Week 47** |  |
-| **M3** Neurology Clerkship - Week 1 | University of North Dakota |
-| **M3** Neurology Clerkship - Week 2 | University of North Dakota |
+| **M3** [Neurology Clerkship - Week 1](/usmle/neuro/week1.html) | University of North Dakota |
+| **M3** [Neurology Clerkship - Week 2](/usmle/neuro/week2.html) | University of North Dakota |
 | **M3** Neurosurgery Elective | University of Texas Health Science Center at Houston |
 | **Week 48** |  |
 | _Review_ **Weeks 1-8** |  |
