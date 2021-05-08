@@ -2,7 +2,7 @@
 
 [Internal Medicine Clerkship - Syllabus (PDF)](/usmle/im/Internal-Medicine.pdf)
 
-[Web Based Educational Assignments For Independent Learning](/usmle/im/web-based-assignments.md)
+[Web Based Educational Assignments For Independent Learning](/usmle/im/web-based-assignments.html)
 
 ## REQUIRED READING:
 
