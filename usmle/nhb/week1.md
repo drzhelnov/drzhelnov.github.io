@@ -52,7 +52,7 @@ This Week: 52 minutes total
     * First Aid 2020: 510
     * First Aid 2021: 527, 528
 
-## Nolte's Human Brain
+## Nolte's Human Brain, 8e
 
 *   [Chapter 1 - Introduction to the Nervous System](http://libux.utmb.edu/login?url=https://www.clinicalkey.com/#!/content/book/3-s2.0-B9780323653985000011)
     
@@ -69,7 +69,7 @@ This Week: 52 minutes total
     autonomic parts of CN 3, 7, 9, & 10
     
 
-## Kandel & Schwartz Principles of Neural Science
+## Kandel & Schwartz Principles of Neural Science, 5e
 
 _Note:_ _This book is only available in print - aka no electronic access._  
 WL 102 P9547 2013, Reserve Core, 2nd floor Information Desk
@@ -98,4 +98,6 @@ Sources:
 Captured on May the Fourth, 2021
 - https://boardsbeyond.com/category/step-1/neurology
 Captured on May 7, 2021
+- https://www.utmb.edu/ar/ -> Search Library Resources
+Captured on May 8, 2021
 ```
