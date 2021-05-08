@@ -1,4 +1,4 @@
-# Neurology Clerkship: Week 1
+# Neurology Clerkship: Week 2
 
 [Neurology Clerkship Information](/usmle/neuro/course-information.html)
 

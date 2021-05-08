@@ -1,5 +1,7 @@
 # Neurology Clerkship: Required Cases
 
+[Neurology Clerkship Information](/usmle/neuro/course-information.html)
+
 Students will observe or participate with faculty supervision one of each case listed below.
 
 *   Cognitive disorders
