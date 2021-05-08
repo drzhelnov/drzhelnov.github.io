@@ -168,22 +168,33 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M3** [Family Medicine Clerkship - Week 4](/usmle/fm/week4.html) | University of Texas Medical Branch at Galveston |
 | **Week 36** |  |
 | **M2** Module 9 [Endocrinology and Reproduction - Week 6](/usmle/eer/week6.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Internal Medicine Clerkship - Week 1](/usmle/im/week1.html) | Windsor University |
 | **Week 37** |  |
 | **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 1](/usmle/dhm/week1.html) | University of Texas Medical Branch at Galveston |
 | _Longitudinal_ [Practice of Medicine at M2 Module 10](/usmle/pom2/m10.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Internal Medicine Clerkship - Week 2](/usmle/im/week2.html) | Windsor University |
 | **Week 38** |  |
 | **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 2](/usmle/dhm/week2.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Internal Medicine Clerkship - Week 3](/usmle/im/week3.html) | Windsor University |
 | **Week 39** |  |
 | **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 3](/usmle/dhm/week3.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Internal Medicine Clerkship - Week 4](/usmle/im/week4.html) | Windsor University |
 | **Week 40** |  |
 | **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 4](/usmle/dhm/week4.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Internal Medicine Clerkship - Week 5](/usmle/im/week5.html) | Windsor University |
 | **Week 41** |  |
 | **M2** Module 10 [Dermatology/ Hematology/ Musculoskeletal - Week 5](/usmle/dhm/week5.html) | University of Texas Medical Branch at Galveston |
+| **M3** [Internal Medicine Clerkship - Week 6](/usmle/im/week6.html) | Windsor University |
 | **Week 42** |  |
+| **M3** [Internal Medicine Clerkship - Week 7](/usmle/im/week7.html) | Windsor University |
 | **Week 43** |  |
+| **M3** [Internal Medicine Clerkship - Week 8](/usmle/im/week8.html) | Windsor University |
 | **Week 44** |  |
+| **M3** [Internal Medicine Clerkship - Week 9](/usmle/im/week9.html) | Windsor University |
 | **Week 45** |  |
+| **M3** [Internal Medicine Clerkship - Week 10](/usmle/im/week10.html) | Windsor University |
 | **Week 46** |  |
+| **M3** [Internal Medicine Clerkship - Week 11](/usmle/im/week11.html) | Windsor University |
 | **Week 47** |  |
 | **Week 48** |  |
 | **Week 49** |  |
