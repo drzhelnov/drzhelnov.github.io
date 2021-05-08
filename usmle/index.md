@@ -187,19 +187,19 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M3** [Internal Medicine Clerkship - Week 6](/usmle/im/week6.html) | Windsor University |
 | **Week 42** |  |
 | **M3** [Internal Medicine Clerkship - Week 7](/usmle/im/week7.html) | Windsor University |
-| **M3** Psychiatry Clerkship - Week 1 | Northeast Ohio Medical University |
+| **M3** [Psychiatry Clerkship - Week 1](/usmle/psych/week1.html) | Northeast Ohio Medical University |
 | **Week 43** |  |
 | **M3** [Internal Medicine Clerkship - Week 8](/usmle/im/week8.html) | Windsor University |
-| **M3** Psychiatry Clerkship - Week 2 | Northeast Ohio Medical University |
+| **M3** [Psychiatry Clerkship - Week 2](/usmle/psych/week2.html) | Northeast Ohio Medical University |
 | **Week 44** |  |
 | **M3** [Internal Medicine Clerkship - Week 9](/usmle/im/week9.html) | Windsor University |
-| **M3** Psychiatry Clerkship - Week 3 | Northeast Ohio Medical University |
+| **M3** [Psychiatry Clerkship - Week 3](/usmle/psych/week3.html) | Northeast Ohio Medical University |
 | **Week 45** |  |
 | **M3** [Internal Medicine Clerkship - Week 10](/usmle/im/week10.html) | Windsor University |
-| **M3** Psychiatry Clerkship - Week 4 | Northeast Ohio Medical University |
+| **M3** [Psychiatry Clerkship - Week 4](/usmle/psych/week4.html) | Northeast Ohio Medical University |
 | **Week 46** |  |
 | **M3** [Internal Medicine Clerkship - Week 11](/usmle/im/week11.html) | Windsor University |
-| **M3** Psychiatry Clerkship - Week 5 | Northeast Ohio Medical University |
+| **M3** [Psychiatry Clerkship - Week 5](/usmle/psych/week5.html) | Northeast Ohio Medical University |
 | **Week 47** |  |
 | **M3** Neurology Clerkship - Week 1 | University of North Dakota |
 | **M3** Neurology Clerkship - Week 2 | University of North Dakota |
