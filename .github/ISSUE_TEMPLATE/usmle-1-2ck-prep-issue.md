@@ -2,7 +2,7 @@
 name: USMLE 1+2CK prep issue
 about: A single-course reading checklist for a week.
 title: ''
-labels: usmle prep
+labels: USMLE prep
 assignees: pvzhelnov
 
 ---
