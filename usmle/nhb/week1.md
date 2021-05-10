@@ -93,11 +93,15 @@ WL 102 P9547 2013, Reserve Core, 2nd floor Information Desk
 HTML to Markdown conversion with Turndown by Dom Christie
 https://domchristie.github.io/turndown/
 
-Sources:
-- https://guides.utmb.edu/nhb/week1
+Source:
+https://guides.utmb.edu/nhb/week1
 Captured on May the Fourth, 2021
-- https://boardsbeyond.com/category/step-1/neurology
-Captured on May 7, 2021
-- https://www.utmb.edu/ar/ -> Search Library Resources
-Captured on May 8, 2021
+
+First Aid references from:
+https://boardsbeyond.com/category/step-1/neurology
+Reviewed on May 7, 2021
+
+Kandel & Schwartz edition from:
+https://www.utmb.edu/ar/ -> Search Library Resources
+Reviewed on May 8, 2021
 ```
