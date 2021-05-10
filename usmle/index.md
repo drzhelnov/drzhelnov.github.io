@@ -46,6 +46,7 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 | **M1** Module 3 [Molecules, Cells, and Tissues - Week 3](/usmle/mct/week3.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 4 [Pathobiology and Host Defense - Week 3 Auto-immunity and Transplantation](/usmle/phd/week3.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 5 [Neuroscience and Human Behavior - Week 3](/usmle/nhb/week3.html) | University of Texas Medical Branch at Galveston |
+| _Longitudinal_ [Practice of Medicine at M1 Module 3 - Professional Identity Formation](/usmle/pom1/pif.html) | University of Texas Medical Branch at Galveston |
 | **Week 4** |  |
 | **M1** Module 1 [META: Mindfully Evolving, Thriving & Advocating - Week 4](/usmle/meta/week4.html) | University of Texas Medical Branch at Galveston |
 | **M1** Module 2 [Gross Anatomy/Radiology - Week 4](/usmle/gar/week4.html) | University of Texas Medical Branch at Galveston |
