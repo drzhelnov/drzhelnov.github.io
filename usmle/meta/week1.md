@@ -221,10 +221,9 @@ Bates' Visual Guide to Physical Examination
 
 Handouts Complementing the Library Lab
 
-*   [Library Lab Outline](https://guides.utmb.edu/ld.php?content_id=55939917)
+*   [Library Lab Outline](/usmle/meta/LibraryLabOutline.pdf)
     
-*   [Evaluating Health Information and Literature Validity](https://guides.utmb.edu/ld.php?content_id=55939861)
-    
+*   [Evaluating Health Information and Literature Validity](/usmle/meta/EvalResources-LitValidity.pdf)
 
 *   [Library Lab Exercises](https://utmb.libwizard.com/f/meta-librarylab)
     
@@ -255,4 +254,12 @@ https://domchristie.github.io/turndown/
 Source:
 https://guides.utmb.edu/meta/week1
 Captured on May the Fourth, 2021
+
+Library Lab Outline:
+https://guides.utmb.edu/ld.php?content_id=55939917
+Captured on May 10, 2021
+
+Evaluating Health Information and Literature Validity:
+https://guides.utmb.edu/ld.php?content_id=55939861
+Captured on May 10, 2021
 ```
