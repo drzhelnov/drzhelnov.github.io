@@ -1,3 +1,7 @@
+---
+description: A public self-learning USMLE prep schedule constructed from actual U.S. med schools’ syllabi.
+---
+
 # USMLE 1+2CK Prep for IMGs in 50 Weeks
 
 ## An Amalgam Schedule Made of U.S. Med Schools’ Syllabi
