@@ -25,6 +25,8 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 **⚠ Disclaimer: This is an unofficial publication neither affiliated nor endorsed by the FSMB, NBME®, or USMLE® program. For official information please visit usmle.org or other relevant resources.**
 
+[View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/tcom.md) to create a custom copy. Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). Enjoy!
+
 ## Medical Knowledge/Scientific Concepts
 
 **Applying Foundational Science Concepts**
