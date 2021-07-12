@@ -20,6 +20,10 @@ My idea was to take existing curricula of various (preferably fewer and higher-r
 
 Not all the curricular content was available for inclusion, but hopefully, this was enough. Sorry for any links that might get broken with time. Consider replacing unavailable readings with similar ones at hand, like I, too, did. [View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/index.md) to create a custom copy. Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). My own prep reports are public as [GitHub issues](https://github.com/drzhelnov/drzhelnov.github.io/issues?q=is%3Aissue+label%3A%22USMLE+prep%22) (currently on pause). Enjoy!
 
+**NEW!** [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom.md)
+
+**COMING SOON** Interactive USMLE Content Outline
+
 -----
 
 | Syllabus | U.S. Med School |
