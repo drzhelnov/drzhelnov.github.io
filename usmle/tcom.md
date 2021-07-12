@@ -1,6 +1,6 @@
 ---
 description: An interactive version of the official 2020 outline of the tasks and competencies assessed throughout the sequence of USMLE examinations. Outline copyright © by the FSMB and NBME®.
-permalink: /tcom/
+permalink: /usmle/tcom/
 ---
 
 # Interactive USMLE Physician Tasks/Competencies
