@@ -1,5 +1,6 @@
 ---
 description: An interactive version of the official 2020 outline of the tasks and competencies assessed throughout the sequence of USMLE examinations. Outline copyright © by the FSMB and NBME®.
+permalink: /tcom/
 ---
 
 # Interactive USMLE Physician Tasks/Competencies
@@ -16,7 +17,7 @@ An excerpt from the [original publication](https://www.usmle.org/pdfs/tcom.pdf) 
 
 > USMLE Physician Tasks/Competencies provides an outline of the tasks and competencies assessed throughout the sequence of USMLE examinations. While this outline is common to all exams, each Step has test specifications specific to that Step. Each Step exam emphasizes certain parts of the tasks/competencies outline, and no single examination includes assessment of all topics in the outline.
 
-Interactive features are under development. I presume this outline as well as the [USMLE Content Outline](/usmle/usmlecontentoutline.md) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](https://drzhelnov.com/usmle/) so that each task/competency on the outline linked to specific self-learning resources.
+Interactive features are under development. I presume this outline as well as the [USMLE Content Outline](/usmle/usmlecontentoutline/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) so that each task/competency on the outline linked to specific self-learning resources.
 
 I do not own any outline content, just reproduce it for self-learning purposes and in good faith:
 
