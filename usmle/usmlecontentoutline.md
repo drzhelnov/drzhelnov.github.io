@@ -27,7 +27,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 **⚠ Disclaimer: This is an unofficial publication not affiliated nor endorsed by the FSMB, NBME®, or USMLE® program. For official information please visit usmle.org or other relevant resources.**
 
-[View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/usmlecontentoutline.md) to create a custom copy. Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). Enjoy!
+[View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/usmlecontentoutline.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). Enjoy!
 
 ## Table of Contents
 {: .no_toc}
