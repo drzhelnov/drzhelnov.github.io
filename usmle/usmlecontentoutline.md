@@ -681,64 +681,56 @@ Signal transduction, including structure/function of all components of signal tr
 
 ## Renal & Urinary System
 
-  Normal Processes
-     Embryonic development, fetal maturation, and perinatal changes
-     Organ structure and function
-        kidneys, ureters, bladder, urethra
-        glomerular filtration and hemodynamics
-        urine concentration and dilution
-                                              18
-       renal mechanisms in acid-base balance
-       renal mechanisms in body fluid homeostasis
-       micturition
-   Cell/tissue structure and function
-       renal metabolism and oxygen consumption
-       tubular reabsorption and secretion, including transport processes and proteins
-       hormones produced by or acting on the kidney (eg, renin, aldosterone, angiotensin II,
-            vasopressin)
-   Repair, regeneration, and changes associated with stage of life
-Abnormal Processes: Health and Health Maintenance, Screening, Diagnosis,
-   Management, Risks, Prognosis
-   Infectious, immunologic, and inflammatory disorders
-       infectious disorders
-            upper urinary tract: granulomatous pyelonephritis; perinephric abscess;
-                pyelonephritis; pyonephrosis; renal abscess; renal tuberculosis
-            lower urinary tract and urinary tract infections of unspecified location: cystitis;
-                chlamydial and nonchlamydial
-       immunologic and inflammatory disorders
-            upper urinary tract
-                glomerular disorders: Alport syndrome; glomerular disease due to hepatitis
-                     B, C; glomerulonephritis, including poststreptococcal; IgA nephropathy;
-                     lupus nephritis; minimal change disease; nephrotic syndrome; thin
-                     basement membrane disease
-                tubular interstitial disease: acute tubular necrosis (ATN); acute
-                     interstitial nephritis; papillary necrosis; HIV nephropathy
-            lower urinary tract: interstitial cystitis
-   Neoplasms
-       benign neoplasms and cysts: polycystic kidney disease
-       malignant neoplasms: renal (eg, Wilms tumor/nephroblastoma, renal cell carcinoma,
-            renal tumors associated with congenital/hereditary conditions); urinary bladder and
-            collecting system
-   Signs, symptoms, and ill-defined disorders: dysuria; hematuria; oliguria, anuria; proteinuria
-   Metabolic and regulatory disorders: acute kidney injury; renal insufficiency; azotemia,
-       uremic syndrome; chronic kidney disease, including end-stage renal disease;
-       cystinuria; Fanconi syndrome; hypertensive renal disease (renal complications of
-       hypertension); renal calculi, ureteral calculi, nephrolithiasis; renal tubular acidosis
-   Vascular disorders: renal artery stenosis (atherosclerosis, fibromuscular dysplasia,
-       nephrosclerosis); renal vein thrombosis; renal infarction
-   Traumatic and mechanical disorders: bladder rupture; neurogenic bladder; obstructive
-       uropathy; posterior urethral valves; renal laceration; renal vascular injury; ureteral
-       laceration/avulsion/disruption; urethral diverticulum; obstruction/stricture/prolapse,
-       urethral/ureteral, vaginal walls, uterine, uterovaginal; urinary incontinence, including
-       secondary enuresis; vesicoureteral reflux
-   Congenital disorders: double ureters/ureteral duplication/double collecting system;
-       horseshoe kidney; hydronephrosis/reflux; renal agenesis, renal hypoplasia, renal
-       dysplasia; single kidney
-   Adverse effects of drugs on the renal and urinary system: ACE inhibitors; aminoglycosides;
-       amphotericin B; cisplatin; furosemide; gadolinium (nephrogenic systemic fibrosis);
-       heroin; iodinated contrast dye; lithium; NSAIDs; penicillins; sulfa drugs; tenofovir; drug -
-                                            19
-         induced urinary retention
+### Normal Processes
+
+**Embryonic development, fetal maturation, and perinatal changes**
+
+**Organ structure and function**
+
+- kidneys, ureters, bladder, urethra
+- glomerular filtration and hemodynamics
+- urine concentration and dilution
+- renal mechanisms in acid-base balance
+- renal mechanisms in body fluid homeostasis
+- micturition
+
+**Cell/tissue structure and function**
+
+- renal metabolism and oxygen consumption
+- tubular reabsorption and secretion, including transport processes and proteins
+- hormones produced by or acting on the kidney (eg, renin, aldosterone, angiotensin II, vasopressin)
+
+**Repair, regeneration, and changes associated with stage of life**
+
+### Abnormal Processes: Health and Health Maintenance, Screening, Diagnosis, Management, Risks, Prognosis
+
+**Infectious, immunologic, and inflammatory disorders **
+
+- **infectious disorders**
+  - **upper urinary tract:** granulomatous pyelonephritis; perinephric abscess; pyelonephritis; pyonephrosis; renal abscess; renal tuberculosis
+  - **lower urinary tract and urinary tract infections of unspecified location:** cystitis; chlamydial and nonchlamydial
+- **immunologic and inflammatory disorders**
+  - **upper urinary tract**
+    - **glomerular disorders:** Alport syndrome; glomerular disease due to hepatitis B, C; glomerulonephritis, including poststreptococcal; IgA nephropathy; lupus nephritis; minimal change disease; nephrotic syndrome; thin basement membrane disease
+    - **tubular interstitial disease:** acute tubular necrosis (ATN); acute interstitial nephritis; papillary necrosis; HIV nephropathy
+  - **lower urinary tract:** interstitial cystitis
+
+**Neoplasms**
+
+- **benign neoplasms and cysts:** polycystic kidney disease
+- **malignant neoplasms:** renal (eg, Wilms tumor/nephroblastoma, renal cell carcinoma, renal tumors associated with congenital/hereditary conditions); urinary bladder and collecting system
+
+**Signs, symptoms, and ill-defined disorders:** dysuria; hematuria; oliguria, anuria; proteinuria
+
+**Metabolic and regulatory disorders:** acute kidney injury; renal insufficiency; azotemia, uremic syndrome; chronic kidney disease, including end-stage renal disease; cystinuria; Fanconi syndrome; hypertensive renal disease (renal complications of hypertension); renal calculi, ureteral calculi, nephrolithiasis; renal tubular acidosis
+
+**Vascular disorders:** renal artery stenosis (atherosclerosis, fibromuscular dysplasia, nephrosclerosis); renal vein thrombosis; renal infarction
+
+**Traumatic and mechanical disorders:** bladder rupture; neurogenic bladder; obstructive uropathy; posterior urethral valves; renal laceration; renal vascular injury; ureteral laceration/avulsion/disruption; urethral diverticulum; obstruction/stricture/prolapse, urethral/ureteral, vaginal walls, uterine, uterovaginal; urinary incontinence, including secondary enuresis; vesicoureteral reflux
+
+**Congenital disorders:** double ureters/ureteral duplication/double collecting system; horseshoe kidney; hydronephrosis/reflux; renal agenesis, renal hypoplasia, renal dysplasia; single kidney
+
+**Adverse effects of drugs on the renal and urinary system:** ACE inhibitors; aminoglycosides; amphotericin B; cisplatin; furosemide; gadolinium (nephrogenic systemic fibrosis); heroin; iodinated contrast dye; lithium; NSAIDs; penicillins; sulfa drugs; tenofovir; drug-induced urinary retention
 
 ## Pregnancy, Childbirth, & the Puerperium
 
