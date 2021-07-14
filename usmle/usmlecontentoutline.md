@@ -560,186 +560,124 @@ Signal transduction, including structure/function of all components of signal tr
 
 ## Respiratory System
 
-  Normal Processes
-     Embryonic development, fetal maturation, and perinatal changes
-     Organ structure and function
-         airways, including mechanics and regulation of breathing
-         lung parenchyma, including ventilation, perfusion, gas exchange
-         pleura
-         nasopharynx, sinuses
-     Cell/tissue structure and function, including surfactant formation, and alveolar structure
-     Repair, regeneration, and changes associated with stage of life
-     Pulmonary defense mechanisms and normal flora
-  Abnormal Processes: Health and Health Maintenance, Screening, Diagnosis,
-     Management, Risks, Prognosis
-     Infectious, immunologic, and inflammatory disorders
-         infectious, immunologic, and inflammatory disorders of the upper airways: acute
-             upper respiratory infection; viral infections (adenovirus, coronaviruses,
-             coxsackievirus, influenza virus, parainfluenza virus, rhinoviruses); sinusitis;
-             nasopharyngitis; epiglottitis; Bordetella pertussis pneumonia; croup; acute
-             laryngitis; acute laryngotracheitis; tracheitis; pharyngitis; streptococcal throat
-             infections; tonsillitis; peritonsillar abscess; rhinitis, allergic, chronic; ulcers of nasal
-             cavity/sinuses
-         infectious, immunologic, and inflammatory disorders of the lower airways: hospital-
-             acquired pneumonia; ventilator-associated pneumonia, community-acquired
-             pneumonia, acute bronchiolitis; bronchiolitis obliterans with organizing pneumonia
-             (BOOP); anthrax, pulmonary (Bacillus anthracis); aspiration pneumonia, pneumonitis;
-             bronchitis, acute; bronchopneumonia; pneumonia (Burkholderia pseudomallei,
-             Chlamydophila pneumoniae, Coxiella burnetii, Francisella tularensis, Haemophilus
-             influenzae, Klebsiella pneumoniae, Legionella, Moraxella catarrhalis, Mycoplasma
-             pneumoniae, Pseudomonas aeruginosa, Streptococcus, MSSA, MRSA, other
-             gram‐negative bacteria); viral infection (eg, influenza A, B, adenovirus, H1N1,
-             respiratory syncytial virus, parainfluenza virus); fungal infection (aspergillosis, including
-             allergic bronchopulmonary aspergillosis and aspergilloma, histoplasmosis,
-             coccidioidomycosis, Pneumocystis jirovecii); pulmonary tuberculosis; lung abscess;
-             viral infection (eg, influenza A, B, adenovirus, respiratory syncytial virus,
-             parainfluenza virus, avian influenza virus); fungal infection (aspergillosis, including
-             allergic bronchopulmonary aspergillosis and aspergilloma, histoplasmosis,
-             coccidioidomycosis, Pneumocystis jirovecii)
-     Neoplasms
-         benign neoplasms: upper airways (eg, vocal cord polyps, nasal polyps, juvenile
-             papillomatosis); lungs and pleura (eg, solitary pulmonary nodule, bronchial
-                                                15
-             carcinoid tumors)
-         malignant neoplasms
-             upper airways: lip, oral cavity, and pharynx; head and neck cancer; larynx;
-                  trachea
-             lower airways and pleura: malignant neoplasms of bronchus and/or lung (squamous
-                  cell, adenocarcinoma, large cell, small cell); malignant neoplasms of pleura
-                  (mesothelioma); secondary malignant neoplasms of lung; secondary malignant
-                  neoplasms of pleura
-         metastatic neoplasms including pleural
-     Obstructive airway disease: asthma, reactive airway disease; bronchiectasis; chronic airway
-         obstruction; chronic obstructive pulmonary disease (COPD), chronic bronchitis,
-         emphysema
-     Pneumoconiosis/fibrosing/restrictive pulmonary disorders/interstitial lung disease:
-         pneumoconiosis; asbestosis; silicosis; silo-filler's lung, byssinosis, bagassosis,
-         berylliosis; hypersensitivity pneumonitis; hypereosinophilic syndromes, Loeffler
-         syndrome; interstitial pneumonia, usual (UIP), desquamative (DIP), nonspecific
-     Respiratory failure/respiratory arrest and pulmonary vascular disorders: acute respiratory
-         distress syndrome (ARDS); pulmonary hypertension; pulmonary vascular disorders,
-         arteriovenous fistula; pulmonary edema, pulmonary cause and unspecified; pulmonary
-         embolism; air and fat embolism; respiratory failure due to enteral feeding
-     Metabolic, regulatory, and structural disorders: disorders of gas exchange; hypoventilation;
-         hypoxia; pulmonary alveolar proteinosis; ventilation-perfusion imbalance
-     Disorders of the pleura, mediastinum, and chest wall: chylothorax; costochondritis;
-         empyema; hemothorax; mediastinitis; pleural effusion; pleuritis;
-         pneumomediastinum; pneumothorax
-     Traumatic and mechanical disorders
-         upper airways: epistaxis; barotrauma, sinus; laryngeal/pharyngeal obstruction;
-             tracheoesophageal fistula; tracheal stenosis; tracheomalacia; trauma (eg, tracheal
-             injury); foreign body (nose, pharynx, larynx, trachea); traumatic/mechanical
-             disorders of the nasal cavity/sinuses (eg, septal perforation)
-         lower airways and pleura: atelectasis; diaphragm/chest wall injury; drowning and near-
-             drowning; foreign body, upper and lower respiratory tract; penetrating chest wounds;
-             pulmonary contusion; sleep apnea, obstructive and central; hypoventilation
-             syndrome, obesity-hypoventilation syndrome
-     Congenital disorders: bronchogenic cysts; congenital cysts; congenital diaphragmatic
-         hernia; pulmonary sequestration; immotile cilia syndrome
-     Adverse effects of drugs on the respiratory system: bleomycin, amiodarone; adverse
-         effects of 100% oxygen; acute effects of tobacco/nicotine, inhalants, cocaine
+### Normal Processes
+
+**Embryonic development, fetal maturation, and perinatal changes**
+
+**Organ structure and function**
+
+- airways, including mechanics and regulation of breathing
+- lung parenchyma, including ventilation, perfusion, gas exchange
+- pleura
+- nasopharynx, sinuses
+
+**Cell/tissue structure and function, including surfactant formation, and alveolar structure**
+
+**Repair, regeneration, and changes associated with stage of life**
+
+**Pulmonary defense mechanisms and normal flora**
+
+### Abnormal Processes: Health and Health Maintenance, Screening, Diagnosis, Management, Risks, Prognosis
+
+**Infectious, immunologic, and inflammatory disorders**
+
+- **infectious, immunologic, and inflammatory disorders of the upper airways:** acute upper respiratory infection; viral infections (adenovirus, coronaviruses, coxsackievirus, influenza virus, parainfluenza virus, rhinoviruses); sinusitis; nasopharyngitis; epiglottitis; _Bordetella pertussis_ pneumonia; croup; acute laryngitis; acute laryngotracheitis; tracheitis; pharyngitis; streptococcal throat infections; tonsillitis; peritonsillar abscess; rhinitis, allergic, chronic; ulcers of nasal cavity/sinuses
+- **infectious, immunologic, and inflammatory disorders of the lower airways:** hospital-acquired pneumonia; ventilator-associated pneumonia, community-acquired pneumonia, acute bronchiolitis; bronchiolitis obliterans with organizing pneumonia (BOOP); anthrax, pulmonary (_Bacillus anthracis_); aspiration pneumonia, pneumonitis; bronchitis, acute; bronchopneumonia; pneumonia (_Burkholderia pseudomallei, Chlamydophila pneumoniae, Coxiella burnetii, Francisella tularensis, Haemophilus influenzae, Klebsiella pneumoniae, Legionella, Moraxella catarrhalis, Mycoplasma pneumoniae, Pseudomonas aeruginosa, Streptococcus,_ MSSA, MRSA, other gram‐negative bacteria); viral infection (eg, influenza A, B, adenovirus, H1N1, respiratory syncytial virus, parainfluenza virus, avian influenza virus[, **SARS-CoV-2**­—_added by Pavel Zhelnov, MD; unsure why not there to begin with_]); fungal infection (aspergillosis, including allergic bronchopulmonary aspergillosis and aspergilloma, histoplasmosis, coccidioidomycosis, _Pneumocystis jirovecii_); pulmonary tuberculosis; lung abscess
+
+**Neoplasms**
+
+- **benign neoplasms:** upper airways (eg, vocal cord polyps, nasal polyps, juvenile papillomatosis); lungs and pleura (eg, solitary pulmonary nodule, bronchial carcinoid tumors)
+- **malignant neoplasms**
+  - **upper airways:** lip, oral cavity, and pharynx; head and neck cancer; larynx; trachea
+  - **lower airways and pleura:** malignant neoplasms of bronchus and/or lung (squamous cell, adenocarcinoma, large cell, small cell); malignant neoplasms of pleura (mesothelioma); secondary malignant neoplasms of lung; secondary malignant neoplasms of pleura
+  - **metastatic neoplasms including pleural**
+
+**Obstructive airway disease:** asthma, reactive airway disease; bronchiectasis; chronic airway obstruction; chronic obstructive pulmonary disease (COPD), chronic bronchitis, emphysema
+
+**Pneumoconiosis/fibrosing/restrictive pulmonary disorders/interstitial lung disease:** pneumoconiosis; asbestosis; silicosis; silo-filler's lung, byssinosis, bagassosis, berylliosis; hypersensitivity pneumonitis; hypereosinophilic syndromes, Loeffler syndrome; interstitial pneumonia, usual (UIP), desquamative (DIP), nonspecific
+
+**Respiratory failure/respiratory arrest and pulmonary vascular disorders:** acute respiratory distress syndrome (ARDS); pulmonary hypertension; pulmonary vascular disorders, arteriovenous fistula; pulmonary edema, pulmonary cause and unspecified; pulmonary embolism; air and fat embolism; respiratory failure due to enteral feeding
+
+**Metabolic, regulatory, and structural disorders:** disorders of gas exchange; hypoventilation; hypoxia; pulmonary alveolar proteinosis; ventilation-perfusion imbalance
+
+**Disorders of the pleura, mediastinum, and chest wall:** chylothorax; costochondritis; empyema; hemothorax; mediastinitis; pleural effusion; pleuritis; pneumomediastinum; pneumothorax
+
+**Traumatic and mechanical disorders**
+
+- **upper airways:** epistaxis; barotrauma, sinus; laryngeal/pharyngeal obstruction; tracheoesophageal fistula; tracheal stenosis; tracheomalacia; trauma (eg, tracheal injury); foreign body (nose, pharynx, larynx, trachea); traumatic/mechanical disorders of the nasal cavity/sinuses (eg, septal perforation)
+- **lower airways and pleura:** atelectasis; diaphragm/chest wall injury; drowning and near-drowning; foreign body, upper and lower respiratory tract; penetrating chest wounds; pulmonary contusion; sleep apnea, obstructive and central; hypoventilation syndrome, obesity-hypoventilation syndrome
+
+**Congenital disorders:** bronchogenic cysts; congenital cysts; congenital diaphragmatic hernia; pulmonary sequestration; immotile cilia syndrome
+
+**Adverse effects of drugs on the respiratory system:** bleomycin, amiodarone; adverse effects of 100% oxygen; acute effects of tobacco/nicotine, inhalants, cocaine
 
 ## Gastrointestinal System
 
-  Normal Processes
-     Embryonic development, fetal maturation, and perinatal changes
-     Organ structure and function
-        anatomy of the alimentary canal, including mouth, pharynx, esophagus, stomach, small
-             intestine, large intestine, anus, peritoneal cavity
-        liver and biliary system, including enterohepatic circulation
-        salivary glands and exocrine pancreas
-        gastrointestinal motility, including defecation digestion and absorption
-                                            16
-   Cell/tissue structure and function
-       endocrine and neural regulatory functions, including GI hormones (eg, gastrin)
-       salivary, gastrointestinal, pancreatic, hepatic secretory products, including enzymes,
-            proteins, bile salts, and processes
-       synthetic and metabolic functions of hepatocytes
-   Repair, regeneration, and changes associated with stage of life
-   Gastrointestinal defense mechanisms and normal flora
-Abnormal Processes: Health and Health Maintenance, Screening, Diagnosis,
-   Management, Risks, Prognosis
-   Infectious, immunologic, and inflammatory disorders
-       infectious disorders
-            bacterial: pseudomembranous colitis (Clostridium difficile); enteritis/enteric infections
-                 (includes gastroenteritis) (eg, Staphylococcus aureus, Escherichia coli, Listeria
-                 monocytogenes, Yersinia enterocolitica, Campylobacter species, Vibrio cholerae,
-                 Salmonella species, Shigella species, traveler's/infectious diarrhea); hepatic
-                 abscess, subhepatic abscess, subphrenic abscess; peritonitis, primary and
-                 secondary; Whipple disease
-            viral: infectious esophagitis (eg, CMV, herpes); hepatitis A, B, C, D, E; coxsackievirus
-                 enteritis/colitis; Echovirus enteritis/colitis; rotavirus enteritis; mumps;
-                 gingivostomatitis, herpetic
-            fungal: thrush
-            parasitic: Cryptosporidium, Cyclospora, Entamoeba histolytica, Giardia, Isospora belli,
-                 Strongyloides stercoralis
-       immunologic and inflammatory disorders: autoimmune hepatitis; celiac disease;
-            eosinophilic esophagitis; granulomatous enteritis; inflammatory bowel disease,
-            including Crohn disease, regional enteritis, microscopic colitis (collagenous and
-            lymphocytic colitis), ulcerative colitis, toxic megacolon
-   Neoplasms
-       benign neoplasms, including polyps, cysts: stomach; small intestine; colon, rectum, and
-            anus, including polyps
-       malignant neoplasms and pre-malignant conditions: oral cancer (eg, lips, mouth, tongue,
-            salivary glands); esophageal, squamous and adenocarcinoma; Barrett esophagus;
-            gastrinoma, Zollinger-Ellison syndrome; gastrointestinal carcinoid tumors;
-            gastrointestinal stromal tumors; small intestine; stomach, adenocarcinoma,
-            lymphoma, MALT; colon, rectum, anus; hereditary colon cancer syndromes, familial
-            adenomatous polyposis (eg, Peutz-Jeghers syndrome, Gardner syndrome, Turcot
-            syndrome, ); MUTYH-associated polyposis; gallbladder, cholangiocarcinoma,
-            adenocarcinoma of the ampulla of Vater; liver, including hepatoma; peritoneal
-            cancer, including metastatic studding with cancer; pancreas
-       metastatic neoplasms
-   Signs, symptoms, and ill-defined disorders: upper gastrointestinal bleeding; lower
-       gastrointestinal bleeding; constipation; diarrhea; hematochezia; bright red rectal
-       bleeding; melena; nausea, vomiting, rumination
-   Disorders of the oral cavity, salivary glands, and esophagus
-       oral cavity and salivary glands: abscessed tooth; dental caries; malocclusion;
-            disorders of the salivary glands (eg, stones, sialadenitis, parotitis)
-       esophagus: achalasia and cardiospasm; dysphagia; diverticulum (eg, Zenker);
-            esophageal periapical abscess without sinus; esophagitis/esophageal reflux
-            (GERD); esophagitis, pill; Mallory-Weiss syndrome; paraesophageal (hiatal) hernia;
-                                            17
-              stricture and stenosis of esophagus
-     Disorders of the stomach, small intestine, colon, rectum, anus
-         stomach: dyspepsia/hyperacidity; gastric ulcer; gastritis; peptic ulcer; peptic ulcer
-              perforation; gastroparesis
-         small intestine, colon: appendicitis; angiodysplasia; diverticula, diverticulitis,
-              diverticulosis; duodenitis, duodenal ulcer, peptic ulcer; gastroenteritis and colitis
-              (noninfectious); granulomatous enterocolitis; Hirschsprung disease; impaction of
-              intestine; intestinal obstruction/stricture; intussusception; irritable colon/irritable
-              bowel syndrome; mesenteric ischemia/ischemic bowel/ischemic colitis; necrotizing
-              enterocolitis; paralytic ileus; volvulus; malnutrition and malabsorption, including
-              lactose intolerance, short bowel syndrome
-         rectum and anus: abscess of anal and rectal regions; anal fissure; anal fistula; ulcer;
-              fecal incontinence; hemorrhage (rectum, anus); proctitis; hemorrhoids; rectal
-              prolapse
-     Disorders of the liver and biliary system, noninfectious
-         liver: cirrhosis; Dubin-Johnson, Rotor syndromes; end-stage liver disease, including
-              indications for transplantation; Gilbert syndrome, Crigler-Najjar syndrome; hepatic
-              coma/hepatic encephalopathy; hepatitis, noninfectious; hepatitis, fatty liver,
-              alcoholic; hepatorenal syndrome; hepatopulmonary syndrome; jaundice; non-
-              alcoholic fatty liver disease; portal hypertension/esophageal varices
-         biliary system: bile duct obstruction/cholestasis; cholangitis, including ascending;
-              choledocholithiasis; cholelithiasis/cholecystitis; cholestasis due to parenteral
-              nutrition; gallstone ileus; Mirizzi syndrome; primary biliary cirrhosis; primary
-              sclerosing cholangitis
-     Disorders of the pancreas: pancreatitis, acute; pancreatitis, chronic; pancreatitis,
-         hereditary; pancreatic cyst/pseudocyst; pancreatic duct obstruction; pancreatic
-              insufficiency
-     Disorders of the peritoneal cavity: ascites
-     Traumatic and mechanical disorders: abdominal wall defects; adhesions, postsurgical;
-         digestive system complications of surgery; post-gastric surgery syndromes (eg, blind loop
-         syndrome, adhesions); duodenal tear; foreign body in digestive system; inguinal, femoral,
-         and abdominal wall hernias; open wound, abdominal; perforation of hollow viscus and
-         blunt trauma; perforation/rupture of esophagus (Boerhaave syndrome); umbilical hernia
-     Congenital disorders: annular pancreas, biliary atresia, cleft lip and palate, esophageal
-         atresia, malrotation without volvulus, Meckel diverticulum, pyloric stenosis,
-         tracheoesophageal fistula
-     Adverse effects of drugs on the gastrointestinal system: drug-induced changes in motility
-         (chronic laxative abuse, opioids); drug-induced gastritis, duodenitis, peptic ulcer disease
-         (NSAIDs); drug-induced hepatitis (eg, acetaminophen, isoniazid); drug-induced
-         pancreatitis (eg, thiazide diuretics)
+### Normal Processes
+
+**Embryonic development, fetal maturation, and perinatal changes**
+
+**Organ structure and function**
+
+- anatomy of the alimentary canal, including mouth, pharynx, esophagus, stomach, small intestine, large intestine, anus, peritoneal cavity
+- liver and biliary system, including enterohepatic circulation
+- salivary glands and exocrine pancreas
+- gastrointestinal motility, including defecation digestion and absorption
+
+**Cell/tissue structure and function**
+
+- endocrine and neural regulatory functions, including GI hormones (eg, gastrin)
+- salivary, gastrointestinal, pancreatic, hepatic secretory products, including enzymes, proteins, bile salts, and processes
+- synthetic and metabolic functions of hepatocytes
+
+**Repair, regeneration, and changes associated with stage of life**
+
+**Gastrointestinal defense mechanisms and normal flora**
+
+### Abnormal Processes: Health and Health Maintenance, Screening, Diagnosis, Management, Risks, Prognosis
+
+**Infectious, immunologic, and inflammatory disorders**
+
+- **infectious disorders**
+  - **bacterial:** pseudomembranous colitis (_Clostridium difficile_); enteritis/enteric infections (includes gastroenteritis) (eg, _Staphylococcus aureus, Escherichia coli, Listeria monocytogenes, Yersinia enterocolitica, Campylobacter species, Vibrio cholerae, Salmonella_ species, _Shigella_ species, traveler's/infectious diarrhea); hepatic abscess, subhepatic abscess, subphrenic abscess; peritonitis, primary and secondary; Whipple disease
+  - **viral:** infectious esophagitis (eg, CMV, herpes); hepatitis A, B, C, D, E; coxsackievirus enteritis/colitis; Echovirus enteritis/colitis; rotavirus enteritis; mumps; gingivostomatitis, herpetic
+  - **fungal:** thrush
+  - **parasitic:** _Cryptosporidium, Cyclospora, Entamoeba histolytica, Giardia, Isospora belli, Strongyloides stercoralis_
+- **immunologic and inflammatory disorders:** autoimmune hepatitis; celiac disease; eosinophilic esophagitis; granulomatous enteritis; inflammatory bowel disease, including Crohn disease, regional enteritis, microscopic colitis (collagenous and lymphocytic colitis), ulcerative colitis, toxic megacolon
+
+**Neoplasms**
+
+- **benign neoplasms, including polyps, cysts:** stomach; small intestine; colon, rectum, and anus, including polyps
+- **malignant neoplasms and pre-malignant conditions:** oral cancer (eg, lips, mouth, tongue, salivary glands); esophageal, squamous and adenocarcinoma; Barrett esophagus; gastrinoma, Zollinger-Ellison syndrome; gastrointestinal carcinoid tumors; gastrointestinal stromal tumors; small intestine; stomach, adenocarcinoma, lymphoma, MALT; colon, rectum, anus; hereditary colon cancer syndromes, familial adenomatous polyposis (eg, Peutz-Jeghers syndrome, Gardner syndrome, Turcot syndrome); MUTYH-associated polyposis; gallbladder, cholangiocarcinoma, adenocarcinoma of the ampulla of Vater; liver, including hepatoma; peritoneal cancer, including metastatic studding with cancer; pancreas
+- **metastatic neoplasms**
+
+**Signs, symptoms, and ill-defined disorders:** upper gastrointestinal bleeding; lower gastrointestinal bleeding; constipation; diarrhea; hematochezia; bright red rectal bleeding; melena; nausea, vomiting, rumination
+
+**Disorders of the oral cavity, salivary glands, and esophagus**
+
+- **oral cavity and salivary glands:** abscessed tooth; dental caries; malocclusion; disorders of the salivary glands (eg, stones, sialadenitis, parotitis)
+- **esophagus:** achalasia and cardiospasm; dysphagia; diverticulum (eg, Zenker); esophageal periapical abscess without sinus; esophagitis/esophageal reflux (GERD); esophagitis, pill; Mallory-Weiss syndrome; paraesophageal (hiatal) hernia; stricture and stenosis of esophagus
+
+**Disorders of the stomach, small intestine, colon, rectum, anus**
+
+- **stomach:** dyspepsia/hyperacidity; gastric ulcer; gastritis; peptic ulcer; peptic ulcer perforation; gastroparesis
+- **small intestine, colon:** appendicitis; angiodysplasia; diverticula, diverticulitis, diverticulosis; duodenitis, duodenal ulcer, peptic ulcer; gastroenteritis and colitis (noninfectious); granulomatous enterocolitis; Hirschsprung disease; impaction of intestine; intestinal obstruction/stricture; intussusception; irritable colon/irritable bowel syndrome; mesenteric ischemia/ischemic bowel/ischemic colitis; necrotizing enterocolitis; paralytic ileus; volvulus; malnutrition and malabsorption, including lactose intolerance, short bowel syndrome
+- **rectum and anus:** abscess of anal and rectal regions; anal fissure; anal fistula; ulcer; fecal incontinence; hemorrhage (rectum, anus); proctitis; hemorrhoids; rectal prolapse
+
+**Disorders of the liver and biliary system, noninfectious**
+
+- **liver:** cirrhosis; Dubin-Johnson, Rotor syndromes; end-stage liver disease, including indications for transplantation; Gilbert syndrome, Crigler-Najjar syndrome; hepatic coma/hepatic encephalopathy; hepatitis, noninfectious; hepatitis, fatty liver, alcoholic; hepatorenal syndrome; hepatopulmonary syndrome; jaundice; non-alcoholic fatty liver disease; portal hypertension/esophageal varices
+- **biliary system:** bile duct obstruction/cholestasis; cholangitis, including ascending; choledocholithiasis; cholelithiasis/cholecystitis; cholestasis due to parenteral nutrition; gallstone ileus; Mirizzi syndrome; primary biliary cirrhosis; primary sclerosing cholangitis
+
+**Disorders of the pancreas:** pancreatitis, acute; pancreatitis, chronic; pancreatitis, hereditary; pancreatic cyst/pseudocyst; pancreatic duct obstruction; pancreatic insufficiency
+
+**Disorders of the peritoneal cavity:** ascites
+
+**Traumatic and mechanical disorders:** abdominal wall defects; adhesions, postsurgical; digestive system complications of surgery; post-gastric surgery syndromes (eg, blind loop syndrome, adhesions); duodenal tear; foreign body in digestive system; inguinal, femoral, and abdominal wall hernias; open wound, abdominal; perforation of hollow viscus and blunt trauma; perforation/rupture of esophagus (Boerhaave syndrome); umbilical hernia
+
+**Congenital disorders:** annular pancreas, biliary atresia, cleft lip and palate, esophageal atresia, malrotation without volvulus, Meckel diverticulum, pyloric stenosis, tracheoesophageal fistula
+
+**Adverse effects of drugs on the gastrointestinal system:** drug-induced changes in motility (chronic laxative abuse, opioids); drug-induced gastritis, duodenitis, peptic ulcer disease (NSAIDs); drug-induced hepatitis (eg, acetaminophen, isoniazid); drug-induced pancreatitis (eg, thiazide diuretics)
 
 ## Renal & Urinary System
 
