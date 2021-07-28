@@ -1,8 +1,6 @@
 ---
 description: An interactive version of the official 2021 outline of content across all USMLE examinations. Outline copyright © by the FSMB and NBME®.
 permalink: /usmle/usmlecontentoutline/
-kramdown:
-  parse_block_html: true
 ---
 
 # Interactive USMLE Content Outline
@@ -36,6 +34,8 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 - TOC
 {:toc}
+
+{::options parse_block_html="true" /}
 
 ## General Principles of Foundational Science
 
