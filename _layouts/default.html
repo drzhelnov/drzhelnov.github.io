@@ -61,11 +61,11 @@
 
       /* Credit goes to connexo @ https://stackoverflow.com/a/55032002 */
 
-      details.description[open] summary span::after {
+      details[open] summary span::after {
         content: attr(data-open);
       }
 
-      details.description:not([open]) summary span::after {
+      details:not([open]) summary span::after {
         content: attr(data-close);
       }
 
