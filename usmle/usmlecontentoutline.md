@@ -1,6 +1,8 @@
 ---
 description: An interactive version of the official 2021 outline of content across all USMLE examinations. Outline copyright © by the FSMB and NBME®.
 permalink: /usmle/usmlecontentoutline/
+kramdown:
+  parse_block_html: true
 ---
 
 # Interactive USMLE Content Outline
@@ -486,8 +488,6 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Neoplasms:** benign neoplasms (e.g., ganglion cyst); malignant neoplasms of bone (eg, osteosarcoma, sarcoma, leiomyosarcoma, rhabdosarcoma); metastases to bone, secondary malignant neoplasm of bone
 
-{::options parse_block_html="true" /}
-
 <details>
 
 <summary>
@@ -499,8 +499,6 @@ Signal transduction, including structure/function of all components of signal tr
 - **degenerative/metabolic disorders of muscles, ligaments, fascia:** Dupuytren contracture; muscle calcification and ossification; muscle wasting and diffuse atrophy; rhabdomyolysis
   
 </details>
-
-{::options parse_block_html="false" /}
 
 **Traumatic and mechanical disorders:** amputation and care of amputees; backache, including low back pain; blast injuries; compartment syndrome; contractures, hospital-acquired; contusions; dislocations; fractures; sprains, strains; kyphoscoliosis, scoliosis; rotator cuff syndrome; slipped capital femoral epiphysis; dislocation of hip
 
