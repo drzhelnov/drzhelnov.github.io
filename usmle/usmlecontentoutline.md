@@ -486,16 +486,14 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Neoplasms:** benign neoplasms (e.g., ganglion cyst); malignant neoplasms of bone (eg, osteosarcoma, sarcoma, leiomyosarcoma, rhabdosarcoma); metastases to bone, secondary malignant neoplasm of bone
 
-{::options parse_block_html="true" /}
 <details>
-<summary>**Degenerative and metabolic disorders** [[expand]() \| [glternative](http://glternative.com/18/)]</summary>
-<p>
+<summary>Degenerative and metabolic disorders \[<a>expand</a> \| <a href="http://glternative.com/18/">glternative</a>\]</summary>
+
 - **degenerative/metabolic disorders of bone, tendon, and cartilage:** chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood-Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)
 - **degenerative/metabolic disorders of joints:** gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis
 - **degenerative/metabolic disorders of muscles, ligaments, fascia:** Dupuytren contracture; muscle calcification and ossification; muscle wasting and diffuse atrophy; rhabdomyolysis
-</p>
+
 </details>
-{::options parse_block_html="false" /}
 
 **Traumatic and mechanical disorders:** amputation and care of amputees; backache, including low back pain; blast injuries; compartment syndrome; contractures, hospital-acquired; contusions; dislocations; fractures; sprains, strains; kyphoscoliosis, scoliosis; rotator cuff syndrome; slipped capital femoral epiphysis; dislocation of hip
 
