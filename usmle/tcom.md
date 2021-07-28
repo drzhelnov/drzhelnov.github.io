@@ -23,7 +23,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 > Copyright © 2020 by the Federation of State Medical Boards of the United States, Inc. (FSMB), and National Board of Medical Examiners® (NBME®). All rights reserved. The United States Medical Licensing Examination (USMLE®) is a joint program of the FSMB and NBME.
 
-**⚠ Disclaimer: This is an unofficial publication neither affiliated nor endorsed by the FSMB, NBME®, or USMLE® program. For official information please visit usmle.org or other relevant resources.**
+**⚠ Disclaimer: This is an unofficial publication neither affiliated with nor endorsed by the FSMB, NBME®, or USMLE® program. For official information please visit usmle.org or other relevant resources.**
 
 [View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/tcom.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). Enjoy!
 
