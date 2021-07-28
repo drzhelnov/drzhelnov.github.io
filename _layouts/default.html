@@ -59,6 +59,18 @@
         font-weight: bold;
       }
 
+      /* Credit goes to connexo @ https://stackoverflow.com/a/55032002 */
+
+      details.description[open] summary span::after {
+        content: attr(data-open);
+      }
+
+      details.description:not([open]) summary span::after {
+        content: attr(data-close);
+      }
+
+      /* End of credit */
+
       pre {
         white-space: pre-wrap;
       }

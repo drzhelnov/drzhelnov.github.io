@@ -488,12 +488,12 @@ Signal transduction, including structure/function of all components of signal tr
 
 <details>
   <summary>
-    <strong>Degenerative and metabolic disorders [<span>expand</span> | <a href="http://glternative.com/18/">glternative</a>]</strong>
+    <strong>Degenerative and metabolic disorders [ <span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/18/">glternative</a> ]</strong>
   </summary>
   <ul>
-    <li><strong>degenerative/metabolic disorders of bone, tendon, and cartilage:</strong> chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood-Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)
-    <li><strong>degenerative/metabolic disorders of joints:</strong> gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis
-    <li><strong>degenerative/metabolic disorders of muscles, ligaments, fascia:</strong> Dupuytren contracture; muscle calcification and ossification; muscle wasting and diffuse atrophy; rhabdomyolysis
+    <li><strong>degenerative/metabolic disorders of bone, tendon, and cartilage:</strong> chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood-Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)</li>
+    <li><strong>degenerative/metabolic disorders of joints:</strong> gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis</li>
+    <li><strong>degenerative/metabolic disorders of muscles, ligaments, fascia:</strong> Dupuytren contracture; muscle calcification and ossification; muscle wasting and diffuse atrophy; rhabdomyolysis</li>
   </ul>
 </details>
 
