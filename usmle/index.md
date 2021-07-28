@@ -22,7 +22,7 @@ Not all the curricular content was available for inclusion, but hopefully, this 
 
 **NEW!** [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
 
-**COMING SOON** Interactive USMLE Content Outline
+**NEW!** [Interactive USMLE Content Outline](/usmle/usmlecontentoutline/)
 
 -----
 
