@@ -704,7 +704,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 ### Abnormal Processes: Health and Health Maintenance, Screening, Diagnosis, Management, Risks, Prognosis
 
-**Infectious, immunologic, and inflammatory disorders **
+**Infectious, immunologic, and inflammatory disorders**
 
 - **infectious disorders**
   - **upper urinary tract:** granulomatous pyelonephritis; perinephric abscess; pyelonephritis; pyonephrosis; renal abscess; renal tuberculosis
