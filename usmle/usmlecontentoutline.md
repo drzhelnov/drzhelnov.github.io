@@ -486,9 +486,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Neoplasms:** benign neoplasms (e.g., ganglion cyst); malignant neoplasms of bone (eg, osteosarcoma, sarcoma, leiomyosarcoma, rhabdosarcoma); metastases to bone, secondary malignant neoplasm of bone
 
-**Degenerative and metabolic disorders** [<a data-toggle="collapse" href="#glternative18">expand</a> | [glternative](http://glternative.com/18/)]
-
-<div class="collapse" id="glternative18">
+**Degenerative and metabolic disorders** [expand | [glternative](http://glternative.com/18/)]
 
 - **degenerative/metabolic disorders of bone, tendon, and cartilage:** chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood-Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)
 - **degenerative/metabolic disorders of joints:** gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis
