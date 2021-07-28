@@ -486,16 +486,16 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Neoplasms:** benign neoplasms (e.g., ganglion cyst); malignant neoplasms of bone (eg, osteosarcoma, sarcoma, leiomyosarcoma, rhabdosarcoma); metastases to bone, secondary malignant neoplasm of bone
 
-<p><details>
+<details>
   <summary>
-    <strong>Degenerative and metabolic disorders [ <span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/18/">glternative</a> ]</strong>
+    <strong>Degenerative and metabolic disorders [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/18/">glternative</a>&nbsp;]</strong>
   </summary>
   <ul>
     <li><strong>degenerative/metabolic disorders of bone, tendon, and cartilage:</strong> chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood-Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)</li>
     <li><strong>degenerative/metabolic disorders of joints:</strong> gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis</li>
     <li><strong>degenerative/metabolic disorders of muscles, ligaments, fascia:</strong> Dupuytren contracture; muscle calcification and ossification; muscle wasting and diffuse atrophy; rhabdomyolysis</li>
   </ul>
-</details></p>
+</details>
 
 **Traumatic and mechanical disorders:** amputation and care of amputees; backache, including low back pain; blast injuries; compartment syndrome; contractures, hospital-acquired; contusions; dislocations; fractures; sprains, strains; kyphoscoliosis, scoliosis; rotator cuff syndrome; slipped capital femoral epiphysis; dislocation of hip
 
