@@ -17,6 +17,8 @@ An excerpt from the [original publication](https://www.usmle.org/pdfs/tcom.pdf) 
 
 > USMLE Physician Tasks/Competencies provides an outline of the tasks and competencies assessed throughout the sequence of USMLE examinations. While this outline is common to all exams, each Step has test specifications specific to that Step. Each Step exam emphasizes certain parts of the tasks/competencies outline, and no single examination includes assessment of all topics in the outline.
 
+**Note** that the Step component specifications next to the task/competencies are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
+
 Interactive features are under development. I presume this outline as well as the [USMLE Content Outline](/usmle/usmlecontentoutline/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) so that each task/competency on the outline linked to specific self-learning resources.
 
 I do not own any outline content, just reproduce it for self-learning purposes and in good faith:
@@ -33,7 +35,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 * TOC
 {:toc}
 
-## Medical Knowledge/Scientific Concepts
+## Medical Knowledge/Scientific Concepts - STEP 1 ONLY
 
 **Applying Foundational Science Concepts**
 
@@ -45,9 +47,9 @@ Recognizes or evaluates given clinical or physical findings to identify the unde
 
 Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.
 
-## Patient Care: Diagnosis
+## Patient Care: Diagnosis - STEP VARIES
 
-### History/Physical Examination
+### History/Physical Examination - STEP 1 ONLY
 
 **Obtaining and Predicting History and Physical Examination**
 
@@ -59,7 +61,7 @@ Given a specific problem, knows what to ask in obtaining further pertinent addit
 
 Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding.
 
-### Laboratory/Diagnostic Studies
+### Laboratory/Diagnostic Studies - STEP 2 CK ONLY
 
 **Selecting and Interpreting Laboratory and Diagnostic Studies**
 
@@ -71,7 +73,7 @@ Predicts the most likely laboratory or diagnostic study result.
 
 Selects most appropriate laboratory or diagnostic study after a change in patient status.
 
-### Diagnosis
+### Diagnosis - BOTH STEPS
 
 **Formulating the Diagnosis**
 
@@ -79,7 +81,7 @@ Selects the most likely diagnosis.
 
 Assesses the developmental level of the patient.
 
-### Prognosis/Outcome
+### Prognosis/Outcome - STEP 2 CK ONLY
 
 **Determining Prognosis/Outcome**
 
@@ -91,9 +93,9 @@ Recognizes associated conditions of a disease, including complications, or indic
 
 Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease from a specific patient.
 
-## Patient Care: Management
+## Patient Care: Management - STEP 2 CK ONLY
 
-### Health Maintenance & Disease Prevention
+### Health Maintenance & Disease Prevention - STEP 2 CK ONLY
 
 Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient, or knows the potential condition for which the patient may be at risk.
 
@@ -113,7 +115,7 @@ Knows the indications for surveillance for recurrence or progression of disease 
 
 Knows appropriate long-term surveillance goals.
 
-### Pharmacotherapy
+### Pharmacotherapy - STEP 2 CK ONLY
 
 **Selecting and Monitoring Pharmacotherapy**
 
@@ -131,7 +133,7 @@ Modifies therapeutic regimen within the context of continuing care; selects appr
 
 Knows appropriate monitoring to evaluate effectiveness of drug therapy or to monitor for the adverse effects of drug therapy in a patient that has not had a recurrence or progression of disease.
 
-### Clinical Interventions
+### Clinical Interventions - STEP 2 CK ONLY
 
 **Clinical Interventions/Treatment**
 
@@ -161,13 +163,13 @@ Educates patient or family regarding self-care.
 
 Knows relevant roles of allied health personnel.
 
-### Mixed Management
+### Mixed Management - STEP 2 CK ONLY
 
 **Selecting Clinical Interventions**
 
 Selects most appropriate management option from set of mixed management options (eg, mix of diagnostic studies, pharmacotherapy, procedures, observation, or referral).
 
-## Communication
+## Communication - STEP 1 ONLY
 
 **Fostering the Relationship**
 
@@ -183,9 +185,9 @@ Selects most appropriate management option from set of mixed management options 
 
 **Using an Interpreter or Surrogate**
 
-## Professionalism, Including Legal and Ethical Issues
+## Professionalism, Including Legal and Ethical Issues - STEP 2 CK ONLY
 
-### Patients and Families
+### Patients and Families - STEP 2 CK ONLY
 
 **Understanding and Applying Principles of Professionalism, Legal and Ethical Issues in
 Interactions with Patients and Families**
@@ -209,7 +211,7 @@ Knows guidelines for physician-patient relationship.
 Knows issues related to cultural competence and can apply knowledge in specific patient
 situations.
 
-### Death and Dying
+### Death and Dying - STEP 2 CK ONLY
 
 **Understanding and Applying Principles of Professionalism, Legal and Ethical Issues Related to Death and Dying**
 
@@ -225,7 +227,7 @@ Knows definition of and legal issues regarding brain death.
 
 Knows management of terminally ill patients related to treating chronic pain, and recognizing patient's expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.
 
-### Other Health Professionals
+### Other Health Professionals - STEP 2 CK ONLY
 
 **Understanding and Applying Professionalism, Legal, and Ethical Issues in Dealing with
 Physicians and Other Health Professionals**
@@ -238,9 +240,9 @@ Recognizes physician error and negligence.
 
 Recognizes and deals appropriately with impaired physician.
 
-## Systems-based Practice, Including Patient Safety
+## Systems-based Practice, Including Patient Safety - STEP 2 CK ONLY
 
-### Systems-based Practice
+### Systems-based Practice - STEP 2 CK ONLY
 
 Understands basic concepts and terminology, principles, and application of quality improvement science and outcome analysis.
 
@@ -248,7 +250,7 @@ Recognizes and optimizes human and environmental factors (eg, workplace design, 
 
 Understands the role and characteristics of teams and communication strategies.
 
-### Patient Safety
+### Patient Safety - STEP 2 CK ONLY
 
 Anticipates, recognizes, analyzes, and mitigates risk (sources of error).
 
@@ -256,9 +258,9 @@ Evaluates, reports, and responds to near-misses and system errors.
 
 Identifies sources of error and suggests appropriate measures to evaluate or reduce the likelihood of specific errors.
 
-## Practice-Based Learning ­– Applied Biostatistics and Clinical Epidemiology
+## Practice-Based Learning ­– Applied Biostatistics and Clinical Epidemiology - BOTH STEPS
 
-### Principles of Biostatistics and Epidemiology
+### Principles of Biostatistics and Epidemiology - BOTH STEPS
 
 **Understanding and Application of the Principles of Biostatistics and Epidemiology**
 
@@ -270,10 +272,10 @@ Understands and can apply the principles of screening and other tests.
 
 Understands use and interpretation of statistical principles and measures of association.
 
-### Application of Information from Studies or Other Written Material to Patient Care
+### Application of Information from Studies or Other Written Material to Patient Care - BOTH STEPS
 
 **Is able to make decisions about patient care based on results of study or other written materials**
 
-### Principles of Research Ethics and Regulatory Issues
+### Principles of Research Ethics and Regulatory Issues - BOTH STEPS
 
 **Understands the principles of research ethics and regulatory issues**
