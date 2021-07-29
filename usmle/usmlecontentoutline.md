@@ -17,6 +17,8 @@ An excerpt from the [original publication](https://www.usmle.org/pdfs/usmleconte
 
 > This outline provides a common organization of content across all USMLE examinations. Each Step exam will emphasize certain parts of the outline, and no single examination will include questions on all topics in the outline. The examples listed within the outline are just examples. Questions may include diseases, symptoms, etc., that are not included in the outline.
 
+**Note** that Step component specifications next to the task/competencies are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
+
 Interactive features are under development. I presume this outline as well as the [USMLE Physician Tasks/Competencies](/usmle/tcom/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) so that each content topic on the outline linked to specific self-learning resources.
 
 For the time being, I am creating _glternatives_ for each topic block (note the `[glternative]` links next to the topic titles). An **glternative**, a portmanteau of legal, Google, and alternative, is an open access community-written list of web searches that, in combination, cover all information from a given resource­—in this instance, basically the topic content but as clickable Google links. Check these and other glternatives for free at the website I created, [glternative.com](http://glternative.com/) (no registration required).
@@ -37,7 +39,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 {::options parse_block_html="true" /}
 
-## General Principles of Foundational Science
+## General Principles of Foundational Science - BOTH STEPS
 
 ### Biochemistry and molecular biology
 
@@ -184,7 +186,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, falls, general medical condition; polypharmacy, driving, caregiver stress); routine vaccinations
 
-## Immune System
+## Immune System - BOTH STEPS
 
 ### Normal processes
 
@@ -231,7 +233,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the immune system:** Jarisch-Herxheimer reaction; drugs affecting the immune system (eg, prednisone, azathioprine, cyclosporine, methotrexate, monoclonal antibody drugs [eg, abciximab, adalimumab; bevacizumab, infliximab, omalizumab, rituximab]); vaccine adverse effects
 
-## Blood & Lymphoreticular System
+## Blood & Lymphoreticular System - BOTH STEPS
 
 ### Normal Processes
 
@@ -279,7 +281,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the hematologic and lymphoreticular systems:** antiplatelet drugs, antithrombin drugs (eg, dabigatran); chemotherapeutic agents; inhibitors of coagulation factors; methemoglobinemia, acquired; propylthiouracil; tumor lysis syndrome; warfarin
 
-## Behavioral Health
+## Behavioral Health - BOTH STEPS
 
 ### Normal Processes
 
@@ -315,7 +317,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Substance use disorders:** alcohol use disorder/intoxication/dependence/withdrawal; tobacco/nicotine use disorder/dependence/withdrawal; varenicline use; cannabis use disorder/intoxication/dependence; hallucinogen use disorder/intoxication/dependence/withdrawal; inhalant use disorder/intoxication/dependence/withdrawal; opioid, heroin, including prescription drug, use disorder/intoxication/dependence/withdrawal; sedative, hypnotic, including benzodiazepine and barbiturate use disorder/intoxication/dependence/withdrawal; stimulant, cocaine, methamphetamine use disorder/intoxication/dependence/withdrawal; other drugs of use disorders (eg, ecstasy, PCP, bath salts)/intoxication/dependence/withdrawal; polysubstance use disorder/intoxication/dependence/withdrawal
 
-## Nervous System & Special Senses
+## Nervous System & Special Senses - BOTH STEPS
 
 ### Normal Processes
 
@@ -412,7 +414,7 @@ Signal transduction, including structure/function of all components of signal tr
 - **traumatic and mechanical disorders:** barotrauma; foreign body in ear; impacted cerumen; laceration, avulsion; perforation of tympanic membrane; eustachian tube disorders
 - **adverse effects of drugs on the ear:** antineoplastic agents, including cisplatin; aminoglycosides; furosemide; salicylates
 
-## Skin & Subcutaneous Tissue
+## Skin & Subcutaneous Tissue - BOTH STEPS
 
 ### Normal Processes
 
@@ -463,7 +465,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on skin and subcutaneous tissue:** drug reactions, eruptions, including local reaction to vaccine
 
-## Musculoskeletal System
+## Musculoskeletal System - BOTH STEPS
 
 ### Normal processes
 
@@ -506,7 +508,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the musculoskeletal system:** drug-induced myopathy (eg, steroids, statins, cocaine, AZT); malignant hyperthermia
 
-## Cardiovascular System
+## Cardiovascular System - BOTH STEPS
 
 ### Normal Processes
 
@@ -566,7 +568,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the cardiovascular system:** adriamycin; cocaine, amphetamine, PCP; ACE inhibitors, calcium channel blockers, alpha blockers, minoxidil
 
-## Respiratory System
+## Respiratory System - BOTH STEPS
 
 ### Normal Processes
 
@@ -619,7 +621,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the respiratory system:** bleomycin, amiodarone; adverse effects of 100% oxygen; acute effects of tobacco/nicotine, inhalants, cocaine
 
-## Gastrointestinal System
+## Gastrointestinal System - BOTH STEPS
 
 ### Normal Processes
 
@@ -687,7 +689,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the gastrointestinal system:** drug-induced changes in motility (chronic laxative abuse, opioids); drug-induced gastritis, duodenitis, peptic ulcer disease (NSAIDs); drug-induced hepatitis (eg, acetaminophen, isoniazid); drug-induced pancreatitis (eg, thiazide diuretics)
 
-## Renal & Urinary System
+## Renal & Urinary System - BOTH STEPS
 
 ### Normal Processes
 
@@ -740,7 +742,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the renal and urinary system:** ACE inhibitors; aminoglycosides; amphotericin B; cisplatin; furosemide; gadolinium (nephrogenic systemic fibrosis); heroin; iodinated contrast dye; lithium; NSAIDs; penicillins; sulfa drugs; tenofovir; drug-induced urinary retention
 
-## Pregnancy, Childbirth, & the Puerperium
+## Pregnancy, Childbirth, & the Puerperium - STEP 2 CK ONLY
 
 ### Normal Processes
 
@@ -773,7 +775,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Systemic disorders affecting pregnancy, labor and delivery, and puerperium:** appendicitis; asthma; carpal tunnel syndrome in pregnancy; cirrhosis; deep venous thrombosis (DVT); diabetes mellitus; heart failure, valvular heart disease; hypertension; myasthenia gravis; obesity; pancreatitis; psychiatric disorders; renal calculus/calculi; renal failure/renal disease, including SLE; seizure disorders; thyroid disorders, hypothyroidism, hyperthyroidism
 
-## Female Reproductive System & Breast
+## Female Reproductive System & Breast - BOTH STEPS
 
 ### Normal Processes
 
@@ -823,7 +825,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the female reproductive system and breast:** antihistamines, H2-receptor blockers; benzodiazepines; beta-adrenergic blockers; hormone replacement; opioids; spironolactone; selective serotonin reuptake inhibitors; tricyclic antidepressants
 
-## Male Reproductive System
+## Male Reproductive System - BOTH STEPS
 
 ### Normal Processes
 
@@ -858,7 +860,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the male reproductive system:** alcohol; androgens, testosterone; antipsychotics, antidepressants including selective serotonin reuptake inhibitors; beta-adrenergic blockers; diuretic including thiazides; drug-induced priapism (eg, trazodone); finasteride, dutasteride; sildenafil, tadalafil, vardenafil; marijuana; nitric oxide reductase inhibitors
 
-## Endocrine System
+## Endocrine System - BOTH STEPS
 
 ### Normal Processes
 
@@ -907,7 +909,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on the endocrine system:** drug, medicinal, and biologic substance effects; exogenous steroid suppression of adrenal glands, anabolic steroids
 
-## Multisystem Processes & Disorders
+## Multisystem Processes & Disorders - BOTH STEPS
 
 ### Normal Processes
 
@@ -994,7 +996,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Adverse effects of drugs on multisystem disorders:** drug-induced electrolyte abnormalities and acid base-disorders (eg, albuterol; prednisone; diuretics; alcohol; drugs inducing polydipsia, SIADH, or diabetes insipidus)
 
-## Biostatistics, Epidemiology/Population Health, & Interpretation of the Medical Literature
+## Biostatistics, Epidemiology/Population Health, & Interpretation of the Medical Literature - BOTH STEPS
 
 **Epidemiology/population health**
 
@@ -1062,9 +1064,9 @@ Signal transduction, including structure/function of all components of signal tr
 - **Regulatory issues:** drug development, phases of approval; appropriateness of placebo; appropriateness of randomized clinical trial; components of studies; ethics; scheduling; off-label use
 - **Other issues related to research ethics**
 
-## Social Sciences
+## Social Sciences - STEP VARIES
 
-**Communication and interpersonal skills, including health literacy and numeracy, cultural competence**
+**Communication and interpersonal skills, including health literacy and numeracy, cultural competence - STEP 1 ONLY**
 
 - **Patient interviewing, consultation, and interactions with the family (patient-centered communication skills)**
   - fostering the relationship (eg, expressing interest)
@@ -1075,7 +1077,7 @@ Signal transduction, including structure/function of all components of signal tr
   - enabling patient behaviors (eg, education and counseling)
 - **Use of an interpreter or surrogate**
 
-**Medical ethics and jurisprudence, include issues related to death and dying and palliative care**
+**Medical ethics and jurisprudence, include issues related to death and dying and palliative care - STEP 2 CK ONLY**
 
 - **Consent/informed consent to treatment, permission to treat (full disclosure, risks and benefits, placebos, alternative therapies, conflict of interest, and vulnerable populations)**
 - **Determination of medical decision-making capacity/informed refusal**
@@ -1102,7 +1104,7 @@ Signal transduction, including structure/function of all components of signal tr
 - **Referrals**
 - **Cultural issues not otherwise coded**
 
-**Systems-based practice (including health systems, public health, community, schools) and patient safety (including basic concepts and terminology)**
+**Systems-based practice (including health systems, public health, community, schools) and patient safety (including basic concepts and terminology) - STEP 2 CK ONLY**
 
 - **Complexity/systems thinking**
   - **Characteristics of a complex system and factors leading to complexity:** how complexity leads to error
