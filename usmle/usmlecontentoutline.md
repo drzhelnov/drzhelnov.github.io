@@ -17,7 +17,7 @@ An excerpt from the [original publication](https://www.usmle.org/pdfs/usmleconte
 
 > This outline provides a common organization of content across all USMLE examinations. Each Step exam will emphasize certain parts of the outline, and no single examination will include questions on all topics in the outline. The examples listed within the outline are just examples. Questions may include diseases, symptoms, etc., that are not included in the outline.
 
-**Note** that Step component specifications next to the task/competencies are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
+**Note** that Step component specifications next to the content topics are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
 
 Interactive features are under development. I presume this outline as well as the [USMLE Physician Tasks/Competencies](/usmle/tcom/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) so that each content topic on the outline linked to specific self-learning resources.
 
