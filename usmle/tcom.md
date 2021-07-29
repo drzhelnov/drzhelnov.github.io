@@ -17,7 +17,7 @@ An excerpt from the [original publication](https://www.usmle.org/pdfs/tcom.pdf) 
 
 > USMLE Physician Tasks/Competencies provides an outline of the tasks and competencies assessed throughout the sequence of USMLE examinations. While this outline is common to all exams, each Step has test specifications specific to that Step. Each Step exam emphasizes certain parts of the tasks/competencies outline, and no single examination includes assessment of all topics in the outline.
 
-**Note** that the Step component specifications next to the task/competencies are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
+**Note** that Step component specifications next to the task/competencies are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
 
 Interactive features are under development. I presume this outline as well as the [USMLE Content Outline](/usmle/usmlecontentoutline/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) so that each task/competency on the outline linked to specific self-learning resources.
 
