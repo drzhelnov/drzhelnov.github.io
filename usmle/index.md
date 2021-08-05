@@ -1,12 +1,16 @@
 ---
-description: A public self-learning USMLE prep schedule constructed from actual U.S. med schools’ syllabi.
+description: A public self-learning USMLE study program based on actual U.S. medical schools’ syllabi and official practice materials.
 ---
 
-# USMLE 1+2CK Prep for IMGs in 50 Weeks
+# USMLE OASys
 
-## An Amalgam Schedule Made of U.S. Med Schools’ Syllabi
+**[USMLE study for IMGs: an <u>O</u>pen <u>A</u>ccess, <u>Sys</u>tematic approach]**
 
-> In Development
+> _In Development_
+
+- **An Amalgam Schedule Made of U.S. Medical Schools’ Syllabi**
+- [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
+- [Interactive USMLE Content Outline](/usmle/usmlecontentoutline/)
 
 **Pavel Zhelnov, MD**
 <br>
@@ -16,13 +20,13 @@ Dear Colleagues,
 
 Many of us IMGs know how good UWorld is for USMLE prep. In fact, UWorld is a triumph of contemporary evidence-based education. That said, it is rather costly, so a cheaper alternative seems appealing.
 
-My idea was to take existing curricula of various (preferably fewer and higher-rated) U.S. medical schools and devise a fixed-term self-learning schedule with a list of required readings for each week (in no particular order within weeks). So I have constructed the table below from both recent and outdated syllabi that I could find with Google in May 2021. **M1** through **M4** denote years one through four at a [typical U.S. medical school](https://lcme.org/publications/#Standards). _Longitudinal_ is a year-long course interspersed with the shorter courses.
+However, I am deeply concerned about the USMLE study materials available on the Web. When [Google searching for: (usmle img study OR prep)](https://google.com/search?q=usmle+img+study+OR+prep), I have only seen study cases (_‘This is how I did it…,’_ either written or video-based) or commercial training programs. The former are anecdotal and mostly feature review materials with no solid tips for foundation-building. The latter are behind paywalls with useful tips available but not the study content itself. Thus, I have looked into an open access, systematic approach.
 
-Not all the curricular content was available for inclusion, but hopefully, this was enough. Sorry for any links that might get broken with time. Consider replacing unavailable readings with similar ones at hand, like I, too, did. [View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/index.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). My own prep reports are public as [GitHub issues](https://github.com/drzhelnov/drzhelnov.github.io/issues?q=is%3Aissue+label%3A%22USMLE+prep%22) (currently on pause). Enjoy!
+My idea was to take existing curricula of various (preferably fewer and higher-rated) U.S. medical schools and devise a fixed-term self-learning schedule with a list of required readings for each week (in no particular order within weeks). So I have constructed the table below from both recent and outdated syllabi that I could find with Google in May 2021. I am currently processing the featured textbooks to make the syllabic content available free of charge in the form of [glternatives](http://glternative.com) while also integrating these syllabi with official USMLE practice materials to create the [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/) and the [Interactive USMLE Content Outline](/usmle/usmlecontentoutline/).
 
-**NEW!** [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
+**I declare that I have never taken nor supervised study for any USMLE examination (as of May 2021), so I am currently unable to advise about empirical effectiveness of my study materials.**
 
-**NEW!** [Interactive USMLE Content Outline](/usmle/usmlecontentoutline/)
+**M1** through **M4** denote years one through four at a [typical U.S. medical school](https://lcme.org/publications/#Standards). _Longitudinal_ is a year-long course interspersed with the shorter courses. Not all the curricular content was available for inclusion, but hopefully, this was enough. Sorry for any links that might get broken with time. Consider replacing unavailable readings with similar ones at hand, like I, too, did. [View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/index.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). My own prep reports are public as [GitHub issues](https://github.com/drzhelnov/drzhelnov.github.io/issues?q=is%3Aissue+label%3A%22USMLE+prep%22). Enjoy!
 
 -----
 

@@ -3,9 +3,15 @@ description: An interactive version of the official 2021 outline of content acro
 permalink: /usmle/usmlecontentoutline/
 ---
 
-# Interactive USMLE Content Outline
+# USMLE OASys: Content Outline
+
+[[USMLE study for IMGs: an Open Access, Systematic approach]](/usmle/)
 
 > _In Development_
+
+- [An Amalgam Schedule Made of U.S. Medical Schools’ Syllabi](/usmle/)
+- [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
+- **Interactive USMLE Content Outline**
 
 **Pavel Zhelnov, MD**
 <br>

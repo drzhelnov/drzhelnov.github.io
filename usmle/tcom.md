@@ -3,9 +3,15 @@ description: An interactive version of the official 2020 outline of the tasks an
 permalink: /usmle/tcom/
 ---
 
-# Interactive USMLE Physician Tasks/Competencies
+# USMLE OASys: Tasks/Competencies
+
+[[USMLE study for IMGs: an Open Access, Systematic approach]](/usmle/)
 
 > _In Development_
+
+- [An Amalgam Schedule Made of U.S. Medical Schools’ Syllabi](/usmle/)
+- **Interactive USMLE Physician Tasks/Competencies**
+- [Interactive USMLE Content Outline](/usmle/usmlecontentoutline/)
 
 **Pavel Zhelnov, MD**
 <br>
