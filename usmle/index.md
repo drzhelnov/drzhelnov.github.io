@@ -1,8 +1,9 @@
 ---
+title: USMLE OASys
 description: A public self-learning USMLE study program based on actual U.S. medical schools’ syllabi and official practice materials.
 ---
 
-# USMLE OASys
+# {{page.title}}
 
 **[USMLE study for IMGs: an <u>O</u>pen <u>A</u>ccess, <u>Sys</u>tematic approach]**
 
