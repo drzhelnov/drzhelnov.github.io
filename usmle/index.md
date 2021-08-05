@@ -1,5 +1,5 @@
 ---
-description: A public self-learning USMLE study program based on actual U.S. medical schools’ syllabi and official practice materials.
+description: A public USMLE self-study program based on actual U.S. medical schools’ syllabi and official practice materials.
 ---
 
 # USMLE OASys
