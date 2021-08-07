@@ -7,7 +7,7 @@ permalink: /usmle/tcom/
 
 [[USMLE study for IMGs: an Open Access, Systematic approach]](/usmle/)
 
-> _In Development_
+> In Development
 
 - [An Amalgam Schedule Made of U.S. Medical Schools’ Syllabi](/usmle/)
 - **Interactive USMLE Physician Tasks/Competencies**

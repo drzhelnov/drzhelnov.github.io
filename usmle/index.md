@@ -6,7 +6,7 @@ description: A free USMLE self-study course based on actual U.S. medical schools
 
 **[USMLE study for IMGs: an <u>O</u>pen <u>A</u>ccess, <u>Sys</u>tematic approach]**
 
-> _In Development_
+> In Development
 
 - **An Amalgam Schedule Made of U.S. Medical Schools’ Syllabi**
 - [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
