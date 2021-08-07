@@ -2,6 +2,9 @@ theme: jekyll-theme-minimal
 title: "Доктор Желнов"
 url: "https://drzhelnov.com/"
 description: "Медицинский английский, USMLE. Дизайн научных исследований, базы данных, статистический анализ. Синтез доказательств (литобзор): систематический обзор литературы, литературный обзор предметного поля (scoping review)."
+author:
+  ru: "Врач Желнов П. В."
+  en: "Pavel Zhelnov, MD"
 show_downloads: true
 google_analytics: UA-122303329-2
 markdown: kramdown

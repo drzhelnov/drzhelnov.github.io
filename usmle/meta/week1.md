@@ -10,6 +10,10 @@
     
     For TBL 1
     
+    --- On {{ page.date | date_to_rfc822 }}, {{ page.author | default: site.author.en }} wrote ---
+    
+    > [My glternative to this chapter](http://glternative.com/11/)
+    
 *   [Ch 2 - Data-Gathering and Empathy Skills IN: Smith's Patient Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193676059)
     
     For TBL 1
