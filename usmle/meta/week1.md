@@ -1,5 +1,13 @@
 # META: Mindfully Evolving, Thriving & Advocating: Week 1
 
+[↶ Back to USMLE OASys](/usmle/)
+
+**⚠ This page was originally intended to be a copy of a university syllabus that was available for public download from the links listed at the bottom of this page. Although I had to make slight modifications for style while transferring the content to this website, I made every effort to not touch the content itself. The syllabic content is copyrighted by its authors.**
+
+> My notes are formatted as blockquotes, like this one, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode), and &copy; 2021 Pavel Zhelnov.
+
+-----
+
 [Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information.html)
 
 ## Clinical Skills- Patient Centered Interviewing
@@ -10,9 +18,7 @@
     
     For TBL 1
     
-    --- On {{ page.date | date_to_rfc822 }}, {{ site.author.en }} wrote ---
-    
-    > [My glternative to this chapter](http://glternative.com/11/)
+    > [[glternative]](http://glternative.com/11/)
     
 *   [Ch 2 - Data-Gathering and Empathy Skills IN: Smith's Patient Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193676059)
     
