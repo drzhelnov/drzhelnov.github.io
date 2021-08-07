@@ -26,7 +26,9 @@ My idea was to take existing curricula of various (preferably fewer and higher-r
 
 **I declare that I have never taken nor supervised study for any USMLE examination (as of August 2021), so I am currently unable to advise about empirical effectiveness of my study materials.**
 
-**M1** through **M4** denote years one through four at a [typical U.S. medical school](https://lcme.org/publications/#Standards). _Longitudinal_ is a year-long course interspersed with the shorter courses. Not all the curricular content was available for inclusion, but hopefully, this was enough. Sorry for any links that might get broken with time. Consider replacing unavailable readings with similar ones at hand, like I, too, did. [View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/index.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). My own prep reports are public as [GitHub issues](https://github.com/drzhelnov/drzhelnov.github.io/issues?q=is%3Aissue+label%3A%22USMLE+prep%22). Enjoy!
+**M1** through **M4** denote years one through four at a [typical U.S. medical school](https://lcme.org/publications/#Standards). _Longitudinal_ is a year-long course interspersed with the shorter courses. Not all the curricular content was available for inclusion, but hopefully, this was enough. Sorry for any links that might get broken with time. Consider replacing unavailable readings with similar ones at hand, like I, too, did.
+
+[View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/index.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). My own prep reports are public as [GitHub issues](https://github.com/drzhelnov/drzhelnov.github.io/issues?q=is%3Aissue+label%3A%22USMLE+prep%22). Enjoy!
 
 -----
 
