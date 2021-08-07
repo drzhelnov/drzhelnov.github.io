@@ -10,7 +10,7 @@
     
     For TBL 1
     
-    --- On {{ page.date | date_to_rfc822 }}, {{ page.author | default: site.author.en }} wrote ---
+    --- On {{ page.date | date_to_rfc822 }}, {{ site.author.en }} wrote ---
     
     > [My glternative to this chapter](http://glternative.com/11/)
     

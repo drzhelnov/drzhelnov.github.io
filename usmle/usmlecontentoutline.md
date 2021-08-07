@@ -13,7 +13,7 @@ permalink: /usmle/usmlecontentoutline/
 - [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
 - **Interactive USMLE Content Outline**
 
-**Pavel Zhelnov, MD**
+**{{ site.author.en }}**
 <br>
 [@drzhelnov](https://twitter.com/drzhelnov)
 
