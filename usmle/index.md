@@ -12,7 +12,7 @@ description: A free USMLE self-study course based on actual U.S. medical schools
 - [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
 - [Interactive USMLE Content Outline](/usmle/usmlecontentoutline/)
 
-**{{ site.author.en }}**
+**Pavel Zhelnov, MD**
 <br>
 [@drzhelnov](https://twitter.com/drzhelnov)
 
