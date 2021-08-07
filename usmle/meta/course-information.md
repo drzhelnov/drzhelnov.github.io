@@ -16,7 +16,7 @@ Although in Greek Meta- means “after” or “beyond,” the first and beginni
 
 **Self-Study:** Significant blocks of time are unscheduled each day for independent use of educational materials such as video and other online content, recommended readings, and prompted self-reflections. The required textbook is Peter Wei & Alex Chamessian’s book Learning in Medicine: An Evidence-Based Guide (ISBN-13:9780996153300).
 
-> No access to Learning in Medicine: An Evidence-Based Guide (ISBN-13:9780996153300) [[glternative]](http://glternative.com/21/). However, I’ve read Make It Stick: The Science of Successful Learning by Peter C. Brown (Harvard University Press, 2014) ISBN 0674419383, 9780674419384; probably it’s a good alternative.
+> No access to Learning in Medicine: An Evidence-Based Guide (ISBN-13:9780996153300) [[glternative request]](http://glternative.com/21/). However, I’ve read Make It Stick: The Science of Successful Learning by Peter C. Brown (Harvard University Press, 2014) ISBN 0674419383, 9780674419384; probably it’s a good alternative.
 
 **Assessment:** Student performance on all activities will result in an accumulation of points. Depending on the activity, the points awarded are based on student participation/preparedness or quiz scores (for example, with Team-Based Learning). There are no mid-term or final exams for this course. Class rankings are **NOT** reported at the end of the course, only the grade category for each student (Pass, Fail, etc.).
 
