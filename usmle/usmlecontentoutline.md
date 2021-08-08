@@ -49,6 +49,12 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 ### Biochemistry and molecular biology
 
+<details>
+
+<summary>
+  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/22/">glternative</a>&nbsp;]</strong>
+</summary>
+
 Gene expression: DNA structure, replication, exchange, and epigenetics (eg, imprinting, X-activation, DNA methylation)
 
 Gene expression: transcription
@@ -58,6 +64,8 @@ Gene expression: translation, post-translational processing, modifications, and 
 Structure and function of proteins and enzymes (eg, enzyme kinetics and structural/regulatory proteins)
 
 Energy metabolism (eg, ATP generation, transport chain)
+
+</details>
 
 ### Biology of cells
 
