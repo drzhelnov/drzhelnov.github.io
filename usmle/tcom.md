@@ -23,7 +23,7 @@ An excerpt from the [original publication](https://www.usmle.org/pdfs/tcom.pdf) 
 
 > USMLE Physician Tasks/Competencies provides an outline of the tasks and competencies assessed throughout the sequence of USMLE examinations. While this outline is common to all exams, each Step has test specifications specific to that Step. Each Step exam emphasizes certain parts of the tasks/competencies outline, and no single examination includes assessment of all topics in the outline.
 
-**Note** that Step component specifications next to the task/competencies are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
+**Note** that Step component specifications next to the task/competencies are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. Alphanumeric codes are also custom. **Also, Step 3 was not considered.**
 
 Interactive features are under development. I presume this outline as well as the [USMLE Content Outline](/usmle/usmlecontentoutline/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) **so that each task/competency linked to specific study resources per each content topic.** This would effectively create a **self-study roadmap** with tasks/competencies as its **tracks** and content topics as the **milestones.** Naturally, to navigate the roadmap, the prospective Step-taker would need to clear specific resources such as textbook chapters, journal articles, videos, or their [glternatives](http://glternative.com). **QBanks would still be required** to test one’s competencies and topic knowledge once there is something to test.
 
@@ -41,247 +41,247 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 * TOC
 {:toc}
 
-## Medical Knowledge/Scientific Concepts - STEP 1 ONLY
+## Medical Knowledge/Scientific Concepts (MK) - STEP 1 ONLY
 
 **Applying Foundational Science Concepts**
 
-Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.
+**MK1** Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.
 
-Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
+**MK2** Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
 
-Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.
+**MK3** Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.
 
-Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.
+**MK4** Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.
 
 ## Patient Care: Diagnosis - STEP VARIES
 
-### History/Physical Examination - STEP 1 ONLY
+### History/Physical Examination (HP) - STEP 1 ONLY
 
 **Obtaining and Predicting History and Physical Examination**
 
-Knows signs/symptoms of selected disorders.
+**HP1** Knows signs/symptoms of selected disorders.
 
-Knows individual's risk factors for development of conditions. Given current symptoms in presented history, identifies other pertinent factors in the history.
+**HP2** Knows individual's risk factors for development of conditions. Given current symptoms in presented history, identifies other pertinent factors in the history.
 
-Given a specific problem, knows what to ask in obtaining further pertinent additional history.
+**HP3** Given a specific problem, knows what to ask in obtaining further pertinent additional history.
 
-Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding.
+**HP4** Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding.
 
-### Laboratory/Diagnostic Studies - STEP 2 CK ONLY
+### Laboratory/Diagnostic Studies (LDS) - STEP 2 CK ONLY
 
 **Selecting and Interpreting Laboratory and Diagnostic Studies**
 
-Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis.
+**LDS1** Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis.
 
-Interprets laboratory or other study findings.
+**LDS2** Interprets laboratory or other study findings.
 
-Predicts the most likely laboratory or diagnostic study result.
+**LDS3** Predicts the most likely laboratory or diagnostic study result.
 
-Selects most appropriate laboratory or diagnostic study after a change in patient status.
+**LDS4** Selects most appropriate laboratory or diagnostic study after a change in patient status.
 
-### Diagnosis - BOTH STEPS
+### Diagnosis (DIA) - BOTH STEPS
 
 **Formulating the Diagnosis**
 
-Selects the most likely diagnosis.
+**DIA1** Selects the most likely diagnosis.
 
-Assesses the developmental level of the patient.
+**DIA2** Assesses the developmental level of the patient.
 
-### Prognosis/Outcome - STEP 2 CK ONLY
+### Prognosis/Outcome (PRO) - STEP 2 CK ONLY
 
 **Determining Prognosis/Outcome**
 
-Recognizes factors in the history, physical or laboratory study findings that affect patient prognosis or outcome or determine therapy.
+**PRO1** Recognizes factors in the history, physical or laboratory study findings that affect patient prognosis or outcome or determine therapy.
 
-Interprets laboratory or other diagnostic study results and identifies current/future status of patient.
+**PRO2** Interprets laboratory or other diagnostic study results and identifies current/future status of patient.
 
-Recognizes associated conditions of a disease, including complications, or indicators of potential complications, of a given disease.
+**PRO3** Recognizes associated conditions of a disease, including complications, or indicators of potential complications, of a given disease.
 
-Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease from a specific patient.
+**PRO4** Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease from a specific patient.
 
 ## Patient Care: Management - STEP 2 CK ONLY
 
-### Health Maintenance & Disease Prevention - STEP 2 CK ONLY
+### Health Maintenance & Disease Prevention (HMP) - STEP 2 CK ONLY
 
-Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient, or knows the potential condition for which the patient may be at risk.
+**HMP1** Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient, or knows the potential condition for which the patient may be at risk.
 
-Knows pertinent incidence statistics and identifies patient groups at risk; knows incidence of symptoms/dangerous disorders among various groups.
+**HMP2** Knows pertinent incidence statistics and identifies patient groups at risk; knows incidence of symptoms/dangerous disorders among various groups.
 
-Knows common screening tests for conditions amenable to prevention or detection in an asymptomatic patient or population.
+**HMP3** Knows common screening tests for conditions amenable to prevention or detection in an asymptomatic patient or population.
 
-Selects appropriate preventive agent or technique (eg, contraception, vaccines, vitamins).
+**HMP4** Selects appropriate preventive agent or technique (eg, contraception, vaccines, vitamins).
 
-Knows appropriate counseling of patient or family regarding maintenance of current and future problems, including risk factors related to present encounter.
+**HMP5** Knows appropriate counseling of patient or family regarding maintenance of current and future problems, including risk factors related to present encounter.
 
-Educates patients on screening, health maintenance, self-care.
+**HMP6** Educates patients on screening, health maintenance, self-care.
 
-Assesses the developmental level of a healthy patient.
+**HMP7** Assesses the developmental level of a healthy patient.
 
-Knows the indications for surveillance for recurrence or progression of disease following treatment. Monitoring chronic disease in a stable patient where a change in patient status might cause a change in therapy.
+**HMP8** Knows the indications for surveillance for recurrence or progression of disease following treatment. Monitoring chronic disease in a stable patient where a change in patient status might cause a change in therapy.
 
-Knows appropriate long-term surveillance goals.
+**HMP9** Knows appropriate long-term surveillance goals.
 
-### Pharmacotherapy - STEP 2 CK ONLY
+### Pharmacotherapy (PHA) - STEP 2 CK ONLY
 
 **Selecting and Monitoring Pharmacotherapy**
 
-Selects most appropriate pharmacotherapy.
+**PHA1** Selects most appropriate pharmacotherapy.
 
-Assesses patient adherence with treatment regimen, recognizes techniques to increase adherence or understanding of the disease state, and knows how adherence may be affected by providing instructions with therapy.
+**PHA2** Assesses patient adherence with treatment regimen, recognizes techniques to increase adherence or understanding of the disease state, and knows how adherence may be affected by providing instructions with therapy.
 
-Recognizes factors that alter drug dosing requirements for a patient.
+**PHA3** Recognizes factors that alter drug dosing requirements for a patient.
 
-Knows adverse effects of various drugs, or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including lab studies to monitor drug therapy.
+**PHA4** Knows adverse effects of various drugs, or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including lab studies to monitor drug therapy.
 
-Knows contraindications of various medications.
+**PHA5** Knows contraindications of various medications.
 
-Modifies therapeutic regimen within the context of continuing care; selects appropriate modifications in therapeutic regimen.
+**PHA6** Modifies therapeutic regimen within the context of continuing care; selects appropriate modifications in therapeutic regimen.
 
-Knows appropriate monitoring to evaluate effectiveness of drug therapy or to monitor for the adverse effects of drug therapy in a patient that has not had a recurrence or progression of disease.
+**PHA7** Knows appropriate monitoring to evaluate effectiveness of drug therapy or to monitor for the adverse effects of drug therapy in a patient that has not had a recurrence or progression of disease.
 
-### Clinical Interventions - STEP 2 CK ONLY
+### Clinical Interventions (CLI) - STEP 2 CK ONLY
 
 **Clinical Interventions/Treatment**
 
-Knows most appropriate management of selected conditions, including recognizing misuse of medication or drug or alcohol use.
+**CLI1** Knows most appropriate management of selected conditions, including recognizing misuse of medication or drug or alcohol use.
 
-Knows immediate management or priority in management, specifically in emergency or acute cases.
+**CLI2** Knows immediate management or priority in management, specifically in emergency or acute cases.
 
-Knows most appropriate follow-up or monitoring approach regarding the management plan.
+**CLI3** Knows most appropriate follow-up or monitoring approach regarding the management plan.
 
-Knows current/short-term management of patients.
+**CLI4** Knows current/short-term management of patients.
 
-Evaluates severity of patient condition in terms of need for referral for surgical treatments/procedures versus other nonsurgical options.
+**CLI5** Evaluates severity of patient condition in terms of need for referral for surgical treatments/procedures versus other nonsurgical options.
 
-Knows appropriate surgical management.
+**CLI6** Knows appropriate surgical management.
 
-Knows pre/post surgical or procedural management.
+**CLI7** Knows pre/post surgical or procedural management.
 
-Knows indications for admission to the hospital or to other appropriate setting (eg, ICU). Knows appropriate non-hospital health care settings.
+**CLI8** Knows indications for admission to the hospital or to other appropriate setting (eg, ICU). Knows appropriate non-hospital health care settings.
 
-Knows most appropriate discharge planning.
+**CLI9** Knows most appropriate discharge planning.
 
-Knows components of rehabilitation program.
+**CLI10** Knows components of rehabilitation program.
 
-Knows appropriate use and procedures regarding hospice care.
+**CLI11** Knows appropriate use and procedures regarding hospice care.
 
-Educates patient or family regarding self-care.
+**CLI12** Educates patient or family regarding self-care.
 
-Knows relevant roles of allied health personnel.
+**CLI13** Knows relevant roles of allied health personnel.
 
-### Mixed Management - STEP 2 CK ONLY
+### Mixed Management (MIM) - STEP 2 CK ONLY
 
 **Selecting Clinical Interventions**
 
-Selects most appropriate management option from set of mixed management options (eg, mix of diagnostic studies, pharmacotherapy, procedures, observation, or referral).
+**MIM1** Selects most appropriate management option from set of mixed management options (eg, mix of diagnostic studies, pharmacotherapy, procedures, observation, or referral).
 
-## Communication - STEP 1 ONLY
+## Communication (COM) - STEP 1 ONLY
 
-**Fostering the Relationship**
+**COM1** **Fostering the Relationship**
 
-**Gathering Information**
+**COM2** **Gathering Information**
 
-**Providing Information**
+**COM3** **Providing Information**
 
-**Making Decisions**
+**COM4** **Making Decisions**
 
-**Supporting Emotions**
+**COM5** **Supporting Emotions**
 
-**Enabling Patient Behaviors**
+**COM6** **Enabling Patient Behaviors**
 
-**Using an Interpreter or Surrogate**
+**COM7** **Using an Interpreter or Surrogate**
 
-## Professionalism, Including Legal and Ethical Issues - STEP 2 CK ONLY
+## Professionalism, Including Legal and Ethical Issues (PLE) - STEP 2 CK ONLY
 
 ### Patients and Families - STEP 2 CK ONLY
 
 **Understanding and Applying Principles of Professionalism, Legal and Ethical Issues in
 Interactions with Patients and Families**
 
-Understanding and applying principles of professionalism, legal and ethical issues in interactions with patients
+**PLE1** Understanding and applying principles of professionalism, legal and ethical issues in interactions with patients
 
-Knows the guidelines for obtaining informed consent for treatment including children and adolescents, third-party permission, and emergent situations.
+**PLE2** Knows the guidelines for obtaining informed consent for treatment including children and adolescents, third-party permission, and emergent situations.
 
-Recognizes need for third-party permission for treatment in medical emergencies.
+**PLE3** Recognizes need for third-party permission for treatment in medical emergencies.
 
-Knows guidelines for treatment of minors with/without notification of parents.
+**PLE4** Knows guidelines for treatment of minors with/without notification of parents.
 
-Knows definitions of competence and sanity.
+**PLE5** Knows definitions of competence and sanity.
 
-Knows the guidelines for involuntary admission.
+**PLE6** Knows the guidelines for involuntary admission.
 
-Knows guidelines for confidentiality of medical records.
+**PLE7** Knows guidelines for confidentiality of medical records.
 
-Knows guidelines for physician-patient relationship.
+**PLE8** Knows guidelines for physician-patient relationship.
 
-Knows issues related to cultural competence and can apply knowledge in specific patient
+**PLE9** Knows issues related to cultural competence and can apply knowledge in specific patient
 situations.
 
 ### Death and Dying - STEP 2 CK ONLY
 
 **Understanding and Applying Principles of Professionalism, Legal and Ethical Issues Related to Death and Dying**
 
-Assesses degree of disclosure to terminally ill patients.
+**PLE10** Assesses degree of disclosure to terminally ill patients.
 
-Recognizes patient's right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.
+**PLE11** Recognizes patient's right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.
 
-Assesses quality-of-life decisions.
+**PLE12** Assesses quality-of-life decisions.
 
-Knows appropriate prescriptive practices; knows appropriate use of opioids in terminally ill patients.
+**PLE13** Knows appropriate prescriptive practices; knows appropriate use of opioids in terminally ill patients.
 
-Knows definition of and legal issues regarding brain death.
+**PLE14** Knows definition of and legal issues regarding brain death.
 
-Knows management of terminally ill patients related to treating chronic pain, and recognizing patient's expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.
+**PLE15** Knows management of terminally ill patients related to treating chronic pain, and recognizing patient's expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.
 
 ### Other Health Professionals - STEP 2 CK ONLY
 
 **Understanding and Applying Professionalism, Legal, and Ethical Issues in Dealing with
 Physicians and Other Health Professionals**
 
-Knows guidelines for reporting findings to proper authorities.
+**PLE16** Knows guidelines for reporting findings to proper authorities.
 
-Knows Good Samaritan laws.
+**PLE17** Knows Good Samaritan laws.
 
-Recognizes physician error and negligence.
+**PLE18** Recognizes physician error and negligence.
 
-Recognizes and deals appropriately with impaired physician.
+**PLE19** Recognizes and deals appropriately with impaired physician.
 
-## Systems-based Practice, Including Patient Safety - STEP 2 CK ONLY
+## Systems-based Practice, Including Patient Safety (SBP) - STEP 2 CK ONLY
 
 ### Systems-based Practice - STEP 2 CK ONLY
 
-Understands basic concepts and terminology, principles, and application of quality improvement science and outcome analysis.
+**SBP1** Understands basic concepts and terminology, principles, and application of quality improvement science and outcome analysis.
 
-Recognizes and optimizes human and environmental factors (eg, workplace design, standardization, processes).
+**SBP2** Recognizes and optimizes human and environmental factors (eg, workplace design, standardization, processes).
 
-Understands the role and characteristics of teams and communication strategies.
+**SBP3** Understands the role and characteristics of teams and communication strategies.
 
 ### Patient Safety - STEP 2 CK ONLY
 
-Anticipates, recognizes, analyzes, and mitigates risk (sources of error).
+**SBP4** Anticipates, recognizes, analyzes, and mitigates risk (sources of error).
 
-Evaluates, reports, and responds to near-misses and system errors.
+**SBP5** Evaluates, reports, and responds to near-misses and system errors.
 
-Identifies sources of error and suggests appropriate measures to evaluate or reduce the likelihood of specific errors.
+**SBP6** Identifies sources of error and suggests appropriate measures to evaluate or reduce the likelihood of specific errors.
 
-## Practice-Based Learning ­– Applied Biostatistics and Clinical Epidemiology - BOTH STEPS
+## Practice-Based Learning ­– Applied Biostatistics and Clinical Epidemiology (PBL) - BOTH STEPS
 
 ### Principles of Biostatistics and Epidemiology - BOTH STEPS
 
 **Understanding and Application of the Principles of Biostatistics and Epidemiology**
 
-Understands and can apply principles of epidemiology and population health, including health status indicators, outbreak investigation, points of intervention.
+**PBL1** Understands and can apply principles of epidemiology and population health, including health status indicators, outbreak investigation, points of intervention.
 
-Understands and can apply principles of study design and study flaws.
+**PBL2** Understands and can apply principles of study design and study flaws.
 
-Understands and can apply the principles of screening and other tests.
+**PBL3** Understands and can apply the principles of screening and other tests.
 
-Understands use and interpretation of statistical principles and measures of association.
+**PBL4** Understands use and interpretation of statistical principles and measures of association.
 
 ### Application of Information from Studies or Other Written Material to Patient Care - BOTH STEPS
 
-**Is able to make decisions about patient care based on results of study or other written materials**
+**PBL5** **Is able to make decisions about patient care based on results of study or other written materials**
 
 ### Principles of Research Ethics and Regulatory Issues - BOTH STEPS
 
-**Understands the principles of research ethics and regulatory issues**
+**PBL6** **Understands the principles of research ethics and regulatory issues**
