@@ -1,8 +1,25 @@
 # META: Mindfully Evolving, Thriving & Advocating: Week 5
 
+[↶ Back to USMLE OASys](/usmle/)
+
 [Course Information Year 1 Courses: META: Mindfully Evolving, Thriving & Advocating](/usmle/meta/course-information.html)
 
 Note - Required Anti-Racism Readings for Week 5 are listed here and also on the [Anti-Racism Readings tab](/meta/w5-antiracism/), along with definitions of Novice, Intermediate, and Expert.. Be sure to check out the resources on the [Ant-Racism Readings tab](/meta/w5-antiracism/) to delve deeper into this important topic. 
+
+- **META: Mindfully Evolving, Thriving & Advocating**
+  - [Week 1](/usmle/meta/week1.html)
+  - [Week 2](/usmle/meta/week2.html)
+  - [Week 3](/usmle/meta/week3.html)
+  - [Week 4](/usmle/meta/week4.html)
+  - **Week 5**
+    - [Anti-Racism Readings](/usmle/meta/w5-antiracism.html)
+  - [Week 6](/usmle/meta/week6.html)
+
+**⚠ This page was originally intended to be a copy of a university syllabus that was available for public download from the links listed at the bottom of this page. Although I had to make slight modifications for style while transferring the content to this website, I made every effort to not touch the content itself. The syllabic content is copyrighted by its authors.**
+
+> My notes are formatted as blockquotes, like this one, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode), and &copy; 2021 by Pavel Zhelnov, MD.
+
+-----
 
 ## Learning - Growth Mindset & Shame Resilience
 
