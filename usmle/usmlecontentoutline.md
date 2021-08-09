@@ -69,6 +69,12 @@ Energy metabolism (eg, ATP generation, transport chain)
 
 ### Biology of cells
 
+<details>
+
+<summary>
+  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/25/">glternative</a>&nbsp;]</strong>
+</summary>
+
 Adaptive cell responses and cellular homeostasis (eg, hypertrophy)
 
 Mechanisms of injury and necrosis, including pathologic processes (eg, liquefactive necrosis, free radical formation)
@@ -83,6 +89,8 @@ Mechanisms of dysregulation
 - general principles of invasion and metastasis, including cancer staging
 
 Cell/tissue structure, regulation, and function, including cytoskeleton, organelles, glycolipids, channels, gap junctions, extracellular matrix, and receptors
+
+</details>
 
 ### Human development and genetics
 
