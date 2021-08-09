@@ -94,6 +94,12 @@ Cell/tissue structure, regulation, and function, including cytoskeleton, organel
 
 ### Human development and genetics
 
+<details>
+
+<summary>
+  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/28/">glternative</a>&nbsp;]</strong>
+</summary>
+
 Principles of pedigree analysis
 
 - inheritance patterns
@@ -106,6 +112,8 @@ Principles of gene therapy
 Genetic testing and counseling
 
 Genetic mechanisms (eg, penetrance, genetic heterogeneity)
+
+</details>
 
 ### Biology of tissue response to disease
 
