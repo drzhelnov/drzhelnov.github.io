@@ -117,6 +117,12 @@ Genetic mechanisms (eg, penetrance, genetic heterogeneity)
 
 ### Biology of tissue response to disease
 
+<details>
+
+<summary>
+  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/31/">glternative</a>&nbsp;]</strong>
+</summary>
+
 Acute inflammatory responses (patterns of response)
 
 - acute inflammation and mediator systems (eg, histamine, prostaglandins, bradykinins, eosinophilic basic protein, nitric oxide)
@@ -132,6 +138,8 @@ Reparative processes
 - wound healing, repair: thrombosis, granulation tissue, angiogenesis, fibrosis,
 - scar/keloid formation
 - regenerative process
+
+</details>
 
 ### Pharmacodynamic and pharmacokinetic processes: general principles
 
