@@ -143,6 +143,12 @@ Reparative processes
 
 ### Pharmacodynamic and pharmacokinetic processes: general principles
 
+<details>
+
+<summary>
+  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/34/">glternative</a>&nbsp;]</strong>
+</summary>
+
 Pharmacokinetics: absorption, distribution, metabolism, excretion, dosage intervals
 
 Mechanisms of drug action, structure-activity relationships (eg, anticancer drugs)
@@ -156,6 +162,8 @@ Mechanisms of drug adverse effects, overdosage, toxicology
 Mechanisms of drug interactions
 
 Signal transduction, including structure/function of all components of signal transduction pathways such as receptors, ligands (eg, general principles of nitric oxide, autocrine and paracrine signaling)
+
+</details>
 
 ### Microbial biology
 
