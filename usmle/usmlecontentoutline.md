@@ -208,13 +208,19 @@ Signal transduction, including structure/function of all components of signal tr
 
 ### Normal age-related findings and care of the well patient
 
-**Infancy and childhood (0-12 years)** 
+<details>
+
+<summary>
+  <strong>Infancy and childhood (0-12 years) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/40/">glternative</a>&nbsp;]</strong>
+</summary>
 
 **Normal physical changes:** linear growth, variations in linear growth, including constitutional delay; weight; head circumference; micturition, defecation, primary incontinence/bedwetting; normal physical examination; screening; sleep; teething syndrome
 
 **Developmental stages:** motor; speech; cognitive; psychosocial; anticipatory guidance
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, guns, swimming, motor vehicles, car seats); routine vaccinations
+
+</details>
 
 **Adolescence (13-17 years)**
 
