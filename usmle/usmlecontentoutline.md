@@ -167,6 +167,12 @@ Signal transduction, including structure/function of all components of signal tr
 
 ### Microbial biology
 
+<details>
+
+<summary>
+  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/37/">glternative</a>&nbsp;]</strong>
+</summary>
+
 **Microbial identification and classification, including principles, microorganism identification, and non-immunologic laboratory diagnosis**
 
 **Bacteria**
@@ -197,6 +203,8 @@ Signal transduction, including structure/function of all components of signal tr
 - antiparasitic agents (eg, mechanisms of action on parasite, toxicity to humans, and mechanisms of resistance)
 
 **Prions**
+
+</details>
 
 ### Normal age-related findings and care of the well patient
 
