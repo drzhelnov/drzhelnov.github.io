@@ -236,13 +236,19 @@ Signal transduction, including structure/function of all components of signal tr
 
 </details>
 
-**Adulthood (18-64 years)**
+<details>
+
+<summary>
+  <strong>Adulthood (18-64 years) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/46/">glternative</a>&nbsp;]</strong>
+</summary>
 
 **Normal physical changes:** weight; normal physical examination; screening; sleep
 
 **Developmental stages:** cognitive; intimacy vs isolation; anticipatory guidance
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention; routine vaccinations
+
+</details>
 
 **Older Adulthood (65 years and older)**
 
