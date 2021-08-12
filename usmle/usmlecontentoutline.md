@@ -222,13 +222,19 @@ Signal transduction, including structure/function of all components of signal tr
 
 </details>
 
-**Adolescence (13-17 years)**
+<details>
+
+<summary>
+  <strong>Adolescence (13-17 years) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/43/">glternative</a>&nbsp;]</strong>
+</summary>
 
 **Normal physical changes:** linear growth, variations in linear growth including constitutional delay; weight; puberty; normal physical examination; gynecomastia; autonomy/self-identity; sleep
 
 **Developmental stages:** cognitive (eg, abstract thought); psychosocial (eg, autonomy, role confusion, sexual identity); anticipatory guidance
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, risk-taking behavior, helmets, safe sex, motor vehicles, seat belts, distractions); routine vaccinations
+
+</details>
 
 **Adulthood (18-64 years)**
 
