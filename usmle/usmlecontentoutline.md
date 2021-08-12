@@ -250,13 +250,19 @@ Signal transduction, including structure/function of all components of signal tr
 
 </details>
 
-**Older Adulthood (65 years and older)**
+<details>
+
+<summary>
+  <strong>Older Adulthood (65 years and older) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/49/">glternative</a>&nbsp;]</strong>
+</summary>
 
 **Normal physical changes, including normal physical exam for age:** weight, height (spinal compression), skin, bruising; normal physical examination; response to temperature; micturition, defecation; sleep
 
 **Developmental stages:** motor; cognitive (eg, psychomotor slowing); psychosocial; integrity vs despair; retrospection; anticipatory guidance
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, falls, general medical condition; polypharmacy, driving, caregiver stress); routine vaccinations
+
+</details>
 
 ## Immune System - BOTH STEPS
 
