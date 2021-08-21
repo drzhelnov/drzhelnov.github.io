@@ -1,0 +1,10 @@
+Dr. Sam: The Videogame
+
+You are Sam L. Leigh, an aspiring physician seeking to practice medicine in the United States. Help Sam on his path, complete quests, and achieve ranks to claim the ultimate award: the Medical License...
+
+Gameplay
+
+- You start the game as a Level 0 hero with no abilities. After completing an Ability Track (a single USMLE® Task/Competency), you get an Ability Badge, and your hero Level goes up. You have to clear all Ability Tracks to complete the game.
+- Before you enter the first Ability Track, you will need to complete the Map Tutorial that introduces you to ingame Locations (the USMLE® Content Outline Topic Areas) and the Creatures that inhabit them (the USMLE® Content Outline Topics).
+- Each Ability Track goes through the same Locations where you will meet the same Creatures but interact differently with them every time. An Ability Track starts with the Ability description (sample test item lead-ins) that specifies how you should interact with Creatures while on the Track.
+- Effectively, the video game is a series of successive screens that display learning instructions with the goal of mastering all of the USMLE® Task/Competencies while covering in full the USMLE® Content Outline.
