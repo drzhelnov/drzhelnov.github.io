@@ -26,6 +26,8 @@
 *   [Ch 1 - The Medical Interview IN: Smith's Patient Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193676022)
     
     > [[glternative]](http://glternative.com/11/)
+    >
+    > Also read Foreword – see [glternative](http://glternative.com/52/).
 
     For TBL 1
     
