@@ -56,7 +56,9 @@ A 22-year-old man comes to the clinic to discuss the results of an HIV immunoass
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) “At this time, we recommend antiretroviral therapy for all HIV-infected patients. This needs to be taken consistently for the rest of your life. Are you ready to start therapy today?”
 
@@ -72,7 +74,9 @@ A 22-year-old man comes to the clinic to discuss the results of an HIV immunoass
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (D) “What are your thoughts and feelings about this HIV test result?”
 
@@ -84,7 +88,9 @@ After being severely beaten and sustaining a gunshot wound to the abdomen, a 42-
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) Reassure the patient that her chance of becoming addicted to narcotics is minuscule
 
@@ -100,7 +106,9 @@ After being severely beaten and sustaining a gunshot wound to the abdomen, a 42-
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (A) Reassure the patient that her chance of becoming addicted to narcotics is minuscule
 
@@ -112,7 +120,9 @@ A 62-year-old man is admitted to the hospital for evaluation of abdominal pain. 
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) "Can you tell me more about your abdominal pain?"
 
@@ -128,7 +138,9 @@ A 62-year-old man is admitted to the hospital for evaluation of abdominal pain. 
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (E) "You sound upset. Tell me a little more about that."
 
@@ -140,7 +152,9 @@ A 68-year-old woman with end-stage renal disease comes to the office for a follo
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) "I imagine being on dialysis is frustrating, but you don't want to die from kidney disease, do you?"
 
@@ -156,7 +170,9 @@ A 68-year-old woman with end-stage renal disease comes to the office for a follo
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (C) "It is tough to change your diet and fluid intake, but what sorts of things were you doing at first when you were following the recommendations?"
 
@@ -169,7 +185,9 @@ statement?
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) "Could you tell me your thoughts about the hormone treatment option we have discussed?"
 
@@ -185,7 +203,9 @@ statement?
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (A) "Could you tell me your thoughts about the hormone treatment option we have discussed?"
 
@@ -197,7 +217,9 @@ A 26-year-old woman comes to a busy emergency department because of a 2-day hist
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) "It is harsh to suggest that you waited because you don’t have insurance, but how can we help you feel better today?"
 
@@ -213,7 +235,9 @@ A 26-year-old woman comes to a busy emergency department because of a 2-day hist
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (E) "Thank you for waiting. How can I help you today?"
 
@@ -225,7 +249,9 @@ A 75-year-old woman with type 2 diabetes mellitus and hypertension is brought to
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) Bilingual staff member
 
@@ -239,7 +265,9 @@ A 75-year-old woman with type 2 diabetes mellitus and hypertension is brought to
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (D) Telephone interpreter
 
@@ -251,7 +279,9 @@ A 19-year-old man with asthma comes to a new physician for an initial examinatio
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) "Are you sure that you're taking your medications appropriately?"
 
@@ -267,7 +297,9 @@ A 19-year-old man with asthma comes to a new physician for an initial examinatio
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (C) "Tell me what you know about the steroid inhalers and how they are supposed to work."
 
@@ -279,7 +311,9 @@ A 74-year-old man with mild chronic obstructive pulmonary disease comes to the p
 
 <details>
 
-<summary><span data-open="Hide Options" data-close="Show Response Options"></span></summary>
+<summary>
+  <span data-open="Hide Options" data-close="Show Response Options"></span>
+</summary>
 
 (A) "I may have to refer you to another physician who doesn't remind you of your daughter so you can focus more on your medical condition and its treatment."
 
@@ -295,7 +329,9 @@ A 74-year-old man with mild chronic obstructive pulmonary disease comes to the p
 
 <details>
 
-<summary><span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span></summary>
+<summary>
+  <span data-open="Hide Correct Answer" data-close="Show Correct Answer"></span>
+</summary>
 
 (E) "You must miss your daughter very much. Tell me about her."
 
