@@ -146,7 +146,14 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 **DIA1** Selects the most likely diagnosis.
 
+> - Which of the following is the most likely diagnosis?
+> - Which of the following is the most likely working diagnosis?
+> - Which of the following best explains these findings? (options would be diagnoses; correct answer could be “Normal finding(s)”)
+> - Which of the following infectious agents is the most likely cause of this patient’s pneumonia?
+
 **DIA2** Assesses the developmental level of the patient.
+
+> ⚠ No mention of DIA2 in the [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020.
 
 ### Prognosis/Outcome (PRO) - STEP 2 CK ONLY
 
