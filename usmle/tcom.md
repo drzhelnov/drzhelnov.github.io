@@ -59,9 +59,40 @@ _Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th
 
 **MK2** Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
 
+**Sample MK2 Lead-ins:**
+
+> - Which of the following is the most likely underlying cause of this patient’s condition?
+> - Which of the following is the most likely explanation for this patient’s condition?
+> - Which of the following cell types most likely played a primary role in the development of this lesion?
+> - Which of the following immune system mediators plays a critical role in the pathogenesis of this patient’s current condition?
+> - This patient most likely has a deficiency in which of the following enzymes?
+> - Which of the following cytokines is the most likely cause of this condition?
+> - Which of the following processes is most likely impaired in this patient?
+
+_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
+
 **MK3** Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.
 
+**Sample MK3 Lead-ins:**
+
+> - The most likely cause of the findings in this patient is damage to which of the following structures?
+> - Which of the following structures is at greatest risk for damage during this procedure?
+> - Which of the following nerves is most likely carrying the sensation for this patient’s pain?
+> - The most likely cause of these findings is dysfunction of which of the following structures?
+> - Which of the following developmental abnormalities is the most likely cause of the findings in this patient?
+
+_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
+
 **MK4** Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.
+
+**Sample MK4 Lead-ins:**
+
+> - Which of the following is the most likely mechanism of the beneficial effect of this drug?
+> - Which of the following is the most appropriate management? (response options would be drug classes or mechanisms of action)
+> - Which of the following is the most likely mechanism of action of the therapeutic effect of this drug?
+> - The most appropriate medication for this patient will have which of the following mechanisms of action?
+
+_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
 
 ## Patient Care: Diagnosis - STEP VARIES
 
