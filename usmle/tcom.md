@@ -47,6 +47,16 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 **MK1** Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.
 
+**Sample MK1 Lead-ins:**
+
+> - Which of the following pathogens is the most likely cause of this patient’s condition?
+> - Which of the following is the most likely infectious agent?
+> - This patient most likely acquired the infectious agent via which of the following modes of transmission?
+> - This patient most likely has a defect in which of the following?
+> - Which of the following is the most likely cause/mechanism of this effect?
+
+_Source: [NBME Item-Writing Guide](nbme.org/item-writing-guide), 6th Edition—Version November 2020._
+
 **MK2** Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
 
 **MK3** Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.
@@ -190,6 +200,14 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 **COM6** **Enabling Patient Behaviors**
 
 **COM7** **Using an Interpreter or Surrogate**
+
+**Sample COM Lead-ins:**
+
+> - Which of the following is the most appropriate opening remark to this patient?
+> - Which of the following is the most appropriate response by the provider?
+> - Which of the following statements by the provider is most appropriate to...?
+
+_Source: [NBME Item-Writing Guide](nbme.org/item-writing-guide), 6th Edition—Version November 2020._
 
 ## Professionalism, Including Legal and Ethical Issues (PLE) - STEP 2 CK ONLY
 
