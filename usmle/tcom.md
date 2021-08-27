@@ -43,6 +43,8 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 ## Medical Knowledge/Scientific Concepts (MK) - STEP 1 ONLY
 
+> ⚠ Task/competency information formatted as **blockquotes,** like this one, is per the [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020.
+
 **Applying Foundational Science Concepts**
 
 **MK1** Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.
@@ -54,8 +56,6 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 > - This patient most likely acquired the infectious agent via which of the following modes of transmission?
 > - This patient most likely has a defect in which of the following?
 > - Which of the following is the most likely cause/mechanism of this effect?
-
-_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
 
 **MK2** Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
 
@@ -69,8 +69,6 @@ _Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th
 > - Which of the following cytokines is the most likely cause of this condition?
 > - Which of the following processes is most likely impaired in this patient?
 
-_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
-
 **MK3** Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.
 
 **Sample MK3 Lead-ins:**
@@ -81,8 +79,6 @@ _Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th
 > - The most likely cause of these findings is dysfunction of which of the following structures?
 > - Which of the following developmental abnormalities is the most likely cause of the findings in this patient?
 
-_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
-
 **MK4** Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.
 
 **Sample MK4 Lead-ins:**
@@ -92,8 +88,6 @@ _Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th
 > - Which of the following is the most likely mechanism of action of the therapeutic effect of this drug?
 > - The most appropriate medication for this patient will have which of the following mechanisms of action?
 
-_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
-
 ## Patient Care: Diagnosis - STEP VARIES
 
 ### History/Physical Examination (HP) - STEP 1 ONLY
@@ -102,11 +96,37 @@ _Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th
 
 **HP1** Knows signs/symptoms of selected disorders.
 
+> Response options are signs and symptoms. The item asks which signs and symptoms are characteristic of the patient’s condition. Typically used when patient presents with the condition.
+
+**Sample HP1 Lead-ins:**
+
+> - Which of the following signs/symptoms is most consistent with the underlying diagnosis in this patient?
+
 **HP2** Knows individual's risk factors for development of conditions. Given current symptoms in presented history, identifies other pertinent factors in the history.
+
+> Typically used when patient presents with the condition.
+
+**Sample HP2 Lead-ins:**
+
+> - Which of the following factors in this patient’s history most increased the risk for developing this condition?
 
 **HP3** Given a specific problem, knows what to ask in obtaining further pertinent additional history.
 
+> The response options should not be referenced in the vignette and should not include details that would be obtained during initial history-taking. If asking about information that was already obtained and is mentioned in the vignette, use the following lead-in.
+
+**Sample HP3 Lead-ins:**
+
+> - It is most appropriate to obtain specific additional history regarding which of the following?
+
 **HP4** Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding.
+
+> The options are findings or directed physical examination techniques.
+
+**Sample HP4 Lead-ins:**
+
+> - The remainder of the physical examination is most likely to show which of the following? (ensure all options are portions of the physical examination that would not yet have occurred in the patient scenario)
+> - It is most appropriate to direct the physical examination toward which of the following? (sample options: “Auscultation of the lungs,” “Palpation of the abdomen,” “Rotation of hip joints”)
+> - Which of the following signs or symptoms is most indicative of the need for further studies?
 
 ### Laboratory/Diagnostic Studies (LDS) - STEP 2 CK ONLY
 
