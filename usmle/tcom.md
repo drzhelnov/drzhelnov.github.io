@@ -153,7 +153,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 **DIA2** Assesses the developmental level of the patient.
 
-> ⚠ No mention of DIA2 in the [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020.
+> ⚠ No mention of this task/competency in the [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020.
 
 ### Prognosis/Outcome (PRO) - STEP 2 CK ONLY
 
@@ -264,8 +264,6 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 > - Which of the following is the most appropriate opening remark to this patient?
 > - Which of the following is the most appropriate response by the provider?
 > - Which of the following statements by the provider is most appropriate to...?
-
-_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
 
 ## Professionalism, Including Legal and Ethical Issues (PLE) - STEP 2 CK ONLY
 
