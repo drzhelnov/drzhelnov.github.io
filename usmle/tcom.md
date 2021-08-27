@@ -55,7 +55,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 > - This patient most likely has a defect in which of the following?
 > - Which of the following is the most likely cause/mechanism of this effect?
 
-_Source: [NBME Item-Writing Guide](nbme.org/item-writing-guide), 6th Edition—Version November 2020._
+_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
 
 **MK2** Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
 
@@ -207,7 +207,7 @@ _Source: [NBME Item-Writing Guide](nbme.org/item-writing-guide), 6th Edition—V
 > - Which of the following is the most appropriate response by the provider?
 > - Which of the following statements by the provider is most appropriate to...?
 
-_Source: [NBME Item-Writing Guide](nbme.org/item-writing-guide), 6th Edition—Version November 2020._
+_Source: [NBME Item-Writing Guide](https://www.nbme.org/item-writing-guide), 6th Edition—Version November 2020._
 
 ## Professionalism, Including Legal and Ethical Issues (PLE) - STEP 2 CK ONLY
 
