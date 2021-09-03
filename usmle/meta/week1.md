@@ -32,6 +32,8 @@
     For TBL 1
     
 *   [Ch 2 - Data-Gathering and Empathy Skills IN: Smith's Patient Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193676059)
+
+    > [[glternative]](http://glternative.com/58/)
     
     For TBL 1
     
