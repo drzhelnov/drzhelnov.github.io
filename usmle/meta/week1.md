@@ -28,6 +28,8 @@
     > [[glternative]](http://glternative.com/11/)
     >
     > Also read Foreword – see [glternative](http://glternative.com/52/).
+    >
+    > The Smith’s text references [DocCom](http://view.doccom.org) modules, and some of them are publicly available; most are subscription-only. I checked with [Barbara Lewis](https://webcampus.med.drexel.edu/pch/HealthcareCommunication/Editors.html) regarding options, and they advised a 30-day access is available for 29.95 USD (as well as longer options). As patient communication seems like a high-yield topic for an IMG, I will consider buying this option but will check the free videos first. On the other hand, the Smith’s text is pretty straightforward, and [Companion Videos](https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=194191290) are available (also see below about them), so unsure if DocCom would be a significant addition yet.
 
     For TBL 1
     
@@ -92,6 +94,8 @@
 **Delve Deeper**
 
 **Bates' Visual Guide to Physical Examination**
+
+> I checked individual subscription options in the [Bates’ Visual User Guide](https://batesvisualguide.com/DocumentLibrary/Bates/Bates%20Visual%20User%20Guide_v1.pdf), and they seem limited. Also, I checked the following public sample videos: [Sample Bates Physical Examination Video](http://batesvisualguide.com/public/Sample_Bates_Physical_Examination_Video.aspx) and [Sample OSCE Clinical Skills Video](http://batesvisualguide.com/public/Sample_OSCE_Clinical_Skills_Video.aspx) (all available as of Sep 4, 2021), and I don’t think I need them that desperately. I have a copy of Bates’ text (12th edition), and I think it will do.
 
 **Musculoskeletal System:**
 
