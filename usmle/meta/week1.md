@@ -38,6 +38,10 @@
     For TBL 1
     
 *   [Ch 3 - The Beginning of the Interview: Patient Centered Interviewing IN: Smith's Patient Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193676161)
+
+    > Also see high-yielding [Companion Videos](https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=194191290) that are referenced throughout the Smith’s text (publicly available on the website as of Sep 4, 2021).
+    >
+    > I have also found that the [online Teaching Supplement](https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193677069) is publicly available (as of Sep 4, 2021), that should probably be of use.
     
     For TBL 1
     
