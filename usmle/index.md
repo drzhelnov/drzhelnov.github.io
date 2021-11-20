@@ -6,7 +6,7 @@ description: A free USMLE self-study course based on actual U.S. medical schools
 
 **[USMLE study for IMGs: an <u>O</u>pen <u>A</u>ccess, <u>Sys</u>tematic approach]**
 
-> On Hold as of November 11th, 2021
+> On Hold as of November 20th, 2021
 
 - **An Amalgam Schedule Made of U.S. Medical Schools’ Syllabi**
 - [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
@@ -28,7 +28,7 @@ My idea was to take existing curricula of various (preferably fewer and higher-r
 
 **M1** through **M4** denote years one through four at a [typical U.S. medical school](https://lcme.org/publications/#Standards). _Longitudinal_ is a year-long course interspersed with the shorter courses. Not all the curricular content was available for inclusion, but hopefully, this was enough. Sorry for any links that might get broken with time. Consider replacing unavailable readings with similar ones at hand, like I, too, did.
 
-[View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/index.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). My own prep reports are public as [GitHub issues](https://github.com/drzhelnov/drzhelnov.github.io/issues?q=is%3Aissue+label%3A%22USMLE+prep%22) (on hold as of Nov. 11, 2021). Enjoy!
+[View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/index.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). My own prep reports are public as [GitHub issues](https://github.com/drzhelnov/drzhelnov.github.io/issues?q=is%3Aissue+label%3A%22USMLE+prep%22) (on hold as of Nov. 20, 2021). Enjoy!
 
 -----
 
