@@ -18,7 +18,7 @@ permalink: /usmle/usmlecontentoutline/
 <details>
 
 <summary>
-  <strong>Overview, Credits & Disclaimer</strong>
+  <strong><span>Overview, Credits & Disclaimer</span></strong>
 </summary>
 
 **Pavel Zhelnov, MD**
@@ -50,7 +50,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 <details>
 
 <summary>
-  <strong>Table of Contents</strong>
+  <strong><span>Table of Contents</span></strong>
 </summary>
 
 - TOC
