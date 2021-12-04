@@ -47,11 +47,16 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 </details>
 
-## Table of Contents
-{: .no_toc}
+<details>
+
+<summary>
+  <strong><h2>Table of Contents</h2></strong>
+</summary>
 
 - TOC
 {:toc}
+
+</details>
 
 ## General Principles of Foundational Science - BOTH STEPS
 
