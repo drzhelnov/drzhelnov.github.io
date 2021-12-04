@@ -13,6 +13,14 @@ permalink: /usmle/usmlecontentoutline/
 - [Interactive USMLE Physician Tasks/Competencies](/usmle/tcom/)
 - **Interactive USMLE Content Outline**
 
+{::options parse_block_html="true" /}
+
+<details>
+
+<summary>
+  <strong>Overview, Credits & Disclaimer</strong>
+</summary>
+
 **Pavel Zhelnov, MD**
 <br>
 [@drzhelnov](https://twitter.com/drzhelnov)
@@ -37,13 +45,13 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 [View this page on GitHub](https://github.com/drzhelnov/drzhelnov.github.io/blob/master/usmle/usmlecontentoutline.md) to create a custom copy (also to track versions). Feedback is always welcome via [GitHub](https://github.com/pvzhelnov) or [Twitter](https://twitter.com/drzhelnov). Enjoy!
 
+</details>
+
 ## Table of Contents
 {: .no_toc}
 
 - TOC
 {:toc}
-
-{::options parse_block_html="true" /}
 
 ## General Principles of Foundational Science - BOTH STEPS
 
