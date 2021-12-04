@@ -60,13 +60,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 ## General Principles of Foundational Science - BOTH STEPS
 
-### Biochemistry and molecular biology
-
-<details>
-
-<summary>
-  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/22/">glternative</a>&nbsp;]</strong>
-</summary>
+### Biochemistry and molecular biology [[glternative](http://glternative.com/22/)]
 
 Gene expression: DNA structure, replication, exchange, and epigenetics (eg, imprinting, X-activation, DNA methylation)
 
@@ -78,15 +72,7 @@ Structure and function of proteins and enzymes (eg, enzyme kinetics and structur
 
 Energy metabolism (eg, ATP generation, transport chain)
 
-</details>
-
-### Biology of cells
-
-<details>
-
-<summary>
-  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/25/">glternative</a>&nbsp;]</strong>
-</summary>
+### Biology of cells [[glternative](http://glternative.com/25/)]
 
 Adaptive cell responses and cellular homeostasis (eg, hypertrophy)
 
@@ -103,15 +89,7 @@ Mechanisms of dysregulation
 
 Cell/tissue structure, regulation, and function, including cytoskeleton, organelles, glycolipids, channels, gap junctions, extracellular matrix, and receptors
 
-</details>
-
-### Human development and genetics
-
-<details>
-
-<summary>
-  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/28/">glternative</a>&nbsp;]</strong>
-</summary>
+### Human development and genetics [[glternative](http://glternative.com/28/)]
 
 Principles of pedigree analysis
 
@@ -126,15 +104,7 @@ Genetic testing and counseling
 
 Genetic mechanisms (eg, penetrance, genetic heterogeneity)
 
-</details>
-
-### Biology of tissue response to disease
-
-<details>
-
-<summary>
-  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/31/">glternative</a>&nbsp;]</strong>
-</summary>
+### Biology of tissue response to disease [[glternative](http://glternative.com/31/)]
 
 Acute inflammatory responses (patterns of response)
 
@@ -152,15 +122,7 @@ Reparative processes
 - scar/keloid formation
 - regenerative process
 
-</details>
-
-### Pharmacodynamic and pharmacokinetic processes: general principles
-
-<details>
-
-<summary>
-  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/34/">glternative</a>&nbsp;]</strong>
-</summary>
+### Pharmacodynamic and pharmacokinetic processes: general principles [[glternative](http://glternative.com/34/)]
 
 Pharmacokinetics: absorption, distribution, metabolism, excretion, dosage intervals
 
@@ -176,15 +138,7 @@ Mechanisms of drug interactions
 
 Signal transduction, including structure/function of all components of signal transduction pathways such as receptors, ligands (eg, general principles of nitric oxide, autocrine and paracrine signaling)
 
-</details>
-
-### Microbial biology
-
-<details>
-
-<summary>
-  <strong>[&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/37/">glternative</a>&nbsp;]</strong>
-</summary>
+### Microbial biology [[glternative](http://glternative.com/37/)]
 
 **Microbial identification and classification, including principles, microorganism identification, and non-immunologic laboratory diagnosis**
 
@@ -217,15 +171,9 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Prions**
 
-</details>
-
 ### Normal age-related findings and care of the well patient
 
-<details>
-
-<summary>
-  <strong>Infancy and childhood (0-12 years) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/40/">glternative</a>&nbsp;]</strong>
-</summary>
+**Infancy and childhood (0-12 years) [[glternative](http://glternative.com/40/)]**
 
 **Normal physical changes:** linear growth, variations in linear growth, including constitutional delay; weight; head circumference; micturition, defecation, primary incontinence/bedwetting; normal physical examination; screening; sleep; teething syndrome
 
@@ -233,13 +181,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, guns, swimming, motor vehicles, car seats); routine vaccinations
 
-</details>
-
-<details>
-
-<summary>
-  <strong>Adolescence (13-17 years) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/43/">glternative</a>&nbsp;]</strong>
-</summary>
+**Adolescence (13-17 years) [[glternative](http://glternative.com/43/)]**
 
 **Normal physical changes:** linear growth, variations in linear growth including constitutional delay; weight; puberty; normal physical examination; gynecomastia; autonomy/self-identity; sleep
 
@@ -247,13 +189,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, risk-taking behavior, helmets, safe sex, motor vehicles, seat belts, distractions); routine vaccinations
 
-</details>
-
-<details>
-
-<summary>
-  <strong>Adulthood (18-64 years) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/46/">glternative</a>&nbsp;]</strong>
-</summary>
+**Adulthood (18-64 years) [[glternative](http://glternative.com/46/)]**
 
 **Normal physical changes:** weight; normal physical examination; screening; sleep
 
@@ -261,21 +197,13 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention; routine vaccinations
 
-</details>
-
-<details>
-
-<summary>
-  <strong>Older Adulthood (65 years and older) [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/49/">glternative</a>&nbsp;]</strong>
-</summary>
+**Older Adulthood (65 years and older) [[glternative](http://glternative.com/49/)]**
 
 **Normal physical changes, including normal physical exam for age:** weight, height (spinal compression), skin, bruising; normal physical examination; response to temperature; micturition, defecation; sleep
 
 **Developmental stages:** motor; cognitive (eg, psychomotor slowing); psychosocial; integrity vs despair; retrospection; anticipatory guidance
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, falls, general medical condition; polypharmacy, driving, caregiver stress); routine vaccinations
-
-</details>
 
 ## Immune System - BOTH STEPS
 
@@ -581,17 +509,11 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Neoplasms:** benign neoplasms (e.g., ganglion cyst); malignant neoplasms of bone (eg, osteosarcoma, sarcoma, leiomyosarcoma, rhabdosarcoma); metastases to bone, secondary malignant neoplasm of bone
 
-<details>
-
-<summary>
-  <strong>Degenerative and metabolic disorders [&nbsp;<span data-open="collapse" data-close="expand"></span> | <a href="http://glternative.com/18/">glternative</a>&nbsp;]</strong>
-</summary>
+**Degenerative and metabolic disorders [[glternative](http://glternative.com/18/)]**
 
 - **degenerative/metabolic disorders of bone, tendon, and cartilage:** chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood-Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)
 - **degenerative/metabolic disorders of joints:** gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis
 - **degenerative/metabolic disorders of muscles, ligaments, fascia:** Dupuytren contracture; muscle calcification and ossification; muscle wasting and diffuse atrophy; rhabdomyolysis
-  
-</details>
 
 **Traumatic and mechanical disorders:** amputation and care of amputees; backache, including low back pain; blast injuries; compartment syndrome; contractures, hospital-acquired; contusions; dislocations; fractures; sprains, strains; kyphoscoliosis, scoliosis; rotator cuff syndrome; slipped capital femoral epiphysis; dislocation of hip
 
