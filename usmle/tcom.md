@@ -48,7 +48,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 <details>
 
 <summary>
-  <h2>Table of Contents</h2>
+  <strong>Table of Contents</strong>
 </summary>
 
 * TOC
