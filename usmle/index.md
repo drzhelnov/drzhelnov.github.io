@@ -17,7 +17,7 @@ description: A free USMLE self-study course based on actual U.S. medical schools
 <details>
 
 <summary>
-  <strong><span>Overview, Credits & Disclaimer</span></strong>
+  <strong data-open="Overview, Credits & Disclaimer" data-close="<span>Overview, Credits & Disclaimer</span>"></strong>
 </summary>
 
 **Pavel Zhelnov, MD**
