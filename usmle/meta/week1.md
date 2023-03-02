@@ -25,9 +25,9 @@
 
 *   [Ch 1 - The Medical Interview IN: Smith's Patient Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193676022)
     
-    > [[glternative]](http://glternative.com/11/)
+    > [[glternative]]()
     >
-    > Also read Foreword – see [glternative](http://glternative.com/52/).
+    > Also read Foreword – see [glternative]().
     >
     > The Smith’s text references [DocCom](http://view.doccom.org) modules, and some of them are publicly available; most are subscription-only. I checked with [Barbara Lewis](https://webcampus.med.drexel.edu/pch/HealthcareCommunication/Editors.html) regarding options, and they advised a 30-day access is available for 29.95 USD (as well as longer options). As patient communication seems like a high-yield topic for an IMG, I will consider buying this option but will check the free videos first. On the other hand, the Smith’s text is pretty straightforward, and [Companion Videos](https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=194191290) are available (also see below about them), so unsure if DocCom would be a significant addition yet.
 
@@ -35,7 +35,7 @@
     
 *   [Ch 2 - Data-Gathering and Empathy Skills IN: Smith's Patient Centered Interviewing](http://libux.utmb.edu/login?url=https://accessmedicine.mhmedical.com/content.aspx?bookid=2446&sectionid=193676059)
 
-    > [[glternative]](http://glternative.com/58/)
+    > [[glternative]]()
     
     For TBL 1
     

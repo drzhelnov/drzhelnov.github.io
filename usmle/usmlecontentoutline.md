@@ -33,9 +33,9 @@ An excerpt from the [original publication](https://www.usmle.org/pdfs/usmleconte
 
 **Note** that Step component specifications next to the content topics are **not** from the original document but from the official [Step 1 Content Description (PDF)](https://www.usmle.org/pdfs/step-1/content_step1.pdf) as well as the [Step 2 CK Content Description (PDF)](https://www.usmle.org/pdfs/step-2-ck/Step2CK_Content.pdf) (accessed on July 29, 2021), so please take these accordingly. **Also, Step 3 was not considered.**
 
-Interactive features are under development. I presume this outline as well as the [USMLE Physician Tasks/Competencies](/usmle/tcom/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) **so that each task/competency linked to specific study resources per each content topic.** This would effectively create a **self-study roadmap** with tasks/competencies as its **tracks** and content topics as the **milestones.** Naturally, to navigate the roadmap, the prospective Step-taker would need to clear specific resources such as textbook chapters, journal articles, videos, or their [glternatives](http://glternative.com). **QBanks would still be required** to test one’s competencies and topic knowledge once there is something to test.
+Interactive features are under development. I presume this outline as well as the [USMLE Physician Tasks/Competencies](/usmle/tcom/) could be nicely aligned with my [amalgam USMLE prep schedule made of U.S. med schools syllabi](/usmle/) **so that each task/competency linked to specific study resources per each content topic.** This would effectively create a **self-study roadmap** with tasks/competencies as its **tracks** and content topics as the **milestones.** Naturally, to navigate the roadmap, the prospective Step-taker would need to clear specific resources such as textbook chapters, journal articles, videos, or their [glternatives](). **QBanks would still be required** to test one’s competencies and topic knowledge once there is something to test.
 
-For the time being, I am creating _glternatives_ for each topic block (note the `[glternative]` links next to the topic titles). An **glternative**, a portmanteau of legal, Google, and alternative, is an open access community-written list of web searches that, in combination, cover all information from a given resource­—in this instance, basically the topic content but as clickable Google links. Check these and other glternatives for free at the website I created, [glternative.com](http://glternative.com/) (no registration required).
+For the time being, I am creating _glternatives_ for each topic block (note the `[glternative]` links next to the topic titles). An **glternative**, a portmanteau of legal, Google, and alternative, is an open access community-written list of web searches that, in combination, cover all information from a given resource­—in this instance, basically the topic content but as clickable Google links. Check these and other glternatives for free at the website I created, [glternative.com]() (no registration required).
 
 I do not own any outline content, just reproduce it for self-learning purposes and in good faith:
 
@@ -60,7 +60,7 @@ I do not own any outline content, just reproduce it for self-learning purposes a
 
 ## General Principles of Foundational Science - BOTH STEPS
 
-### Biochemistry and molecular biology [[glternative](http://glternative.com/22/)]
+### Biochemistry and molecular biology [[glternative]()]
 
 Gene expression: DNA structure, replication, exchange, and epigenetics (eg, imprinting, X-activation, DNA methylation)
 
@@ -72,7 +72,7 @@ Structure and function of proteins and enzymes (eg, enzyme kinetics and structur
 
 Energy metabolism (eg, ATP generation, transport chain)
 
-### Biology of cells [[glternative](http://glternative.com/25/)]
+### Biology of cells [[glternative]()]
 
 Adaptive cell responses and cellular homeostasis (eg, hypertrophy)
 
@@ -89,7 +89,7 @@ Mechanisms of dysregulation
 
 Cell/tissue structure, regulation, and function, including cytoskeleton, organelles, glycolipids, channels, gap junctions, extracellular matrix, and receptors
 
-### Human development and genetics [[glternative](http://glternative.com/28/)]
+### Human development and genetics [[glternative]()]
 
 Principles of pedigree analysis
 
@@ -104,7 +104,7 @@ Genetic testing and counseling
 
 Genetic mechanisms (eg, penetrance, genetic heterogeneity)
 
-### Biology of tissue response to disease [[glternative](http://glternative.com/31/)]
+### Biology of tissue response to disease [[glternative]()]
 
 Acute inflammatory responses (patterns of response)
 
@@ -122,7 +122,7 @@ Reparative processes
 - scar/keloid formation
 - regenerative process
 
-### Pharmacodynamic and pharmacokinetic processes: general principles [[glternative](http://glternative.com/34/)]
+### Pharmacodynamic and pharmacokinetic processes: general principles [[glternative]()]
 
 Pharmacokinetics: absorption, distribution, metabolism, excretion, dosage intervals
 
@@ -138,7 +138,7 @@ Mechanisms of drug interactions
 
 Signal transduction, including structure/function of all components of signal transduction pathways such as receptors, ligands (eg, general principles of nitric oxide, autocrine and paracrine signaling)
 
-### Microbial biology [[glternative](http://glternative.com/37/)]
+### Microbial biology [[glternative]()]
 
 **Microbial identification and classification, including principles, microorganism identification, and non-immunologic laboratory diagnosis**
 
@@ -173,7 +173,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 ### Normal age-related findings and care of the well patient
 
-**Infancy and childhood (0-12 years) [[glternative](http://glternative.com/40/)]**
+**Infancy and childhood (0-12 years) [[glternative]()]**
 
 **Normal physical changes:** linear growth, variations in linear growth, including constitutional delay; weight; head circumference; micturition, defecation, primary incontinence/bedwetting; normal physical examination; screening; sleep; teething syndrome
 
@@ -181,7 +181,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, guns, swimming, motor vehicles, car seats); routine vaccinations
 
-**Adolescence (13-17 years) [[glternative](http://glternative.com/43/)]**
+**Adolescence (13-17 years) [[glternative]()]**
 
 **Normal physical changes:** linear growth, variations in linear growth including constitutional delay; weight; puberty; normal physical examination; gynecomastia; autonomy/self-identity; sleep
 
@@ -189,7 +189,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention (eg, risk-taking behavior, helmets, safe sex, motor vehicles, seat belts, distractions); routine vaccinations
 
-**Adulthood (18-64 years) [[glternative](http://glternative.com/46/)]**
+**Adulthood (18-64 years) [[glternative]()]**
 
 **Normal physical changes:** weight; normal physical examination; screening; sleep
 
@@ -197,7 +197,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Lifestyle and routine preventive health care:** nutrition; exercise (eg, benefits of exercise); preventive/travel medicine; risk factors and prevention; routine vaccinations
 
-**Older Adulthood (65 years and older) [[glternative](http://glternative.com/49/)]**
+**Older Adulthood (65 years and older) [[glternative]()]**
 
 **Normal physical changes, including normal physical exam for age:** weight, height (spinal compression), skin, bruising; normal physical examination; response to temperature; micturition, defecation; sleep
 
@@ -509,7 +509,7 @@ Signal transduction, including structure/function of all components of signal tr
 
 **Neoplasms:** benign neoplasms (e.g., ganglion cyst); malignant neoplasms of bone (eg, osteosarcoma, sarcoma, leiomyosarcoma, rhabdosarcoma); metastases to bone, secondary malignant neoplasm of bone
 
-**Degenerative and metabolic disorders [[glternative](http://glternative.com/18/)]**
+**Degenerative and metabolic disorders [[glternative]()]**
 
 - **degenerative/metabolic disorders of bone, tendon, and cartilage:** chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood-Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)
 - **degenerative/metabolic disorders of joints:** gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis
