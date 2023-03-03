@@ -44,3 +44,8 @@ titles_from_headings:
   enabled:     true
   strip_title: false
   collections: false
+csv_reader:
+    converters:
+      - numeric
+    headers: true
+    encoding: utf-8
