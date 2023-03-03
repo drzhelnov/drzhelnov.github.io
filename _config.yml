@@ -49,3 +49,6 @@ csv_reader:
       - numeric
     headers: true
     encoding: utf-8
+sass:
+    load_paths: 
+        - _sass
