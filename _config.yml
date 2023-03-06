@@ -17,6 +17,12 @@ defaults:
     values:
       layout: "old-nov2021" # overrides previous default layout
       strip_title: true
+  -
+    scope:
+      path: "jobs"
+    values:
+      layout: "old-mar2023" # overrides previous default layout
+      strip_title: true
 title: "Doctor Zhelnov"
 
 url: "https://drzhelnov.com/"

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{% seo %}
+
+<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+{% include icons.html %}
+    <style>
+      header, section {
+        background-color: white;
+      }
+
+      .no-header-header {
+        display: none;
+      }
+
+      .no-header-content {
+        width: auto;
+        float: none;
+      }
+
+      footer {
+        z-index: -1;
+      }
+
+      .unfixed-footer {
+        z-index: 0;
+        float: none;
+        position: relative;
+      }
+
+      li ul, li p {
+        margin: 0;
+      }
+
+      details {
+        margin: 0 0 20px;
+      }
+
+      summary p {
+        display: inline;
+      }
+
+      summary span {
+        color: #267CB9;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      summary span:hover, summary span:focus {
+        color: #069;
+        font-weight: bold;
+      }
+
+      /* Credit goes to connexo @ https://stackoverflow.com/a/55032002 */
+
+      details[open] summary ::after {
+        content: attr(data-open);
+      }
+
+      details:not([open]) summary ::after {
+        content: attr(data-close);
+      }
+
+      /* End of credit */
+
+      pre {
+        white-space: pre-wrap;
+      }
+
+      .container {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+        height: 300px;
+      }
+
+      /* Then style the iframe to fit in the container div with full height and width */
+      .responsive-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      #map {
+        height: 300px;
+      }
+    </style>
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include ya-metrika.html %}
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script type="module" src="{{'/assets/js/jobs-gmaps.js' | absolute_url}}"></script>
+    <script>
+    var lblShow = "Показать биографию";
+    var lblHide = "Спрятать биографию"
+    function toggleDiv() {
+      var div = document.getElementById("clickable-div");
+      var btn = document.getElementById("div-toggler");
+      if (div.style.display === "inline-block") {
+        div.style.display = "none";
+        btn.innerHTML = lblShow;
+      } else {
+        div.style.display = "inline-block";
+        btn.innerHTML = lblHide;
+      }
+    }
+    </script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <section class="no-header-content">
+
+      {{ content }}
+
+      </section>
+      <footer class="unfixed-footer">
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    {% include g-analytics.html %}
+    {% endif %}
+
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2fnSZ39HmCZkw0jHVaoZHY3F3i8xXres&callback=initMap&v=weekly"
+      defer
+    ></script>
+  </body>
+</html>
