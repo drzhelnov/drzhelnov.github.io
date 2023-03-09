@@ -450,7 +450,7 @@ _Key Achievements:_
 
 2022
 
-(review in progress)
+(scoping review in progress)
 
 **[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol [Internet]. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)**
 
