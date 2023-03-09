@@ -482,6 +482,8 @@ Other publications:
 
 **Zhelnov P, Alikov Z, Kutianov D, Dulaev A, Iskrovskiy S. A Russian translation for: Vaccaro AR, Oner C, Kepler CK, Dvorak M, Schnake K, Bellabarba C, Reinhold M, Aarabi B, Kandziora F, Chapman J, Shanmuganathan R, Fehlings M, Vialle L; AOSpine Spinal Cord Injury & Trauma Knowledge Forum. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine (Phila Pa 1976). 2013 Nov 1;38(23):2028-37. doi: 10.1097/BRS.0b013e3182a8a381.**
 
+With permission from the lead author Dr. Alexander Vaccaro and the AO Foundation
+
 Funding: Self-funded
 
 ---
