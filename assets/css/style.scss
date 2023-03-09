@@ -1,0 +1,85 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header, section {
+    background-color: white;
+  }
+
+  .no-header-header {
+    display: none;
+  }
+
+  .no-header-content {
+    width: auto;
+    float: none;
+  }
+
+  footer {
+    z-index: -1;
+  }
+
+  .unfixed-footer {
+    z-index: 0;
+    float: none;
+    position: relative;
+  }
+
+  li ul, li p {
+    margin: 0;
+  }
+
+  details {
+    margin: 0 0 20px;
+  }
+
+  summary p {
+    display: inline;
+  }
+
+  summary span {
+    color: #267CB9;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  summary span:hover, summary span:focus {
+    color: #069;
+    font-weight: bold;
+  }
+
+  /* Credit goes to connexo @ https://stackoverflow.com/a/55032002 */
+
+  details[open] summary ::after {
+    content: attr(data-open);
+  }
+
+  details:not([open]) summary ::after {
+    content: attr(data-close);
+  }
+
+  /* End of credit */
+
+  pre {
+    white-space: pre-wrap;
+  }
+
+  .container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    height: 300px;
+  }
+
+  /* Then style the iframe to fit in the container div with full height and width */
+  .responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
