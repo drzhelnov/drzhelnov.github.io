@@ -359,7 +359,7 @@ _Key Achievements:_
 
 Moscow, Russia
 
-Chair: Professor Olga Yu. Rebrova, PhD
+Chair: [Professor Olga Yu. Rebrova, PhD](https://scholar.google.ru/citations?user=h7t0VTwAAAAJ)
 
 _Key Responsibilities:_
 
@@ -418,7 +418,7 @@ Pavlov University
 
 Saint Petersburg, Russia
 
-Supervisor: Professor Denis I. Kutyanov, MD, PhD
+Supervisor: [Professor Denis I. Kutyanov, MD, PhD](https://www.scopus.com/authid/detail.uri?authorId=57210235921)
 
 _Key Responsibilities:_
 
