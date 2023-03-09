@@ -466,7 +466,7 @@ Papers in Peer-reviewed Journals:
 
 **[1\. Meloncelli N, Young A, Christoffersen A, Rushton A, Zhelnov P, Wilkinson SA, Scott AM, de Jersey S. Co-designing nutrition interventions with consumers: A scoping review. J Hum Nutr Diet. 2022 Sep 2. doi: 10.1111/jhn.13082. Epub ahead of print. PMID: 36056610.](https://doi.org/10.1111/jhn.13082)**
 
-The first published scoping review featuring the '2-week' methodology (Clark et al., 2020)
+The first published scoping review featuring the '2-week' methodology ([Clark et al., 2020](https://doi.org/10.1016/j.jclinepi.2020.01.008))
 
 Funding: None
 
