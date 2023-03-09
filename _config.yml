@@ -13,7 +13,16 @@ google_analytics: UA-122303329-2
 markdown: kramdown
 plugins:
   - jekyll-readme-index
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
 readme_index:
   enabled:          true
   remove_originals: false
   with_frontmatter: false
+optional_front_matter:
+  remove_originals: false
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
