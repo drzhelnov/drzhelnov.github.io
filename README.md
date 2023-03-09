@@ -4,7 +4,7 @@
 
 {::options parse_block_html="true" /}
 
-> Last updated: March 8th, 2023
+> Last updated: {{ site.time | date: "%B %e, %Y" }}
 > 
 > {{ site.description }}
 
