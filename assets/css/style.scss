@@ -24,11 +24,26 @@ footer {
 
 /* End of credit */
 
+@media print {
+  body {
+      padding: 0 50px;
+      margin: 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+  }
+
+  footer {
+    page-break-before: avoid;
+  }
+}
+
 section {
   background-color: white;
   float: none;
   width: auto;
-  border-top: 0px;
+  border: 0px;
 }
 
 footer {
