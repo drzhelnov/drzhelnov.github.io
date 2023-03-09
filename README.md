@@ -498,10 +498,6 @@ Funding: Crowdfunding initiated; <$50 donations so far
 
 ### Previous:
 
-
-
----
-
 2021&ndash;2022
 
 (retired)
