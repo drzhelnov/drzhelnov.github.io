@@ -8,16 +8,6 @@
 > 
 > {{ site.description }}
 
-## a) CONTACTS
-
-I live in Mexico City, Mexico.
-
-This website **[drzhelnov.com](https://drzhelnov.com)** is my personal website.
-
-My email is `pavel [at] zheln [dot] com`.
-
-[Twitter](https://twitter.com/@drzhelnov) \| [ORCiD](https://orcid.org/0000-0003-2767-5123) \| [GitHub](https://github.com/p1m-ortho/)
-
 <details>
 
 <summary>
@@ -29,11 +19,21 @@ My email is `pavel [at] zheln [dot] com`.
 
 </details>
 
+## a) CONTACTS
+
+I live in Mexico City, Mexico.
+
+This website **[drzhelnov.com](https://drzhelnov.com)** is my personal website.
+
+My email is `pavel [at] zheln [dot] com`.
+
+[Twitter](https://twitter.com/@drzhelnov) \| [ORCiD](https://orcid.org/0000-0003-2767-5123) \| [GitHub](https://github.com/p1m-ortho/)
+
 ## b) DEGREES
 
 2023&ndash;2027
 
-PhD in Health Policy, Management and Evaluation (Health Services Research - Organization and Management Studies)
+PhD in Health Policy, Management and Evaluation (Health Services Research &ndash; Organization and Management Studies)
 
 (invited)
 
@@ -76,7 +76,7 @@ _GPA: 4.8 out of 5.0 (A-)_
 
 2011&ndash;2017
 
-Specialist Diploma &ndash; Doctor of Medicine (MD)
+**Specialist Diploma &ndash; Doctor of Medicine (MD)**
 
 [Pavlov University](https://1spbgmu.ru/)
 
@@ -168,11 +168,11 @@ Students' Conference Students' Science
 
 2023
 
-**Knowledge Synthesis Researcher & Writer**
+**Freelance Medical Writer**
 
-Freelance Digital Platforms
+Technological Platforms
 
-[Upwork](https://www.upwork.com/freelancers/~01b30dbd94172f6c5a) | [Freelancer](https://www.freelancer.com/u/drzhelnov)
+[Upwork](https://www.upwork.com/freelancers/~01b30dbd94172f6c5a) \| [Freelancer](https://www.freelancer.com/u/drzhelnov)
 
 Mexico City, Mexico
 
@@ -186,6 +186,7 @@ _Key Responsibilities:_
 _Key Achievements:_
 
 - Negotiated with 2 prospective clients after 1 week on the platforms, secured 1 long-term partnership offer.
+- Have worked on a large research report for pharma that involved a literature review and editing of interview transcripts.
 - [Built on experience with a previous project (Zheln.com) to lay out service options for clients.](https://zheln.com/)
 
 ---
@@ -245,7 +246,7 @@ _Key Achievements:_
 
 Project021.org
 
-Currently not operational
+(currently not operational)
 
 [Historical Dev Blog is online](https://t.me/Blog021)
 
@@ -403,7 +404,7 @@ _Key Achievements:_
 - Have been raising evidence-based practice awareness since 2016.
 - Currently at 500+ subscribers.
 
-## g) GRADUATE AND UNDERGRADU-ATE RESEARCH PROJECT SUPERVISION
+## g) GRADUATE AND UNDERGRADUATE RESEARCH PROJECT SUPERVISION
 
 2018&ndash;2020
 
@@ -449,7 +450,9 @@ _Key Achievements:_
 
 2022
 
-**[Meloncelli N, Young A, Christoffersen A, Zhelnov P, Rushton A, Wilkinson S, Scott AM, de Jersey S. The use of co-design for dietary interventions: protocol for a 2 week scoping review [Internet]. OSF; 2022. Available from: osf.io/y47gq](https://osf.io/y47gq)**
+Papers in Peer-reviewed Journals:
+
+**[1\. Meloncelli N, Young A, Christoffersen A, Rushton A, Zhelnov P, Wilkinson SA, Scott AM, de Jersey S. Co-designing nutrition interventions with consumers: A scoping review. J Hum Nutr Diet. 2022 Sep 2. doi: 10.1111/jhn.13082. Epub ahead of print. PMID: 36056610.](https://doi.org/10.1111/jhn.13082)**
 
 The first published scoping review featuring the '2-week' methodology (Clark et al., 2020)
 
@@ -457,9 +460,7 @@ Funding: None
 
 Other publications:
 
-Papers in Refereed Journals:
-
-[1\. Meloncelli N, Young A, Christoffersen A, Rushton A, Zhelnov P, Wilkinson SA, Scott AM, de Jersey S. Co-designing nutrition interventions with consumers: A scoping review. J Hum Nutr Diet. 2022 Sep 2. doi: 10.1111/jhn.13082. Epub ahead of print. PMID: 36056610.](https://doi.org/10.1111/jhn.13082)
+[Meloncelli N, Young A, Christoffersen A, Zhelnov P, Rushton A, Wilkinson S, Scott AM, de Jersey S. The use of co-design for dietary interventions: protocol for a 2 week scoping review [Internet]. OSF; 2022. Available from: osf.io/y47gq](https://osf.io/y47gq)
 
 ---
 
@@ -471,7 +472,9 @@ Funding: Self-funded
 
 ---
 
-2021
+2021&ndash;now
+
+(on hold)
 
 **[Bardavelidze G, Zhelnov P, Bykov V. Patient-reported outcomes of preserved tibial insertions in pediatric anterior cruciate ligament reconstruction with a semitendinosus-gracilis tendon autograft: a retrospective cohort study [Internet]. OSF; 2021. Available from: osf.io/q2cpm](https://osf.io/q2cpm)**
 
@@ -479,7 +482,7 @@ Funding: Self-funded
 
 ---
 
-2020
+2020&ndash;now
 
 **Zhelnov P, Alikov Z, Kutianov D, Dulaev A, Iskrovskiy S. A Russian translation for: Vaccaro AR, Oner C, Kepler CK, Dvorak M, Schnake K, Bellabarba C, Reinhold M, Aarabi B, Kandziora F, Chapman J, Shanmuganathan R, Fehlings M, Vialle L; AOSpine Spinal Cord Injury & Trauma Knowledge Forum. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine (Phila Pa 1976). 2013 Nov 1;38(23):2028-37. doi: 10.1097/BRS.0b013e3182a8a381.**
 
@@ -487,7 +490,7 @@ Funding: Self-funded
 
 Other publications:
 
-Papers in Refereed Journals:
+Papers in Peer-reviewed Journals:
 
 Translated manuscript submitted to a peer-reviewed journal
 
@@ -495,13 +498,17 @@ Translated manuscript submitted to a peer-reviewed journal
 
 2020
 
+(discontinued)
+
 **[Zhelnov P, Parfenenkova A, Zosen D, Karandasheva K, Lepik K, Muslimov A, Chekalov A, Anoshkin K, Trofimov M. Pharmaceuticals and biopharmaceuticals for engineered negligible senescence in humans: a scoping review of clinical and basic research [Internet]. OSF; 2021. Available from: osf.io/7mfj8](https://osf.io/7mfj8)**
 
 Funding: None (so far); a preliminary LoI submitted for a $25,000 SENS Research Foundation grant
 
 ---
 
-2020
+2020&ndash;2022
+
+(discontinued)
 
 **[Zhelnov P. Zheln.com: A protocol for a universal living overview of health-related systematic reviews [Internet]. PROSPERO; 2021. CRD42021224418. Available from: crd.york.ac.uk/prospero/display_record.php?ID=CRD42021224418](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=224418)**
 
@@ -509,7 +516,9 @@ Funding: Crowdfunding initiated; <$50 donations so far
 
 ---
 
-2020
+2020&ndash;now
+
+(on hold)
 
 **[Zhelnov P. Translating PRISMA 2020 into Russian [Internet]. OSF; 2020. Available from: osf.io/qdmu6](https://osf.io/qdmu6)**
 
@@ -519,7 +528,7 @@ Funding: Crowdfunding initiated; <$50 donations so far
 
 ---
 
-2019
+2019&ndash;now
 
 **[Zhelnov P. Sebzer: A citation export tool for eLIBRARY.RU (Russian Science Citation Index) [Internet]. Systematic Review Toolbox; 2019. Available from: http://systematicreviewtools.com/tool.php?ref=Sebzer](http://systematicreviewtools.com/tool.php?ref=Sebzer)**
 
@@ -557,35 +566,35 @@ Funding: None
 
 2018&ndash;2021
 
-**[Dulaev A, Kutianov D, Iskrovskii S, Menshova N, Zhelnov P. Content and quality of recommendations on tertiary management of patients with spinal injuries in Russia: A systematic scoping review [Internet]. OSF; 2020. Available from: osf.io/7vx5n](https://osf.io/7vx5n)**
+Papers in Peer-reviewed Journals:
+
+**[2\. Dulaev AK, Kutyanov DI, Iskrovskiy SV, Menshova NT, Zhelnov PV. [Recommendation base for the delivery of specialized medical care to patients with spine and spinal cord injury in Russia: scoping review]. Khir Pozvonochnika. 2021 Dec;18(4):41&ndash;54. Russian. doi: 10.14531/ss2021.4.41-54.](https://doi.org/10.14531/ss2021.4.41-54)**
 
 Funding: None
 
 Other publications:
 
-Papers in Refereed Journals:
-
-[2\. Dulaev AK, Kutyanov DI, Iskrovskiy SV, Menshova NT, Zhelnov PV. [Recommendation base for the delivery of specialized medical care to patients with spine and spinal cord injury in Russia: scoping review]. Khir Pozvonochnika. 2021 Dec;18(4):41&ndash;54. Russian. doi: 10.14531/ss2021.4.41-54.](https://doi.org/10.14531/ss2021.4.41-54)
+[Dulaev A, Kutianov D, Iskrovskii S, Menshova N, Zhelnov P. Content and quality of recommendations on tertiary management of patients with spinal injuries in Russia: A systematic scoping review [Internet]. OSF; 2020. Available from: osf.io/7vx5n](https://osf.io/7vx5n)
 
 ---
 
 2016&ndash;2020
 
-**[Dulaev A, Kutianov D, Zhelnov P, Brizhan' S. Adminstration of health care to patients with diseases of the spine: the experience of the foreign countries (a scoping review) [Internet]. OSF; 2020. Available from: osf.io/5jgn4](https://osf.io/5jgn4)**
+Papers in Peer-reviewed Journals:
+
+**[3\. Dulaev AK, Kutianov DI, Zhelnov PV, Brizhan SL. [Healthcare resources to care for spinal conditions: international experience (a systematic scoping review)]. Genii Ortop. 2020 Dec;26(4):607-615. Russian. doi: 10.18019/1028-4427-2020-26-4-607-615.](https://doi.org/10.18019/1028-4427-2020-26-4-607-615)**
 
 Funding: None
 
 Other publications:
 
-Papers in Refereed Journals:
-
-[3\. Dulaev AK, Kutianov DI, Zhelnov PV, Brizhan SL. [Healthcare resources to care for spinal conditions: international experience (a systematic scoping review)]. Genii Ortop. 2020 Dec;26(4):607-615. Russian. doi: 10.18019/1028-4427-2020-26-4-607-615.](https://doi.org/10.18019/1028-4427-2020-26-4-607-615)
+[Dulaev A, Kutianov D, Zhelnov P, Brizhan' S. Adminstration of health care to patients with diseases of the spine: the experience of the foreign countries (a scoping review) [Internet]. OSF; 2020. Available from: osf.io/5jgn4](https://osf.io/5jgn4)
 
 ---
 
 2016&ndash;2020
 
-Papers in Refereed Journals:
+Papers in Peer-reviewed Journals:
 
 **[4\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Bulakhtin YY, Brizhan' SL, Zhelnov PV. [Development of management of emergency surgical care for patients with acute traumatic and nontraumatic spinal pathologies in conditions of megapolis]. Vestn Khir Im I I Grek. 2017 Dec;176(4):39-43. Russian. doi: 10.24884/0042-4625-2017-176-4-39-43.](https://doi.org/10.24884/0042-4625-2017-176-4-39-43)**
 
@@ -593,7 +602,7 @@ Funding: None
 
 Other publications:
 
-Papers in Refereed Journals:
+Papers in Peer-reviewed Journals:
 
 [5\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Brizhan' SL, Zhelnov PV. [Surgical treatment of patients with acute non-traumatic spinal disorders in the urban center of spine emergency surgery]. Skor Med Pomoshch. 2017 Mar;18(1):14-19. Russian. doi: 10.24884/2072-6716-2017-18-1-14-19.](https://doi.org/10.24884/2072-6716-2017-18-1-14-19)
 
