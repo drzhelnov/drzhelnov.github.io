@@ -3,6 +3,20 @@
 
 @import "{{ site.theme }}";
 
+@media only screen and (min-width: 480px) {
+  body {
+    font-size: 18px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+
+  small {
+    font-size: 17px;
+  }
+}
+
 /* Credit goes to Chris Coyier @ https://css-tricks.com/couple-takes-sticky-footer/ */
 
 html, body, .wrapper {
@@ -20,6 +34,7 @@ section {
 
 footer {
   flex-shrink: 0;
+  width: auto;
 }
 
 /* End of credit */

@@ -25,7 +25,7 @@ I live in Mexico City, Mexico.
 
 This website **[drzhelnov.com](https://drzhelnov.com)** is my personal website.
 
-My email is `pavel [at] zheln [dot] com`.
+My email is `... pavel [at] zheln [dot] com`.
 
 [Twitter](https://twitter.com/@drzhelnov) \| [ORCiD](https://orcid.org/0000-0003-2767-5123) \| [GitHub](https://github.com/p1m-ortho/)
 
@@ -64,7 +64,7 @@ _Achievements:_
 
 2017&ndash;2019
 
-**Diploma of Postgraduate Education in Traumatology and Orthopaedics**
+**Diploma of Postgraduate Education in Traumatology and Orthopedics**
 
 [Pavlov University](https://1spbgmu.ru/)
 
@@ -98,7 +98,7 @@ Reading: 29 / Listening: 27 / Speaking: 26 / Writing: 26
 
 2019
 
-**Certificate to Practice Traumatology and Orthopaedics in Russia**
+**Certificate to Practice Traumatology and Orthopedics in Russia**
 
 [Pavlov University](https://1spbgmu.ru/)
 
@@ -122,7 +122,7 @@ Saint Petersburg, Russia
 
 Niveau B2
 
-## d) HONOURS
+## d) HONORS
 
 ### National:
 
@@ -130,7 +130,7 @@ Niveau B2
 
 **2nd place winner**
 
-7th International Medical Congress of Junior Researchers Saint Petersburg Readings (Traumatology and Orthopaedics)
+7th International Medical Congress of Junior Researchers Saint Petersburg Readings (Traumatology and Orthopedics)
 
 ### Local/Institutional:
 
@@ -138,7 +138,7 @@ Niveau B2
 
 **1st place winner**
 
-Traumatology and Orthopaedics
+Traumatology and Orthopedics
 
 78th Conference Current Problems of Experimental and Clinical Medicine
 
@@ -148,7 +148,7 @@ Traumatology and Orthopaedics
 
 **3rd place winner**
 
-Traumatology and Orthopaedics
+Traumatology and Orthopedics
 
 77th Conference Current Problems of Experimental and Clinical Medicine
 
@@ -217,9 +217,9 @@ _Key Achievements:_
 
 2021&ndash;2022
 
-**Orthopaedic Traumatologist Physician**
+**Orthopedic Traumatologist Physician**
 
-Administrative Department for the Implementation of Functions of a National Medical Research Centre
+Administrative Department for the Implementation of Functions of a National Medical Research Center
 
 [Priorov National Medical Research Centre of Traumatology and Orthopaedics](https://cito-priorov.ru/)
 
@@ -227,8 +227,8 @@ Moscow, Russia
 
 _Key Responsibilities:_
 
-- [Review national clinical practice guideline projects in traumatology and orthopaedics before they are sent to the Health Ministry for final review.](https://cr.minzdrav.gov.ru/)
-- Analyse statistical reports from trauma and orthopaedic institutions across 30+ regions of Central Russia and compile an annual report to the Health Ministry.
+- [Review national clinical practice guideline projects in traumatology and orthopedics before they are sent to the Health Ministry for final review.](https://cr.minzdrav.gov.ru/)
+- Analyse statistical reports from trauma and orthopedic institutions across 30+ regions of Central Russia and compile an annual report to the Health Ministry.
 - Self-manage own schedule when working remotely to join meetings and meet the deadlines, including switching between time zones.
 
 _Key Achievements:_
@@ -267,9 +267,9 @@ _Key Achievements:_
 
 2019&ndash;2020
 
-**Emergency Orthopaedic Trauma Surgeon**
+**Emergency Orthopedic Trauma Surgeon**
 
-Department of Orthopaedic Trauma #2
+Department of Orthopedic Trauma #2
 
 [Dzhanelidze Research Institute of Emergency Medicine](https://emergency.spb.ru/)
 
@@ -277,13 +277,13 @@ Saint Petersburg, Russia
 
 _Key Responsibilities:_
 
-- Provide emergency department management to patients with orthopaedic injuries presenting to a major trauma centre.
-- Operate on patients with orthopaedic and spinal emergencies.
+- Provide emergency department management to patients with orthopedic injuries presenting to a major trauma center.
+- Operate on patients with orthopedic and spinal emergencies.
 
 _Key Achievements:_
 
-- Streamlined management of the incoming flow of patients with spinal problems by designing and, in collaboration with the IT team, implementing an extension to the institutional electronic health records system.
-- Treated 500+ orthopaedic cases, with 100+ specialist spinal cases.
+- Streamlined management of the incoming flow of patients with spine problems by designing and, in collaboration with the IT team, implementing an extension to the institutional electronic health records system.
+- Treated 500+ orthopedic cases, with 100+ specialist spinal cases.
 
 ---
 
@@ -364,7 +364,7 @@ Chair: Professor Olga Yu. Rebrova, PhD
 _Key Responsibilities:_
 
 - Monitor, translate to Russian, conduct an evidence review, and publish medical news for general audiences and health care professionals on the Society's web resources.
-- Contribute to development of national clinical practice guidelines in traumatology and orthopaedics as a work group member on behalf of the Society.
+- Contribute to development of national clinical practice guidelines in traumatology and orthopedics as a work group member on behalf of the Society.
 - Advocate evidence-based practice and follow the Society's ethical code while practising as a physician.
 
 _Key Achievements:_
@@ -412,7 +412,7 @@ _Key Achievements:_
 
 [Spine Surgery Group of the Students' Research Society](https://github.com/p1m-ortho/)
 
-Department of Traumatology and Orthopaedics
+Department of Traumatology and Orthopedics
 
 Pavlov University
 
@@ -446,9 +446,21 @@ _Key Achievements:_
 - 100% Open Access to published work.
 - Funding: volunteer work/self-funded/crowdfunded.
 
-### Previous:
+### Current:
 
 2022
+
+(review in progress)
+
+**[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol [Internet]. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)**
+
+Funding: Self-funded
+
+---
+
+2022
+
+(methods paper on hold)
 
 Papers in Peer-reviewed Journals:
 
@@ -464,35 +476,39 @@ Other publications:
 
 ---
 
-2022
+2020
 
-**[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol [Internet]. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)**
-
-Funding: Self-funded
-
----
-
-2021&ndash;now
-
-(on hold)
-
-**[Bardavelidze G, Zhelnov P, Bykov V. Patient-reported outcomes of preserved tibial insertions in pediatric anterior cruciate ligament reconstruction with a semitendinosus-gracilis tendon autograft: a retrospective cohort study [Internet]. OSF; 2021. Available from: osf.io/q2cpm](https://osf.io/q2cpm)**
-
-Funding: Self-funded
-
----
-
-2020&ndash;now
+(submitted for publication)
 
 **Zhelnov P, Alikov Z, Kutianov D, Dulaev A, Iskrovskiy S. A Russian translation for: Vaccaro AR, Oner C, Kepler CK, Dvorak M, Schnake K, Bellabarba C, Reinhold M, Aarabi B, Kandziora F, Chapman J, Shanmuganathan R, Fehlings M, Vialle L; AOSpine Spinal Cord Injury & Trauma Knowledge Forum. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine (Phila Pa 1976). 2013 Nov 1;38(23):2028-37. doi: 10.1097/BRS.0b013e3182a8a381.**
 
 Funding: Self-funded
 
-Other publications:
+---
 
-Papers in Peer-reviewed Journals:
+2020
 
-Translated manuscript submitted to a peer-reviewed journal
+(on hold due to low yield)
+
+**[Zhelnov P. Translating PRISMA 2020 into Russian [Internet]. OSF; 2020. Available from: osf.io/qdmu6](https://osf.io/qdmu6)**
+
+In collaboration with Dr. Matthew J. Page of the PRISMA 2020 Update Core Group
+
+Funding: Crowdfunding initiated; <$50 donations so far
+
+### Previous:
+
+
+
+---
+
+2021&ndash;2022
+
+(retired)
+
+**[Bardavelidze G, Zhelnov P, Bykov V. Patient-reported outcomes of preserved tibial insertions in pediatric anterior cruciate ligament reconstruction with a semitendinosus-gracilis tendon autograft: a retrospective cohort study [Internet]. OSF; 2021. Available from: osf.io/q2cpm](https://osf.io/q2cpm)**
+
+Funding: Self-funded
 
 ---
 
@@ -516,19 +532,9 @@ Funding: Crowdfunding initiated; <$50 donations so far
 
 ---
 
-2020&ndash;now
+2019&ndash;2021
 
-(on hold)
-
-**[Zhelnov P. Translating PRISMA 2020 into Russian [Internet]. OSF; 2020. Available from: osf.io/qdmu6](https://osf.io/qdmu6)**
-
-In collaboration with Dr. Matthew J. Page of the PRISMA 2020 Update Core Group
-
-Funding: Crowdfunding initiated; <$50 donations so far
-
----
-
-2019&ndash;now
+(no active support)
 
 **[Zhelnov P. Sebzer: A citation export tool for eLIBRARY.RU (Russian Science Citation Index) [Internet]. Systematic Review Toolbox; 2019. Available from: http://systematicreviewtools.com/tool.php?ref=Sebzer](http://systematicreviewtools.com/tool.php?ref=Sebzer)**
 
@@ -538,6 +544,8 @@ Funding: None
 
 2020
 
+(preprint published)
+
 **[Zhelnov P. Global researchers in need, and what there is to support them: a Rapid Electronic Scoping Updatable Extensible Review (RESCUER) [Internet]. OSF Preprints; 2020. Available from: osf.io/4rxnm](https://osf.io/4rxnm)**
 
 Funding: None
@@ -545,6 +553,8 @@ Funding: None
 ---
 
 2020
+
+(report published)
 
 **[Zhelnov P. Updating PRISMA: A prospective piloting case study [Internet]. OSF; 2020. Available from: osf.io/mkcb5](https://osf.io/mkcb5)**
 
@@ -558,6 +568,8 @@ Other publications:
 
 2020
 
+(template published)
+
 **[Zhelnov P. PRISMA-S: PRISMA Search Reporting Extension (Checklist in R Markdown) [Internet]. OSF; 2020. Available from: osf.io/h6syk](https://osf.io/h6syk)**
 
 Funding: None
@@ -565,6 +577,8 @@ Funding: None
 ---
 
 2018&ndash;2021
+
+(complete)
 
 Papers in Peer-reviewed Journals:
 
@@ -580,6 +594,8 @@ Other publications:
 
 2016&ndash;2020
 
+(complete)
+
 Papers in Peer-reviewed Journals:
 
 **[3\. Dulaev AK, Kutianov DI, Zhelnov PV, Brizhan SL. [Healthcare resources to care for spinal conditions: international experience (a systematic scoping review)]. Genii Ortop. 2020 Dec;26(4):607-615. Russian. doi: 10.18019/1028-4427-2020-26-4-607-615.](https://doi.org/10.18019/1028-4427-2020-26-4-607-615)**
@@ -593,6 +609,8 @@ Other publications:
 ---
 
 2016&ndash;2020
+
+(complete)
 
 Papers in Peer-reviewed Journals:
 
@@ -624,6 +642,8 @@ Papers in Peer-reviewed Journals:
 
 2016&ndash;2018
 
+(discontinued)
+
 **[Zhelnov P. Early minimally invasive posterior fixation v. other management strategies for neurologically intact fractures of thoracic or lumbar vertebrae in alive adults: An umbrella systematic literature review [Internet]. GitHub; 2018. Available from: github.com/p1m-ortho/xr-sfmhsush-ssb-hsss-v2](https://github.com/p1m-ortho/xr-sfmhsush-ssb-hsss-v2)**
 
 Funding: None
@@ -637,6 +657,8 @@ Did not publish due to clinical years in medical school
 ---
 
 2012
+
+(source code lost)
 
 **[Zhelnov PV. [Some aspects of the development of a Russian-Latin and Latin-Russian automatic translator of detailed clinical diagnoses]. Student Science-2012: Proceedings of the All-Russian Student Scientific Conference; 2012 Oct 18-19; Saint Petersburg, Russia. Saint Petersburg: SPbGPMU; 2012. Russian. Available at: gpmu.org/userfiles/file/СНО/Студ%20наука%202018/прошедшие/Сbornik%20materialov_%20Сtudencheskaya%20nauka-%202012.pdf](https://gpmu.org/userfiles/file/%D0%A1%D0%9D%D0%9E/%D0%A1%D1%82%D1%83%D0%B4%20%D0%BD%D0%B0%D1%83%D0%BA%D0%B0%202018/%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B8%D0%B5/%D0%A1bornik%20materialov_%20%D0%A1tudencheskaya%20nauka-%202012.pdf)**
 
