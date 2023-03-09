@@ -556,6 +556,8 @@ Funding: None
 
 **[Zhelnov P. Updating PRISMA: A prospective piloting case study [Internet]. OSF; 2020. Available from: osf.io/mkcb5](https://osf.io/mkcb5)**
 
+Acknowledged in the [PRISMA 2020 Statement](https://doi.org/10.1136/bmj.n71)
+
 Funding: None
 
 Other publications:
