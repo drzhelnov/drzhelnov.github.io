@@ -3,83 +3,94 @@
 
 @import "{{ site.theme }}";
 
-header, section {
-    background-color: white;
-  }
+/* Credit goes to Chris Coyier @ https://css-tricks.com/couple-takes-sticky-footer/ */
 
-  .no-header-header {
-    display: none;
-  }
+html, body, .wrapper {
+  height: 100%;
+}
 
-  .no-header-content {
-    width: auto;
-    float: none;
-  }
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
 
-  footer {
-    z-index: -1;
-  }
+section {
+  flex: 1 0 auto;
+}
 
-  .unfixed-footer {
-    z-index: 0;
-    float: none;
-    position: relative;
-  }
+footer {
+  flex-shrink: 0;
+}
 
-  li ul, li p {
-    margin: 0;
-  }
+/* End of credit */
 
-  details {
-    margin: 0 0 20px;
-  }
+section {
+  background-color: white;
+  float: none;
+  width: auto;
+  border-top: 0px;
+}
 
-  summary p {
-    display: inline;
-  }
+footer {
+  position: relative;
+  float: none;
+  padding-top: 50px;
+}
 
-  summary span {
-    color: #267CB9;
-    text-decoration: none;
-    cursor: pointer;
-  }
+li ul, li p {
+  margin: 0;
+}
 
-  summary span:hover, summary span:focus {
-    color: #069;
-    font-weight: bold;
-  }
+details {
+  margin: 0 0 20px;
+}
 
-  /* Credit goes to connexo @ https://stackoverflow.com/a/55032002 */
+summary p {
+  display: inline;
+}
 
-  details[open] summary ::after {
-    content: attr(data-open);
-  }
+summary span {
+  color: #267CB9;
+  text-decoration: none;
+  cursor: pointer;
+}
 
-  details:not([open]) summary ::after {
-    content: attr(data-close);
-  }
+summary span:hover, summary span:focus {
+  color: #069;
+  font-weight: bold;
+}
 
-  /* End of credit */
+/* Credit goes to connexo @ https://stackoverflow.com/a/55032002 */
 
-  pre {
-    white-space: pre-wrap;
-  }
+details[open] summary ::after {
+  content: attr(data-open);
+}
 
-  .container {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-    height: 300px;
-  }
+details:not([open]) summary ::after {
+  content: attr(data-close);
+}
 
-  /* Then style the iframe to fit in the container div with full height and width */
-  .responsive-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-  }
+/* End of credit */
+
+pre {
+  white-space: pre-wrap;
+}
+
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  height: 300px;
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
