@@ -5,9 +5,10 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-title: "Доктор Желнов"
+title: "Doctor Zhelnov"
 url: "https://drzhelnov.com/"
-description: "Медицинский английский, USMLE. Дизайн научных исследований, базы данных, статистический анализ. Синтез доказательств (литобзор): систематический обзор литературы, литературный обзор предметного поля (scoping review)."
+description: "Pavel Zhelnov, MD, is a spine and orthopedic trauma surgeon who transitioned to health policy, evidence synthesis, and machine learning."
+lang: "en-US"
 show_downloads: true
 google_analytics: UA-122303329-2
 markdown: kramdown
