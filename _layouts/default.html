@@ -1,29 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {% seo %}
-    {% include styles.html %}
-    {% include icons.html %}
-    {% include ya-metrika.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-      <section>
+---
+layout: base
+---
 
-      {{ content }}
+<section>
+    
+  {{ content }}
 
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br><a href="https://github.com/drzhelnov/drzhelnov.github.io/commits/master/README.md">Changelog</a> &copy; Pavel Zhelnov, 2020&ndash;{{ site.time | date: '%y' }}<br>Other pages: <a href="{{ '/usmle/' | absolute_url }}">USMLE OASys</a>, <a href="https://zheln.com">Zheln</a>, <a href="https://medium.com/@drzhelnov/">Medium</a></small></p>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    {% include g-analytics.html %}
-    {% endif %}
+</section>
 
-  </body>
-</html>
+{% include footer.html %}

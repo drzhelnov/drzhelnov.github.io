@@ -1,0 +1,31 @@
+---
+layout: base
+---
+
+{% assign current_year = site.time | date: '%Y' %}
+<header><h1>Daily {{ current_year }}</h1></header>
+
+{% assign daily = site.data.daily %}
+{% for row in daily %}
+    <section>
+
+        {% for pair in row %}
+            
+            {% assign key = pair[0] %}
+            {% assign value = pair[1] %}
+
+            {% if key == "Date" %}
+                <h2>{{ value }}</h2>
+            {% elsif key contains "Datasources" %}
+                
+            {% elsif key contains "Money Spent" %}
+            {% else %}
+                <p><strong>{{ key }}</strong> {{ value }}</p>
+            {% endif %}
+
+        {% endfor %}
+
+    </section>
+{% endfor %}
+
+{% include footer.html %}
