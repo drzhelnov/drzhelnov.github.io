@@ -2,30 +2,72 @@
 layout: base
 ---
 
-{% assign current_year = site.time | date: '%Y' %}
+{% assign current_year = site.time | date: "%Y" %}
+{% assign end_date_ss = site.time | date: "%s" %}
+{% if page.year < current_year and page.year > 1994 %}
+    {% assign current_year = page.year %}
+    {% assign end_date_ss = current_year | append: "-12-31" | date: "%s" %}
+{% endif %}
+{% assign start_date_ss = current_year | append: "-01-01" | date: "%s" %}
+{% assign diff_days = end_date_ss | minus: start_date_ss | divided_by: 86400 %}
+
 <header><h1>Daily {{ current_year }}</h1></header>
 
-{% assign daily = site.data.daily %}
-{% for row in daily %}
+{% assign daily = site.data.phasestamps-raw | group_by: "datestamp" %}
+{% assign phases = site.data.daily.phases %}
+
+{% for i in (0..diff_days) %}
+
+    {% assign i_ss = i | times: 86400 %}
+    {% assign datestamp = end_date_ss | minus: i_ss | date: "%Y-%m-%d" %}
+
     <section>
 
-        {% for pair in row %}
+        <h2>{{ datestamp | date: "%A, %B %e" }}</h2>
+
+        {% assign day = daily | where: "name", datestamp | first %}
+
+        {% unless day.items %}
+
+            <p>No data for this date</p>
+
+        {% else %}
             
-            {% assign key = pair[0] %}
-            {% assign value = pair[1] %}
+            {% assign phasestamps = day.items | group_by: "phasestamp" %}
 
-            {% if key == "Date" %}
-                <h2>{{ value }}</h2>
-            {% elsif key contains "Datasources" %}
-                
-            {% elsif key contains "Money Spent" %}
-            {% else %}
-                <p><strong>{{ key }}</strong> {{ value }}</p>
-            {% endif %}
+            {% for phase in phases %}
 
-        {% endfor %}
+                <p>
+                    <strong style="text-transform: capitalize">{{ phase | capitalize }}</strong>
+
+                    {% assign events = phasestamps | where: "name", phase | first | map: "items" | sort_natural: "id" %}
+
+                    {% if events and events.size > 0 %}
+
+                        {% for event in events %}
+
+                            {{ event.name }}
+                            
+                            {% unless forloop.last or events.size == 0 %}
+                                <span><...></span>
+                            {% endunless%}
+
+                        {% endfor %}
+
+                    {% else %}
+
+                        <span><...></span>
+
+                    {% endif %}
+
+                </p>
+
+            {% endfor %}
+        
+        {% endunless %}
 
     </section>
+
 {% endfor %}
 
 {% include footer.html %}
