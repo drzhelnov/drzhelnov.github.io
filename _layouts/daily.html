@@ -2,16 +2,43 @@
 layout: base
 ---
 
-{% assign current_year = site.time | date: "%Y" %}
+{% assign start_year = site.data.daily.start.date | date: "%Y" | plus: 0 %}
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
 {% assign end_date_ss = site.time | date: "%s" %}
+{% assign page_year = current_year %}
 {% if page.year < current_year and page.year > 1994 %}
-    {% assign current_year = page.year %}
-    {% assign end_date_ss = current_year | append: "-12-31" | date: "%s" %}
+    {% assign page_year = page.year %}
+    {% assign end_date_ss = page_year | append: "-12-31" | date: "%s" %}
 {% endif %}
-{% assign start_date_ss = current_year | append: "-01-01" | date: "%s" %}
+{% assign start_date_ss = page_year | append: "-01-01" | date: "%s" %}
 {% assign diff_days = end_date_ss | minus: start_date_ss | divided_by: 86400 %}
 
-<header><h1>Daily {{ current_year }}</h1></header>
+<header><h1>Daily {{ page_year }}</h1></header>
+
+<nav>
+    <p>
+        {% for i_year in (start_year..current_year) %}
+            <span class="nav_year">
+            {% if i_year != page_year %}
+                {% if forloop.last %}
+                    <a href="{{ '/daily/' | absolute_url }}">{{ i_year }}</a>
+                {% else %}
+                    <a href="{{ i_year | prepend: '/daily/' | absolute_url }}">{{ i_year }}</a>
+                {% endif %}
+            {% else %}
+                <strong>{{ i_year }}</strong>
+            {% endif %}
+            {% assign is_not_decade = i_year | plus: 1 | modulo: 10 %}
+            {% if forloop.last %}
+                </span>
+            {% elsif is_not_decade == 0 %}
+                </span><br>
+            {% else %}
+                | </span>
+            {% endif %}
+        {% endfor %}
+    </p>
+</nav>
 
 {% assign daily = site.data.phasestamps-raw | group_by: "datestamp" %}
 {% assign phases = site.data.daily.phases %}
@@ -46,7 +73,7 @@ layout: base
 
                         {% for event in events %}
 
-                            {{ event.name }}
+                            {{ event.name | markdownify | replace: "<p>", "<span>" | replace: "</p>", "</span>" }}
                             
                             {% unless forloop.last or events.size == 0 %}
                                 <span><...></span>
