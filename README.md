@@ -464,7 +464,7 @@ Funding: This research was supported by the Russian Science Foundation under gra
 
 **[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol [Internet]. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)**
 
-Funding: Self-funded
+Funding: This research was supported by the Ministry of Science and Higher Education of the Russian Federation (agreement No. 075-10-2021-113, unique project ID RF----193021X0001).
 
 ---
 
@@ -594,7 +594,7 @@ Papers in Peer-reviewed Journals:
 
 **[2\. Dulaev AK, Kutyanov DI, Iskrovskiy SV, Menshova NT, Zhelnov PV. [Recommendation base for the delivery of specialized medical care to patients with spine and spinal cord injury in Russia: scoping review]. Khir Pozvonochnika. 2021 Dec;18(4):41&ndash;54. Russian. doi: 10.14531/ss2021.4.41-54.](https://doi.org/10.14531/ss2021.4.41-54)**
 
-Funding: None
+Funding: The work was performed under the research project of the state task of the Ministry of Health of the Russian Federation, 2020–2022 (Improvement of national clinical guidelines for the treatment of patients with spine and spinal cord injury, No. A-A20-120021890131-4).
 
 Other publications:
 
