@@ -189,9 +189,9 @@ _Key Achievements:_
 - Have worked on a large research report for pharma that involved a literature review and editing of interview transcripts.
 - [Built on experience with a previous project (Zheln.com) to lay out service options for clients.](https://zheln.com/)
 
----
+### Previous:
 
-2020
+2020&ndash;2022
 
 **Independent Researcher/Tutor**
 
@@ -213,7 +213,7 @@ _Key Achievements:_
 - Provided paid Medical English courses to two practising physicians and launched a half-free, half-subscription-based blog for Russian-speaking English learners.
 - [Researched and compiled 90+ original digest posts for a major medical publisher's blog over a period of 11 months with a total of 30k+ impressions.](https://t.me/firstmedtv)
 
-### Previous:
+---
 
 2021&ndash;2022
 
