@@ -49,12 +49,17 @@ footer {
       margin: 0;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5, h6, hr {
     page-break-after: avoid;
   }
 
-  footer {
+  p, ul, ol, li {
     page-break-before: avoid;
+    page-break-inside: avoid;
+  }
+
+  footer {
+    display: none;
   }
 }
 
