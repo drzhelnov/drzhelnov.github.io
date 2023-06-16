@@ -437,16 +437,26 @@ _Key Achievements:_
 
 ### Summary:
 
-- 8 evidence synthesis projects.
+- 9 evidence synthesis projects.
 - 4 research methodology/software projects.
-- Principal Investigator in most.
+- Principal Investigator or methodologist in most.
 - Clinical study experience.
 - Published translation experience.
 - 12 publications in peer-reviewed journals.
 - 100% Open Access to published work.
-- Funding: volunteer work/self-funded/crowdfunded.
+- Funding: own projects all volunteer work, self-funded, or crowdfunded; collaborations mostly supported by research grants or self-funded.
 
 ### Current:
+
+2022
+
+(systematic review in progress)
+
+**[Suponin A, Zhelnov P, Muslimov A. Follicular lymphoma vaccines: a systematic review protocol [Internet]. OSF. 2022. doi: 10.17605/osf.io/kbzfw.](https://doi.org/10.17605/osf.io/kbzfw)**
+
+Funding: This research was supported by the Russian Science Foundation under grant # 22-25-00516.
+
+---
 
 2022
 
