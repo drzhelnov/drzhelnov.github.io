@@ -37,7 +37,7 @@ PhD in Health Policy, Management and Evaluation (Health Services Research &ndash
 
 (invited)
 
-Provisional thesis title: _Strategies to manage research waste in global evidence synthesis research by acting as a third-party advisory and monitoring body_
+Provisional thesis title: _Strategies to manage research waste in global evidence synthesis_
 
 [Institute of Health Policy, Management and Evaluation](https://ihpme.utoronto.ca/)
 
