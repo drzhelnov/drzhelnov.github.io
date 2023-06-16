@@ -33,7 +33,7 @@ My email is `... pavel [at] zheln [dot] com`.
 
 2023&ndash;2027
 
-PhD in Health Policy, Management and Evaluation (Health Services Research &ndash; Organization and Management Studies)
+PhD in Health Policy, Management and Evaluation (Health Systems Research &ndash; Organization and Management Studies)
 
 (admitted)
 
