@@ -166,7 +166,7 @@ Students' Conference Students' Science
 
 ### Current:
 
-Exploring part-time employment options as a full-time graduate student up to 20 hours per week as per [R186(V)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html)
+**Exploring part-time employment** options as a full-time graduate student up to 20 hours per week as per [R186(V)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html)
 
 ### Previous:
 
