@@ -21,7 +21,7 @@
 
 ## a) CONTACTS
 
-I live in Mexico City, Mexico.
+I live in Toronto, Ontario, Canada.
 
 This website **[drzhelnov.com](https://drzhelnov.com)** is my personal website.
 
@@ -35,7 +35,7 @@ My email is `... pavel [at] zheln [dot] com`.
 
 PhD in Health Policy, Management and Evaluation (Health Systems Research &ndash; Organization and Management Studies)
 
-(admitted)
+(enrolled)
 
 Provisional thesis title: _Strategies to manage research waste in global evidence synthesis as an organizational problem_
 
@@ -166,6 +166,10 @@ Students' Conference Students' Science
 
 ### Current:
 
+Exploring part-time employment options as a full-time graduate student up to 20 hours per week as per [R186(V)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html)
+
+### Previous:
+
 2023
 
 **Freelance Medical Writer**
@@ -185,11 +189,9 @@ _Key Responsibilities:_
 
 _Key Achievements:_
 
-- Negotiated with 2 prospective clients after 1 week on the platforms, secured 1 long-term partnership offer.
-- Have worked on a large research report for pharma that involved a literature review and editing of interview transcripts.
+- Negotiated with 4 clients, completed 3 jobs, secured 1 long-term partnership offer.
+- Have completed a large research report for pharma that involved a literature review as well as editing and analysis of interview transcripts.
 - [Built on experience with a previous project (Zheln.com) to lay out service options for clients.](https://zheln.com/)
-
-### Previous:
 
 2020&ndash;2022
 
