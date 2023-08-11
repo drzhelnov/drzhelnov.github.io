@@ -35,7 +35,7 @@ My email is `... pavel [at] zheln [dot] com`.
 
 PhD in Health Policy, Management and Evaluation (Health Systems Research &ndash; Organization and Management Studies)
 
-(enrolled)
+(enrolled full-time)
 
 Provisional thesis title: _Strategies to manage research waste in global evidence synthesis as an organizational problem_
 
