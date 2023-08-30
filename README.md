@@ -130,7 +130,7 @@ Niveau B2
 
 **2nd place winner**
 
-7th International Medical Congress of Junior Researchers Saint Petersburg Readings (Traumatology and Orthopedics)
+7th International Medical Congress of Junior Researchers “Saint Petersburg Readings” (Traumatology and Orthopedics)
 
 ### Local/Institutional:
 
@@ -140,7 +140,7 @@ Niveau B2
 
 Traumatology and Orthopedics
 
-78th Conference Current Problems of Experimental and Clinical Medicine
+78th Conference “Current Problems of Experimental and Clinical Medicine”
 
 ---
 
@@ -150,7 +150,7 @@ Traumatology and Orthopedics
 
 Traumatology and Orthopedics
 
-77th Conference Current Problems of Experimental and Clinical Medicine
+77th Conference “Current Problems of Experimental and Clinical Medicine”
 
 ---
 
@@ -160,7 +160,7 @@ Traumatology and Orthopedics
 
 Latin Studies
 
-Students' Conference Students' Science
+Students’ Conference “Students’ Science”
 
 ## e) EMPLOYMENT HISTORY
 
@@ -454,9 +454,9 @@ _Key Achievements:_
 
 (systematic review in progress)
 
-**[Suponin A, Zhelnov P, Muslimov A. Follicular lymphoma vaccines: a systematic review protocol [Internet]. OSF. 2022. doi: 10.17605/osf.io/kbzfw.](https://doi.org/10.17605/osf.io/kbzfw)**
+**[Zhelnov P, Suponin A, Potanin A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic vaccines for follicular lymphoma: a systematic review protocol. OSF Preprints. 2023. doi: 10.31219/osf.io/evj59](https://doi.org/10.31219/osf.io/evj59)**
 
-Funding: This research was supported by the Russian Science Foundation under grant # 22-25-00516.
+Funding: This research was supported by the Russian Science Foundation under [grant # 22-25-00516](https://rscf.ru/project/22-25-00516/).
 
 ---
 
@@ -464,7 +464,7 @@ Funding: This research was supported by the Russian Science Foundation under gra
 
 (scoping review in progress)
 
-**[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol [Internet]. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)**
+**[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)**
 
 Funding: This research was supported by the Ministry of Science and Higher Education of the Russian Federation (agreement No. 075-10-2021-113, unique project ID RF----193021X0001).
 
