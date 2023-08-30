@@ -130,7 +130,7 @@ Niveau B2
 
 **2nd place winner**
 
-7th International Medical Congress of Junior Researchers “Saint Petersburg Readings” (Traumatology and Orthopedics)
+7th International Medical Congress of Junior Researchers “Saint Petersburg Readings” (Traumatology and Orthopedics), Saint Petersburg, Russia
 
 ### Local/Institutional:
 
@@ -140,7 +140,7 @@ Niveau B2
 
 Traumatology and Orthopedics
 
-78th Conference “Current Problems of Experimental and Clinical Medicine”
+78th Conference “Current Problems of Experimental and Clinical Medicine”, Saint Petersburg, Russia
 
 ---
 
@@ -150,7 +150,7 @@ Traumatology and Orthopedics
 
 Traumatology and Orthopedics
 
-77th Conference “Current Problems of Experimental and Clinical Medicine”
+77th Conference “Current Problems of Experimental and Clinical Medicine”, Saint Petersburg, Russia
 
 ---
 
@@ -160,7 +160,7 @@ Traumatology and Orthopedics
 
 Latin Studies
 
-Students’ Conference “Students’ Science”
+Students’ Conference “Students’ Science”, Saint Petersburg, Russia
 
 ## e) EMPLOYMENT HISTORY
 
