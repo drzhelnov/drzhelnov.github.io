@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+timezone: Etc/GMT+12
 defaults:
   -
     scope:
