@@ -37,7 +37,7 @@ PhD in Health Policy, Management and Evaluation (Health Systems Research &ndash;
 
 (enrolled full-time)
 
-Provisional thesis title: _Strategies to manage research waste in global evidence synthesis as an organizational problem_
+Provisional thesis title: _Strategies to manage research duplication in global health-related knowledge synthesis as an organizational problem_
 
 [Institute of Health Policy, Management and Evaluation](https://ihpme.utoronto.ca/)
 
