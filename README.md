@@ -748,9 +748,11 @@ French (Intermediate &ndash; B1/B2)
 
 Spanish (Pre-intermediate &ndash; A2)
 
-Japanese (Starter &ndash; pre-A1)
+Ukrainian (Pre-intermediate &ndash; A2)
 
-German (Starter &ndash; pre-A1)
+Worked with medical and financial documentation in Turkish, Bulgarian, and Indonesian
+
+Started learning German and Japanese
 
 <!--<details>
 
