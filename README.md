@@ -90,7 +90,7 @@ _GPA: 4.6 out of 5.0 / 3.6 out of 4.0 (B+/Distinction)_
 
 ## c) CERTIFICATES
 
-2021
+2021&ndash;2023
 
 **TOEFL iBT**
 
@@ -100,7 +100,7 @@ Reading: 29 / Listening: 27 / Speaking: 26 / Writing: 26
 
 ---
 
-2019
+2019&ndash;2024
 
 **Certificate to Practice Traumatology and Orthopedics in Russia**
 
@@ -110,7 +110,7 @@ Saint Petersburg, Russia
 
 ---
 
-2017
+2017&ndash;2022
 
 **Accreditation to Practice Primary Care Medicine in Russia**
 
