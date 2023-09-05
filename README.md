@@ -43,6 +43,10 @@ Provisional thesis title: _Strategies to manage research duplication in global h
 
 University of Toronto
 
+Supervisor: [Dr. Andrea Tricco, MSc, PHD](https://www.dlsph.utoronto.ca/faculty-profile/tricco-andrea-catherine/)
+
+Co-registered as a graduate student at the [Knowledge Translation Program](https://knowledgetranslation.net/) of the Li Ka Shing Knowledge Institute of St. Michael’s Hospital (Unity Health Toronto)
+
 Toronto, ON, Canada
 
 ---
@@ -110,9 +114,9 @@ Saint Petersburg, Russia
 
 **Accreditation to Practice Primary Care Medicine in Russia**
 
-[Pavlov University](https://1spbgmu.ru/)
+[Ministry of Health of the Russian Federation](https://minzdrav.gov.ru/)
 
-Saint Petersburg, Russia
+Moscow, Russia
 
 ---
 
@@ -193,7 +197,7 @@ _Key Achievements:_
 - Have completed a large research report for pharma that involved a literature review as well as editing and analysis of interview transcripts.
 - [Built on experience with a previous project (Zheln.com) to lay out service options for clients.](https://zheln.com/)
 
-2020&ndash;2022
+2020&ndash;2023
 
 **Independent Researcher/Tutor**
 
@@ -353,9 +357,19 @@ _Key Achievements:_
 
 ### Membership in Professional Associations:
 
+2021&ndash;now
+
+**Member**
+
+[Association for Interdisciplinary Meta-Research and Open Science](https://aimos.community/)
+
+Melbourne, VIC, Australia
+
+---
+
 2020&ndash;now
 
-**Regular Member**
+**Member**
 
 [Russian Society for Evidence-Based Medicine](http://osdm.org/)
 
@@ -443,10 +457,15 @@ _Key Achievements:_
 - 4 research methodology/software projects.
 - Principal Investigator or methodologist in most.
 - Clinical study experience.
+- Policy-making and knowledge-translation experience:
+  - administrative and editorial contributions to 34 national clinical practice guidelines in orthopedic surgery;
+  - task force member in 12 guidelines;
+  - 22 guidelines approved for use as active regulations according to Russian Federal Law;
+  - used as reference for the development of federal universal health care reimbursement standards and quality assurance criteria.
 - Published translation experience.
 - 12 publications in peer-reviewed journals.
 - 100% Open Access to published work.
-- Funding: own projects all volunteer work, self-funded, or crowdfunded; collaborations mostly supported by research grants or self-funded.
+- Funding: own projects all volunteer work, self-funded, or crowdfunded; collaborations mostly supported by collaborators’ research grants or self-funded.
 
 ### Current:
 
@@ -490,7 +509,7 @@ Other publications:
 
 2020
 
-(submitted for publication)
+(publication pending due to copyright issues)
 
 **Zhelnov P, Alikov Z, Kutianov D, Dulaev A, Iskrovskiy S. A Russian translation for: Vaccaro AR, Oner C, Kepler CK, Dvorak M, Schnake K, Bellabarba C, Reinhold M, Aarabi B, Kandziora F, Chapman J, Shanmuganathan R, Fehlings M, Vialle L; AOSpine Spinal Cord Injury & Trauma Knowledge Forum. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine (Phila Pa 1976). 2013 Nov 1;38(23):2028-37. doi: 10.1097/BRS.0b013e3182a8a381.**
 
@@ -511,6 +530,31 @@ In collaboration with [Dr. Matthew J. Page](https://matthewjamespage.com/) of th
 Funding: Crowdfunding initiated; <$50 donations so far
 
 ### Previous:
+
+2021&ndash;2023
+
+(resigned)
+
+**National clinical practice guideline program in traumatology and orthopedics**
+
+Listed as a task force member:
+
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Closed chest trauma", ID: 728. 2022 Mar 10. Russian. URL: https://cr.minzdrav.gov.ru/recomend/728_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Scheuermann's disease", ID: 704. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/704_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of radius shaft", ID: 707. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/707_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of distal radius", ID: 706. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/706_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Fractures of proximal radius", ID: 705. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/705_1
+- **Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture (dislocation) of thoracic and lumbosacral spine", ID: 448. 2021 Nov 8. Russian. URL: https://cr.minzdrav.gov.ru/recomend/448_2 (major contributor)**
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Injuries of articular cartilage of knee", ID: 690. 2021 Nov 8. Russian. URL: https://cr.minzdrav.gov.ru/recomend/690_2
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Injury of cruciate ligaments of knee", ID: 691. 2021 Nov 3. Russian. URL: https://cr.minzdrav.gov.ru/recomend/691_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Open wound of wrist and hand", ID: 688. 2021 Nov 2. Russian. URL: https://cr.minzdrav.gov.ru/recomend/688_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of shoulder and upper arm", ID: 689. 2021 Nov 2. Russian. URL: https://cr.minzdrav.gov.ru/recomend/689_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Fractures of femur (except proximal femur)", ID: 658. 2021 Aug 26. Russian. URL: https://cr.minzdrav.gov.ru/recomend/658_1
+- Ministry of Health of the Russian Federation. Clinical practice guideline "Tear of meniscus of knee", ID: 659. 2021 Aug 25. Russian. URL: https://cr.minzdrav.gov.ru/recomend/659_1
+
+Funding: Employment
+
+---
 
 2021&ndash;2022
 
