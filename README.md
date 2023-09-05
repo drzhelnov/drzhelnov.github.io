@@ -59,9 +59,9 @@ Saint Petersburg, Russia
 
 _Achievements:_
 
-- Completed 60 units towards a Candidate of Sciences in Medicine (PhD) degree
-- Passed qualifying exams
-- GPA: 4.7 out of 5.0 (A-)
+- Completed 60 units toward the Candidate of Sciences in Medicine degree (Doctor of Philosophy &ndash; PhD Equivalent) in Traumatology and Orthopedics
+- Passed first-year qualifying exams
+- GPA: 4.7 out of 5.0 / 3.7 out of 4.0 (A-/Distinction)
 - Withdrew for family reasons
 
 ---
@@ -74,19 +74,19 @@ _Achievements:_
 
 Saint Petersburg, Russia
 
-_GPA: 4.8 out of 5.0 (A-)_
+_GPA: 4.8 out of 5.0 / 3.8 out of 4.0 (A-/Distinction)_
 
 ---
 
 2011&ndash;2017
 
-**Specialist Diploma &ndash; Doctor of Medicine (MD)**
+**Specialist Diploma in General Medicine &ndash; Combined Doctor of Medicine (MD) and Master’s Degree Equivalent**
 
 [Pavlov University](https://1spbgmu.ru/)
 
 Saint Petersburg, Russia
 
-_GPA: 4.6 out of 5.0 (A-)_
+_GPA: 4.6 out of 5.0 / 3.6 out of 4.0 (B+/Distinction)_
 
 ## c) CERTIFICATES
 
