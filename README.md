@@ -539,18 +539,18 @@ Funding: Crowdfunding initiated; <$50 donations so far
 
 Listed as a task force member:
 
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Closed chest trauma", ID: 728. 2022 Mar 10. Russian. URL: https://cr.minzdrav.gov.ru/recomend/728_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Scheuermann's disease", ID: 704. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/704_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of radius shaft", ID: 707. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/707_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of distal radius", ID: 706. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/706_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Fractures of proximal radius", ID: 705. 2021 Dec 20. Russian. URL: https://cr.minzdrav.gov.ru/recomend/705_1
-- **Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture (dislocation) of thoracic and lumbosacral spine", ID: 448. 2021 Nov 8. Russian. URL: https://cr.minzdrav.gov.ru/recomend/448_2 (major contributor)**
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Injuries of articular cartilage of knee", ID: 690. 2021 Nov 8. Russian. URL: https://cr.minzdrav.gov.ru/recomend/690_2
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Injury of cruciate ligaments of knee", ID: 691. 2021 Nov 3. Russian. URL: https://cr.minzdrav.gov.ru/recomend/691_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Open wound of wrist and hand", ID: 688. 2021 Nov 2. Russian. URL: https://cr.minzdrav.gov.ru/recomend/688_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of shoulder and upper arm", ID: 689. 2021 Nov 2. Russian. URL: https://cr.minzdrav.gov.ru/recomend/689_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Fractures of femur (except proximal femur)", ID: 658. 2021 Aug 26. Russian. URL: https://cr.minzdrav.gov.ru/recomend/658_1
-- Ministry of Health of the Russian Federation. Clinical practice guideline "Tear of meniscus of knee", ID: 659. 2021 Aug 25. Russian. URL: https://cr.minzdrav.gov.ru/recomend/659_1
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Closed chest trauma", ID: 728. 2022 Mar 10. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/728_1](https://cr.minzdrav.gov.ru/recomend/728_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Scheuermann's disease", ID: 704. 2021 Dec 20. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/704_1](https://cr.minzdrav.gov.ru/recomend/704_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of radius shaft", ID: 707. 2021 Dec 20. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/707_1](https://cr.minzdrav.gov.ru/recomend/707_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of distal radius", ID: 706. 2021 Dec 20. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/706_1](https://cr.minzdrav.gov.ru/recomend/706_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Fractures of proximal radius", ID: 705. 2021 Dec 20. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/705_1](https://cr.minzdrav.gov.ru/recomend/705_1)
+- [**Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture (dislocation) of thoracic and lumbosacral spine", ID: 448. 2021 Nov 8. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/448_2 (major contributor)**](https://cr.minzdrav.gov.ru/recomend/448_2)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Injuries of articular cartilage of knee", ID: 690. 2021 Nov 8. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/690_2](https://cr.minzdrav.gov.ru/recomend/690_2)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Injury of cruciate ligaments of knee", ID: 691. 2021 Nov 3. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/691_1](https://cr.minzdrav.gov.ru/recomend/691_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Open wound of wrist and hand", ID: 688. 2021 Nov 2. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/688_1](https://cr.minzdrav.gov.ru/recomend/688_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Fracture of shoulder and upper arm", ID: 689. 2021 Nov 2. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/689_1](https://cr.minzdrav.gov.ru/recomend/689_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Fractures of femur (except proximal femur)", ID: 658. 2021 Aug 26. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/658_1](https://cr.minzdrav.gov.ru/recomend/658_1)
+- [Ministry of Health of the Russian Federation. Clinical practice guideline "Tear of meniscus of knee", ID: 659. 2021 Aug 25. Russian. Available from: https://cr.minzdrav.gov.ru/recomend/659_1](https://cr.minzdrav.gov.ru/recomend/659_1)
 
 Funding: Employment
 
