@@ -267,7 +267,7 @@ _Key Responsibilities:_
 _Key Achievements:_
 
 - Contributed to the creation of the landing page and the minimum viable product web site.
-- Designed, conducted, and published a rapid market-scoping review and a survey targetting a population of 12,800 potential users.
+- Designed, conducted, and published a rapid market-scoping review and a survey targeting a population of 12,800 potential users.
 
 ---
 
