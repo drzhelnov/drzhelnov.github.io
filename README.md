@@ -27,7 +27,7 @@ This website **[drzhelnov.com](https://drzhelnov.com)** is my personal website.
 
 My email is `... pavel [at] zheln [dot] com`.
 
-[ORCiD](https://orcid.org/0000-0003-2767-5123) \| [LinkedIn](https://www.linkedin.com/in/pavel-zhelnov-382073182/)  \| [GitHub](https://github.com/p1m-ortho/) \| [Twitter](https://twitter.com/@drzhelnov) 
+[ORCiD](https://orcid.org/0000-0003-2767-5123) \| [LinkedIn](https://www.linkedin.com/in/drzhelnov/)  \| [GitHub](https://github.com/p1m-ortho/) \| [Twitter](https://twitter.com/@drzhelnov) 
 
 ## b) DEGREES
 
