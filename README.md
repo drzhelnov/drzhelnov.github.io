@@ -39,7 +39,7 @@ PhD in Health Policy, Management and Evaluation (Health Systems Research &ndash;
 
 [Link to Graduate Student Directory](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/)
 
-Provisional thesis title: _Health research waste as an organizational problem_
+Provisional thesis title: _Health research waste reduction: an organizational solution_
 
 [Institute of Health Policy, Management and Evaluation](https://ihpme.utoronto.ca/)
 
@@ -369,7 +369,7 @@ Melbourne, VIC, Australia
 
 ---
 
-2020&ndash;now
+2020&ndash;2023
 
 **Member**
 
@@ -382,7 +382,7 @@ Chair: [Professor Olga Yu. Rebrova, PhD](https://scholar.google.ru/citations?use
 _Key Responsibilities:_
 
 - Monitor, translate to Russian, conduct an evidence review, and publish medical news for general audiences and health care professionals on the Society's web resources.
-- Contribute to development of national clinical practice guidelines in traumatology and orthopedics as a work group member on behalf of the Society.
+- Contribute to the development of national clinical practice guidelines in traumatology and orthopedics as a work group member on behalf of the Society.
 - Advocate evidence-based practice and follow the Society's ethical code while practising as a physician.
 
 _Key Achievements:_
@@ -440,7 +440,7 @@ Supervisor: [Professor Denis I. Kutyanov, MD, PhD](https://www.scopus.com/authid
 
 _Key Responsibilities:_
 
-- Mentor undergradute and postgraduate students who come to take part in the research conducted by the Department.
+- Mentor undergraduate and postgraduate students who come to take part in the research conducted by the Department.
 - Ensure that the Department's planned research activities are on schedule.
 - Help convene the public events organized by the Department.
 
