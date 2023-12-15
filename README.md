@@ -4,6 +4,8 @@
 
 {::options parse_block_html="true" /}
 
+[Jump to portfolio](https://p1m.org)
+
 > Last updated: {{ site.time | date: "%B %e, %Y" }}
 > 
 > {{ site.description }}
@@ -726,6 +728,8 @@ Funding: None
 
 ### Computer skills:
 
+[Jump to portfolio](https://p1m.org)
+
 SQL/MySQL/SQLite (Competent)
 
 Git/GitHub (Competent)
@@ -738,7 +742,9 @@ HTML/CSS/Jekyll/Bootstrap (Competent)
 
 R statistical software (Competent)
 
-Javascript, C#, VBA, PHP, C, Bash (Junior Developer)
+JavaScript/C#/VBA/PHP/C/Bash/Python (Junior Developer)
+
+Layer-1 & Layer-2 Blockchains/Solana/Ethereum/Solidity (NFT Developer)
 
 ### Languages:
 
