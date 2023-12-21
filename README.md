@@ -25,7 +25,7 @@
 
 I live in Toronto, Ontario, Canada.
 
-This website **[drzhelnov.com](https://drzhelnov.com)** is my personal website.
+This website **[drzhelnov.github.io](https://drzhelnov.github.io)** is my personal website.
 
 My email is `... pavel [at] zheln [dot] com`.
 

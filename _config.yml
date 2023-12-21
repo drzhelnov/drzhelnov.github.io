@@ -7,7 +7,7 @@ defaults:
     values:
       layout: "default"
 title: "Doctor Zhelnov"
-url: "https://drzhelnov.com/"
+url: "https://drzhelnov.github.io/"
 description: "Pavel Zhelnov, MD, quit a career in orthopedic spine surgery due to dermatitis, transitioned to health policy & evidence synthesis, and is exploring machine learning & Web3."
 lang: "en-US"
 show_downloads: true
