@@ -4,7 +4,7 @@
 
 {::options parse_block_html="true" /}
 
-[Jump to portfolio](https://p1m.org)
+[Jump to portfolio](https://p1m.org/portfolio)
 
 > Last updated: {{ site.time | date: "%B %e, %Y" }}
 > 
@@ -728,7 +728,7 @@ Funding: None
 
 ### Computer skills:
 
-[Jump to portfolio](https://p1m.org)
+[Jump to portfolio](https://p1m.org/portfolio)
 
 SQL/MySQL/SQLite (Competent)
 
