@@ -19,6 +19,10 @@
     {% if site.google_analytics %}
     {% include g-analytics.html %}
     {% endif %}
-
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ startOnLoad: true });
+      window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid')); // credit to wooohooo @ https://stackoverflow.com/a/53893998
+    </script>
   </body>
 </html>
