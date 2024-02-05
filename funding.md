@@ -37,7 +37,7 @@ gantt
 
 ### Connaught PhDs for Public Impact Fellowship Program
 
-https://www.sgs.utoronto.ca/awards/connaught-phds-for-public-impact-fellowship-program/
+<https://www.sgs.utoronto.ca/awards/connaught-phds-for-public-impact-fellowship-program/>
 
 $12,500/year ($10,000 top-up? + $2,500 allowance) 
 
