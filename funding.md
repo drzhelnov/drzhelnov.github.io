@@ -13,7 +13,7 @@ gantt
         Task in Another  :2023-12-01, 12d
         another task  :24d
 
-    click a1 href "https://www.sgs.utoronto.ca/awards/connaught-phds-for-public-impact-fellowship-program/"
+    click a1 href "#connaught-phds-for-public-impact-fellowship-program"
 ```
 
 ## 2025
@@ -22,6 +22,7 @@ gantt
 gantt
     title Scholarships, grants, and awards
     dateFormat YYYY-MM-DD
+    todayMarker off
     section Section
         Connaught PhDs for Public Impact Fellowship Program  :a1, 2024-12-01, 2025-01-29
         Another task  :after a1, 20d
@@ -34,9 +35,9 @@ gantt
 
 ## Database
 
-## Connaught PhDs for Public Impact Fellowship Program
+### Connaught PhDs for Public Impact Fellowship Program
 
-https://www.sgs.utoronto.ca/awards/connaught-phds-for-public-impact-fellowship-program/ |
+https://www.sgs.utoronto.ca/awards/connaught-phds-for-public-impact-fellowship-program/
 
 $12,500/year ($10,000 top-up? + $2,500 allowance) 
 
