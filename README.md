@@ -531,7 +531,7 @@ _Key Achievements:_
 
 Konstantinidis M et al. Conducting pairwise and network meta-analyses in Updatedand Living Systematic Reviews: a scoping review.
 
-Konstantinidis M et al. Characteristics and statistical properties of meta-analyses in updated and living systematic reviews: An empirical study. OSF Registries. 2024. https://doi.org/10.17605/OSF.IO/CBKUV
+Konstantinidis M et al. Characteristics and statistical properties of meta-analyses in updated and living systematic reviews: An empirical study. OSF Registries. 2024. <https://doi.org/10.17605/OSF.IO/CBKUV>
 
 Funding: None
 
@@ -615,7 +615,7 @@ Funding: Crowdfunding initiated; <$50 donations so far
 
 Papers in Peer-reviewed Journals
 
-**Accepted: 3\. Kazakova A, Zhelnov P, Sidorov R, Rogova A, Vasileva O, Ivanov R, Reshetnikov V, Muslimov A. DNA and RNA vaccines against tuberculosis: a scoping review of human and animal studies. Front Immunol. 2024;15:n.p. doi: 10.3389/fimmu.2024.1457327. https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1457327/abstract**
+**Accepted: 3\. Kazakova A, Zhelnov P, Sidorov R, Rogova A, Vasileva O, Ivanov R, Reshetnikov V, Muslimov A. DNA and RNA vaccines against tuberculosis: a scoping review of human and animal studies. Front Immunol. 2024;15:n.p. doi: 10.3389/fimmu.2024.1457327. <https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1457327/abstract>**
 
 Funding: This research was supported by the Russian Science Foundation under [grant # 22-25-00516](https://rscf.ru/project/22-25-00516/).
 
@@ -631,7 +631,7 @@ Other publications:
 
 Papers in Peer-reviewed Journals:
 
-**4\. Suponin A, Zhelnov P, Potanin A, Chekalov A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic Vaccines for Follicular Lymphoma: A Systematic Review. Pharmaceuticals. 2024; 17(3):272. https://doi.org/10.3390/ph17030272**
+**4\. Suponin A, Zhelnov P, Potanin A, Chekalov A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic Vaccines for Follicular Lymphoma: A Systematic Review. Pharmaceuticals. 2024; 17(3):272. <https://doi.org/10.3390/ph17030272>**
 
 Funding: This research was supported by the Ministry of Science and Higher Education of the Russian Federation (agreement No. 075-10-2021-113, unique project ID RF----193021X0001).
 
