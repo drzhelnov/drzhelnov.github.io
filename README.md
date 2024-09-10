@@ -176,6 +176,8 @@ Students’ Conference “Students’ Science”, Saint Petersburg, Russia
 
 ### Current:
 
+2024
+
 **Research Assistant Team Lead**
 
 University of Toronto
@@ -203,7 +205,7 @@ _Key Achievements:_
 
 ---
 
-2020&ndash;2023
+2020
 
 **Independent Researcher/Tutor**
 
@@ -551,9 +553,9 @@ Funding: None
 
 (PhD dissertation in progress)
 
-Avoidably WAsted REsearch (AWARE): Knowledge to Action. https://researchwaste.info/
+Avoidably WAsted REsearch (AWARE): Knowledge to Action. <https://researchwaste.info/>
 
-Former Open Science Framework repository: https://doi.org/10.17605/OSF.IO/E87V2
+Former Open Science Framework repository: <https://doi.org/10.17605/OSF.IO/E87V2>
 
 ---
 
@@ -561,7 +563,7 @@ Former Open Science Framework repository: https://doi.org/10.17605/OSF.IO/E87V2
 
 (collaborator on a scoping review in progress)
 
-Colacci M, Straus S, Tricco A, Zhelnov P. Protocol for a Scoping Review of Bias in Medical Applications of Machine Learning. OSF Registries. 2024. https://doi.org/10.17605/OSF.IO/4VA9Z
+Colacci M, Straus S, Tricco A, Zhelnov P. Protocol for a Scoping Review of Bias in Medical Applications of Machine Learning. OSF Registries. 2024. <https://doi.org/10.17605/OSF.IO/4VA9Z>
 
 ---
 
