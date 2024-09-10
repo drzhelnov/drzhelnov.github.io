@@ -41,7 +41,9 @@ PhD in Health Policy, Management and Evaluation (Health Systems Research &ndash;
 
 [Link to Graduate Student Directory](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/)
 
-Provisional thesis title: _Health research waste reduction: an organizational solution_
+Provisional thesis title: _Avoidably WAsted REsearch (AWARE): Knowledge to Action_
+
+Landing page: <https://researchwaste.info/>
 
 [Institute of Health Policy, Management and Evaluation](https://ihpme.utoronto.ca/)
 
@@ -51,7 +53,7 @@ Supervisor: [Dr. Andrea Tricco, MSc, PHD](https://www.dlsph.utoronto.ca/faculty-
 
 Co-registered as a graduate student at the [Knowledge Translation Program](https://knowledgetranslation.net/) of the Li Ka Shing Knowledge Institute of St. Michael’s Hospital (Unity Health Toronto)
 
-Toronto, ON, Canada
+Toronto, Ontario, Canada
 
 ---
 
@@ -174,7 +176,64 @@ Students’ Conference “Students’ Science”, Saint Petersburg, Russia
 
 ### Current:
 
-**Exploring part-time employment** options as a full-time graduate student up to 20 hours per week as per [R186(V)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html)
+**Research Assistant Team Lead**
+
+University of Toronto
+
+Toronto, Ontario, Canada
+
+Research Fellowship with Professor Patrick Keilty and the GLAM Incubator, Faculty of Information.
+
+Project page: [Graph-Based Archival Description at the Archives of Ontario](https://glam.ischool.utoronto.ca/?project=graph-based-archival-description-at-the-archives-of-ontario)
+
+_Key Responsibilities:_
+
+- Create a proof of concept that explores the possibilities and potential benefits of a graph-based data model for archival description, using the [International Council on Archives’ new Records in Contexts (RiC) standard](https://www.ica.org/ica-network/expert-groups/egad/records-in-contexts-ric/) and Linked Open Data (RDF data format). The overall objective of this project is to develop a data model, to select and model a small-scale sample of data drawn from the [Archives of Ontario’s datasets](https://aims.archives.gov.on.ca/), and to thereby test the possibilities and potential benefits for internal staff and public end-users.
+- Advise another Research Assistant on the team on daily activities, provide project management, evaluate technology options, and assist with the development of functional requirements, data mapping, and data conversion.
+
+_Key Achievements:_
+
+[Open Source code and data – GitHub repo](https://github.com/gbad-project/records_in_contexts_draw_io_parser/tree/gbad-project)
+
+- Supported the team’s successful development of a new data model and URI format within the alotted time frame.
+- Adapted the existing Python code to convert freehand-drawn [Draw.io](https://draw.io/) diagrams to fully featured RDF graphs.
+- Wrote from scratch Python and Shell code to enable the creation of maps in [RDF Mapping Language (RML)](https://rml.io/) using the above diagramming tool.
+- Successfully converted a large sample of the Archives of Ontario data to the new format while providing scalability for a full dataset conversion.
+- Presented the results to the external stakeholder, enabling the transferability and sustainability of the code and data.
+
+---
+
+2020&ndash;2023
+
+**Independent Researcher/Tutor**
+
+Self-Employed
+
+Toronto, Ontario, Canada
+
+Saint Petersburg, Russia (Remote)
+
+_Key Responsibilities:_
+
+- Run own research/educational projects.
+- Seek funding and hire collaborators.
+- Manage own finances and time, including switching between currencies and time zones.
+
+_Key Achievements:_
+
+- [Launched a web-based open evidence synthesis portal all by self, started a crowdfunding campaign.](https://zheln.com/)
+- Published systematic progress reports for 15 consecutive self-funded weeks.
+- Participated in the PRISMA 2020 development process, with two standalone (independent from the main PRISMA process) manuscripts being prepared for publication.
+- Provided paid Medical English courses to two practising physicians and launched a half-free, half-subscription-based blog for Russian-speaking English learners.
+- Produced 3 pocket clinical practice guidelines on diverse conditions, digested and adapted for clinicians, published in an industry journal:
+
+    1. [Algorithm of examination in olfactory disorders. Non Nocere. New Therapeutic Journal. 2023;(9):78‑86. Russian.](https://www.mediasphera.ru/issues/non-nocere/2023/9/1265864282023091078)
+    2. [Know to the bone: Algorithm for diagnosis and treatment of osteoporosis in a clinic. Non Nocere. New Therapeutic Journal. 2023;(10‑11):42‑53. Russian.](https://www.mediasphera.ru/issues/non-nocere/2023/10-11/126586428202310-111042)
+    3. [Doing it right: Algorithm for diagnosis and treatment of chronic kidney disease (for non-specialist physicians). Non Nocere. New Therapeutic Journal. 2024;(5):72‑79. Russian.](https://www.mediasphera.ru/issues/non-nocere/2024/5/126586428202451072)
+
+
+- [Researched and compiled 245 original research summaries for a major medical publisher’s blog over a period of 2.5 years with a total of over 200,000 impressions.](https://t.me/firstmedtv)
+- Engineered and developed a software stack for finding and summarizing relevant, high-quality health research. This technology is currently tested in production (Technology Readiness Level 5) and is being prepared for a public release. [Contact Pavel.](https://drzhelnov.github.io/#a-contacts)
 
 ### Previous:
 
@@ -200,28 +259,6 @@ _Key Achievements:_
 - Negotiated with 4 clients, completed 3 jobs, secured 1 long-term partnership offer.
 - Have completed a large research report for pharma that involved a literature review as well as editing and analysis of interview transcripts.
 - [Built on experience with a previous project (Zheln.com) to lay out service options for clients.](https://zheln.com/)
-
-2020&ndash;2023
-
-**Independent Researcher/Tutor**
-
-Self-Employed
-
-Saint Petersburg, Russia
-
-_Key Responsibilities:_
-
-- Run own research/educational projects.
-- Seek funding and hire collaborators.
-- Manage own finances and time, including switching between currencies and time zones.
-
-_Key Achievements:_
-
-- [Launched a web-based open evidence synthesis portal all by self, started a crowdfunding campaign.](https://zheln.com/)
-- Published systematic progress reports for 15 consecutive self-funded weeks.
-- Participated in the PRISMA 2020 development process, with two standalone (independent from the main PRISMA process) manuscripts being prepared for publication.
-- Provided paid Medical English courses to two practising physicians and launched a half-free, half-subscription-based blog for Russian-speaking English learners.
-- [Researched and compiled 90+ original digest posts for a major medical publisher's blog over a period of 11 months with a total of 30k+ impressions.](https://t.me/firstmedtv)
 
 ---
 
@@ -361,7 +398,7 @@ _Key Achievements:_
 
 ### Membership in Professional Associations:
 
-2021&ndash;now
+2021&ndash;2023
 
 **Member**
 
@@ -395,6 +432,20 @@ _Key Achievements:_
 - Have piloted the Society's role as a national clinical practice guideline developer and contributed to 3+ ongoing projects, making the development process openly available on GitHub for the first time (discontinued later).
 
 ### Other Activities:
+
+2021&ndash;now
+
+**Evidence Synthesis News Channel**
+
+[Telegram @evidence_synthesis](https://t.me/evidence_synthesis)
+
+
+_Key Achievements:_
+
+- A one-of-a-kind resource in Russian.
+- Currently at 34 subscribers.
+
+---
 
 2021
 
@@ -457,39 +508,60 @@ _Key Achievements:_
 
 ### Summary:
 
-- 9 evidence synthesis projects.
+- 13 evidence synthesis projects.
 - 4 research methodology/software projects.
-- Principal Investigator or methodologist in most.
 - Clinical study experience.
 - Policy-making and knowledge-translation experience:
-  - administrative and editorial contributions to 34 national clinical practice guidelines in orthopedic surgery;
-  - task force member in 12 guidelines;
+  - Administrative and editorial contributions to 34 national clinical practice guidelines in orthopedic surgery;
+  - Task force member in 12 guidelines;
   - 22 guidelines approved for use as active regulations according to Russian Federal Law;
-  - used as reference for the development of federal universal health care reimbursement standards and quality assurance criteria.
-- Published translation experience.
-- 12 publications in peer-reviewed journals.
-- 100% Open Access to published work.
+  - Used as reference for the development of federal universal health care reimbursement standards and quality assurance criteria.
+- Written translation experience.
+- 15 publications in peer-reviewed journals.
+- Over 90% Open Access to published work.
 - Funding: own projects all volunteer work, self-funded, or crowdfunded; collaborations mostly supported by collaborators’ research grants or self-funded.
 
 ### Current:
 
-2022
+2024
 
-(systematic review in progress)
+(collaborator on a scoping review and empirical study in progress)
 
-**[Zhelnov P, Suponin A, Potanin A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic vaccines for follicular lymphoma: a systematic review protocol. OSF Preprints. 2023. doi: 10.31219/osf.io/evj59](https://doi.org/10.31219/osf.io/evj59)**
+Konstantinidis M et al. Conducting pairwise and network meta-analyses in Updatedand Living Systematic Reviews: a scoping review.
 
-Funding: This research was supported by the Russian Science Foundation under [grant # 22-25-00516](https://rscf.ru/project/22-25-00516/).
+Konstantinidis M et al. Characteristics and statistical properties of meta-analyses in updated and living systematic reviews: An empirical study. OSF Registries. 2024. https://doi.org/10.17605/OSF.IO/CBKUV
+
+Funding: None
 
 ---
 
-2022
+2023
 
-(scoping review in progress)
+(collaborator on a scoping review in progress)
 
-**[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)**
+Papers in Peer-reviewed Journals:
 
-Funding: This research was supported by the Ministry of Science and Higher Education of the Russian Federation (agreement No. 075-10-2021-113, unique project ID RF----193021X0001).
+**1\. Accepted: Stratton C et al. Barriers and Facilitators to Designing, Maintaining, and Utilizing Rare Disease Patient Registries: a scoping review protocol. JBI Evidence Synthesis.**
+
+Funding: None
+
+---
+
+2023
+
+(PhD dissertation in progress)
+
+Avoidably WAsted REsearch (AWARE): Knowledge to Action. https://researchwaste.info/
+
+Former Open Science Framework repository: https://doi.org/10.17605/OSF.IO/E87V2
+
+---
+
+2023
+
+(collaborator on a scoping review in progress)
+
+Colacci M, Straus S, Tricco A, Zhelnov P. Protocol for a Scoping Review of Bias in Medical Applications of Machine Learning. OSF Registries. 2024. https://doi.org/10.17605/OSF.IO/4VA9Z
 
 ---
 
@@ -499,7 +571,7 @@ Funding: This research was supported by the Ministry of Science and Higher Educa
 
 Papers in Peer-reviewed Journals:
 
-**[1\. Meloncelli N, Young A, Christoffersen A, Rushton A, Zhelnov P, Wilkinson SA, Scott AM, de Jersey S. Co-designing nutrition interventions with consumers: A scoping review. J Hum Nutr Diet. 2022 Sep 2. doi: 10.1111/jhn.13082. Epub ahead of print. PMID: 36056610.](https://doi.org/10.1111/jhn.13082)**
+**[2\. Meloncelli N, Young A, Christoffersen A, Rushton A, Zhelnov P, Wilkinson SA, Scott AM, de Jersey S. Co-designing nutrition interventions with consumers: A scoping review. J Hum Nutr Diet. 2022 Sep 2. doi: 10.1111/jhn.13082. Epub ahead of print. PMID: 36056610.](https://doi.org/10.1111/jhn.13082)**
 
 The first published scoping review featuring the '2-week' methodology ([Clark et al., 2020](https://doi.org/10.1016/j.jclinepi.2020.01.008))
 
@@ -534,6 +606,38 @@ In collaboration with [Dr. Matthew J. Page](https://matthewjamespage.com/) of th
 Funding: Crowdfunding initiated; <$50 donations so far
 
 ### Previous:
+
+2022&ndash;2024
+
+(complete)
+
+Papers in Peer-reviewed Journals
+
+**Accepted: 3\. Kazakova A, Zhelnov P, Sidorov R, Rogova A, Vasileva O, Ivanov R, Reshetnikov V, Muslimov A. DNA and RNA vaccines against tuberculosis: a scoping review of human and animal studies. Front Immunol. 2024;15:n.p. doi: 10.3389/fimmu.2024.1457327. https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1457327/abstract**
+
+Funding: This research was supported by the Russian Science Foundation under [grant # 22-25-00516](https://rscf.ru/project/22-25-00516/).
+
+Other publications:
+
+[Zhelnov P, Suponin A, Potanin A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic vaccines for follicular lymphoma: a systematic review protocol. OSF Preprints. 2023. doi: 10.31219/osf.io/evj59](https://doi.org/10.31219/osf.io/evj59)
+
+---
+
+2022&ndash;2024
+
+(complete)
+
+Papers in Peer-reviewed Journals:
+
+**4\. Suponin A, Zhelnov P, Potanin A, Chekalov A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic Vaccines for Follicular Lymphoma: A Systematic Review. Pharmaceuticals. 2024; 17(3):272. https://doi.org/10.3390/ph17030272**
+
+Funding: This research was supported by the Ministry of Science and Higher Education of the Russian Federation (agreement No. 075-10-2021-113, unique project ID RF----193021X0001).
+
+Other publications:
+
+[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)
+
+---
 
 2021&ndash;2023
 
@@ -642,7 +746,7 @@ Funding: None
 
 Papers in Peer-reviewed Journals:
 
-**[2\. Dulaev AK, Kutyanov DI, Iskrovskiy SV, Menshova NT, Zhelnov PV. [Recommendation base for the delivery of specialized medical care to patients with spine and spinal cord injury in Russia: scoping review]. Khir Pozvonochnika. 2021 Dec;18(4):41&ndash;54. Russian. doi: 10.14531/ss2021.4.41-54.](https://doi.org/10.14531/ss2021.4.41-54)**
+**[5\. Dulaev AK, Kutyanov DI, Iskrovskiy SV, Menshova NT, Zhelnov PV. [Recommendation base for the delivery of specialized medical care to patients with spine and spinal cord injury in Russia: scoping review]. Khir Pozvonochnika. 2021 Dec;18(4):41&ndash;54. Russian. doi: 10.14531/ss2021.4.41-54.](https://doi.org/10.14531/ss2021.4.41-54)**
 
 Funding: The work was performed under the research project of the state task of the Ministry of Health of the Russian Federation, 2020–2022 (Improvement of national clinical guidelines for the treatment of patients with spine and spinal cord injury, No. A-A20-120021890131-4).
 
@@ -658,7 +762,7 @@ Other publications:
 
 Papers in Peer-reviewed Journals:
 
-**[3\. Dulaev AK, Kutianov DI, Zhelnov PV, Brizhan SL. [Healthcare resources to care for spinal conditions: international experience (a systematic scoping review)]. Genii Ortop. 2020 Dec;26(4):607-615. Russian. doi: 10.18019/1028-4427-2020-26-4-607-615.](https://doi.org/10.18019/1028-4427-2020-26-4-607-615)**
+**[6\. Dulaev AK, Kutianov DI, Zhelnov PV, Brizhan SL. [Healthcare resources to care for spinal conditions: international experience (a systematic scoping review)]. Genii Ortop. 2020 Dec;26(4):607-615. Russian. doi: 10.18019/1028-4427-2020-26-4-607-615.](https://doi.org/10.18019/1028-4427-2020-26-4-607-615)**
 
 Funding: None
 
@@ -674,7 +778,7 @@ Other publications:
 
 Papers in Peer-reviewed Journals:
 
-**[4\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Bulakhtin YY, Brizhan' SL, Zhelnov PV. [Development of management of emergency surgical care for patients with acute traumatic and nontraumatic spinal pathologies in conditions of megapolis]. Vestn Khir Im I I Grek. 2017 Dec;176(4):39-43. Russian. doi: 10.24884/0042-4625-2017-176-4-39-43.](https://doi.org/10.24884/0042-4625-2017-176-4-39-43)**
+**[7\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Bulakhtin YY, Brizhan' SL, Zhelnov PV. [Development of management of emergency surgical care for patients with acute traumatic and nontraumatic spinal pathologies in conditions of megapolis]. Vestn Khir Im I I Grek. 2017 Dec;176(4):39-43. Russian. doi: 10.24884/0042-4625-2017-176-4-39-43.](https://doi.org/10.24884/0042-4625-2017-176-4-39-43)**
 
 Funding: None
 
@@ -682,21 +786,21 @@ Other publications:
 
 Papers in Peer-reviewed Journals:
 
-[5\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Brizhan' SL, Zhelnov PV. [Surgical treatment of patients with acute non-traumatic spinal disorders in the urban center of spine emergency surgery]. Skor Med Pomoshch. 2017 Mar;18(1):14-19. Russian. doi: 10.24884/2072-6716-2017-18-1-14-19.](https://doi.org/10.24884/2072-6716-2017-18-1-14-19)
+[8\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Brizhan' SL, Zhelnov PV. [Surgical treatment of patients with acute non-traumatic spinal disorders in the urban center of spine emergency surgery]. Skor Med Pomoshch. 2017 Mar;18(1):14-19. Russian. doi: 10.24884/2072-6716-2017-18-1-14-19.](https://doi.org/10.24884/2072-6716-2017-18-1-14-19)
 
-[6\. Dulaev AK, Manukovsky VA, Kutyanov DI, Brizhan SL, Zhelnov PV. [A centralized system of specialized surgical care for patients with acute non-traumatic spine pathology in the modern metropolis]. Khir Pozvonochnika. 2017 Jun;14(2):41-49. Russian. doi: 10.14531/ss2017.2.41-49. ](https://doi.org/10.14531/ss2017.2.41-49)
+[9\. Dulaev AK, Manukovsky VA, Kutyanov DI, Brizhan SL, Zhelnov PV. [A centralized system of specialized surgical care for patients with acute non-traumatic spine pathology in the modern metropolis]. Khir Pozvonochnika. 2017 Jun;14(2):41-49. Russian. doi: 10.14531/ss2017.2.41-49. ](https://doi.org/10.14531/ss2017.2.41-49)
 
-[7\. Dulaev AK, Manukovskii VA, Kutianov DI, Brizhan' SL, Dulaeva NM, Bulakhtin IuIu, Zhelnov PV. [Diagnosis and treatment tactics of specialized medical care provided for patientswith spinal disorders at an emergency unit of spinal surgery]. Genii Ortop. 2017 Dec;23(4):429-438. Russian. doi: 10.18019/1028-4427-2017-23-4-429-438.](https://doi.org/10.18019/1028-4427-2017-23-4-429-438)
+[10\. Dulaev AK, Manukovskii VA, Kutianov DI, Brizhan' SL, Dulaeva NM, Bulakhtin IuIu, Zhelnov PV. [Diagnosis and treatment tactics of specialized medical care provided for patientswith spinal disorders at an emergency unit of spinal surgery]. Genii Ortop. 2017 Dec;23(4):429-438. Russian. doi: 10.18019/1028-4427-2017-23-4-429-438.](https://doi.org/10.18019/1028-4427-2017-23-4-429-438)
 
-[8\. Dulaev AK, Manukovskii VA, Kutianov DI, Parshin MS, Dulaev DV, Zhelnov PV, Alikov ZIu. [Spine and spinal cord injuries in a Russian metropolitan area: incidence, injury characteristics, and public bed demand]. Skor Med Pomoshch. 2018;19(3):13-18. Russian. doi: 10.24884/2072-6716-2018-19-3-13-18.](https://doi.org/10.24884/2072-6716-2018-19-3-13-18)
+[11\. Dulaev AK, Manukovskii VA, Kutianov DI, Parshin MS, Dulaev DV, Zhelnov PV, Alikov ZIu. [Spine and spinal cord injuries in a Russian metropolitan area: incidence, injury characteristics, and public bed demand]. Skor Med Pomoshch. 2018;19(3):13-18. Russian. doi: 10.24884/2072-6716-2018-19-3-13-18.](https://doi.org/10.24884/2072-6716-2018-19-3-13-18)
 
-[9\. Dulaev AK, Manukovski VA, Kutyanov DI, Parshin MS, Dulaev DV, Brizhan SL, Iskrovskiy SV, Zhelnov PV. [Analysis of secondary care provided to trauma victims with thoracic and lumbar spine injuries in a setting of an urban centre for acute spinal surgery]. Uch Zap St Peterbg Gos Med Univ Im Akad I P Pavlov. 2018 Dec;25(4):57-63. Russian. doi: 10.24884/1607-4181-2018-25-4-57-63.](https://doi.org/10.24884/1607-4181-2018-25-4-57-63)
+[12\. Dulaev AK, Manukovski VA, Kutyanov DI, Parshin MS, Dulaev DV, Brizhan SL, Iskrovskiy SV, Zhelnov PV. [Analysis of secondary care provided to trauma victims with thoracic and lumbar spine injuries in a setting of an urban centre for acute spinal surgery]. Uch Zap St Peterbg Gos Med Univ Im Akad I P Pavlov. 2018 Dec;25(4):57-63. Russian. doi: 10.24884/1607-4181-2018-25-4-57-63.](https://doi.org/10.24884/1607-4181-2018-25-4-57-63)
 
-[10\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Iskrovskiy SV, Brizhan SL, Zhelnov PV, Dulaeva NM. [The efficiency of the centralized system for delivery of specialized medical care to victims with acute spinal cord injury in a modern metropolis]. Khir Pozvonochnika. 2019 Mar;16(1):8-15. Russian. doi: 10.14531/ss2019.1.8-15.](https://doi.org/10.14531/ss2019.1.8-15)
+[13\. Dulaev AK, Manukovskiy VA, Kutyanov DI, Iskrovskiy SV, Brizhan SL, Zhelnov PV, Dulaeva NM. [The efficiency of the centralized system for delivery of specialized medical care to victims with acute spinal cord injury in a modern metropolis]. Khir Pozvonochnika. 2019 Mar;16(1):8-15. Russian. doi: 10.14531/ss2019.1.8-15.](https://doi.org/10.14531/ss2019.1.8-15)
 
-[11\. Dulaev AK, Kutyanov DI, Manukovskiy VA, Parshin MS, Iskrovskiy SV, Zhelnov PV. [Decision-making and technical choice in instrumental fixation for neurologically uncomplicated isolated burst fractures of the thoracic and lumbar vertebrae]. Khir Pozvonochnika. 2019 Jun;16(2):7-17. Russian. doi: 10.14531/ss2019.2.7-17.](https://doi.org/10.14531/ss2019.2.7-17)
+[14\. Dulaev AK, Kutyanov DI, Manukovskiy VA, Parshin MS, Iskrovskiy SV, Zhelnov PV. [Decision-making and technical choice in instrumental fixation for neurologically uncomplicated isolated burst fractures of the thoracic and lumbar vertebrae]. Khir Pozvonochnika. 2019 Jun;16(2):7-17. Russian. doi: 10.14531/ss2019.2.7-17.](https://doi.org/10.14531/ss2019.2.7-17)
 
-[12\. Dulaev AK, Kutyanov DI, Manukovskiy VA, Iskrovskiy SV, Zhelnov PV. [Influence of administrative factors on the effectiveness of health care delivery to victims with acute spine and spinal cord injuries: regional retrospective study as a base for improving national clinical guidelines]. Khir Pozvonochnika. 2020 Oct;17(3):32-42. Russian. doi: 10.14531/ss2020.3.32-42.](https://doi.org/10.14531/ss2020.3.32-42)
+[15\. Dulaev AK, Kutyanov DI, Manukovskiy VA, Iskrovskiy SV, Zhelnov PV. [Influence of administrative factors on the effectiveness of health care delivery to victims with acute spine and spinal cord injuries: regional retrospective study as a base for improving national clinical guidelines]. Khir Pozvonochnika. 2020 Oct;17(3):32-42. Russian. doi: 10.14531/ss2020.3.32-42.](https://doi.org/10.14531/ss2020.3.32-42)
 
 ---
 
