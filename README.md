@@ -529,7 +529,7 @@ _Key Achievements:_
 
 (collaborator on a scoping review and empirical study in progress)
 
-Konstantinidis M et al. Conducting pairwise and network meta-analyses in Updatedand Living Systematic Reviews: a scoping review.
+Konstantinidis M et al. Conducting pairwise and network meta-analyses in Updated and Living Systematic Reviews: a scoping review.
 
 Konstantinidis M et al. Characteristics and statistical properties of meta-analyses in updated and living systematic reviews: An empirical study. OSF Registries. 2024. <https://doi.org/10.17605/OSF.IO/CBKUV>
 
@@ -621,7 +621,7 @@ Funding: This research was supported by the Russian Science Foundation under [gr
 
 Other publications:
 
-[Zhelnov P, Suponin A, Potanin A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic vaccines for follicular lymphoma: a systematic review protocol. OSF Preprints. 2023. doi: 10.31219/osf.io/evj59](https://doi.org/10.31219/osf.io/evj59)
+[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)
 
 ---
 
@@ -637,7 +637,7 @@ Funding: This research was supported by the Ministry of Science and Higher Educa
 
 Other publications:
 
-[Muslimov A, Zhelnov P. Nucleic-acid tuberculosis vaccines: a scoping review protocol. OSF Preprints. 2022. doi: 10.31219/osf.io/g2s4y.](https://doi.org/10.31219/osf.io/g2s4y)
+[Zhelnov P, Suponin A, Potanin A, Lomazov A, Vladimirova K, Lepik K, Muslimov A. Therapeutic vaccines for follicular lymphoma: a systematic review protocol. OSF Preprints. 2023. doi: 10.31219/osf.io/evj59](https://doi.org/10.31219/osf.io/evj59)
 
 ---
 
