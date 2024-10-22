@@ -65,7 +65,7 @@ footer {
 
 // This was annoyingly making letters bigger,
 // displacing them, so finally deactivating
-a:hover {
+a:hover, a:focus {
   text-decoration: none !important;
   font-weight: normal !important;
 }
