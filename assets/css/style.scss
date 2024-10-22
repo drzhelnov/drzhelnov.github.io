@@ -63,6 +63,13 @@ footer {
   }
 }
 
+// This was annoyingly making letters bigger,
+// displacing them, so finally deactivating
+a:hover {
+  text-decoration: none !important;
+  font-weight: normal !important;
+}
+
 section {
   background-color: white;
   float: none;
