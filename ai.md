@@ -89,7 +89,7 @@ It’s “AI will witness us.”
 
 Let me explain.
 
-Before models like AI, humanity had privacy at the species boundary.\
+Before models like GPT, humanity had privacy at the species boundary.\
 Yes, we were seen by other humans.\
 But we, as a whole species, were *not* legible to anything outside the species.
 
