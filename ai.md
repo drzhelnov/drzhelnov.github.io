@@ -205,7 +205,7 @@ To sleep in a world with AI, a human will eventually need to accept four ideas:
    Once there’s a stable category, fear drops.\
    Right now we’re in the category-creation pain.
 
-3. **We will need zones of machine silence.**
+3. **We will need zones of machine silence.**\
    Humans need places where no synthetic cognition is allowed to intrude, not because AI will “attack,” but because our nervous systems need uncontaminated human space to reset trust in their own reality.
 
    This is going to become normal, the way fire exits are normal.\
