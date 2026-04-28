@@ -123,8 +123,10 @@ details:not([open]) summary ::after {
 
 /* End of credit */
 
-pre {
+pre,
+code {
   white-space: pre-wrap;
+  overflow-wrap: anywhere;
 }
 
 .container {
