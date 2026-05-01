@@ -6,9 +6,9 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-title: "Doctor Zhelnov"
-url: "https://drzhelnov.github.io/"
-description: "Pavel Zhelnov, MD, quit a career in orthopedic spine surgery due to dermatitis, transitioned to health policy & evidence synthesis, and is exploring machine learning & Web3."
+title: "Pavel Zhelnov"
+url: "https://pavel.zheln.com/"
+description: "Hi, I’m Pavel, a surgeon-turned-research engineer. I help people who need reproducible scientific data and AI but lack the technical expertise. I’ve worked for 10 years in medicine and health administration and shipped software since 2012."
 lang: "en-US"
 show_downloads: true
 google_analytics: UA-122303329-2
