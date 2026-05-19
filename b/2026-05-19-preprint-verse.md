@@ -1,0 +1,149 @@
+---
+permalink: /b/preprint/
+layout: base
+title: Into the Preprint-Verse
+date: 2026-05-13
+---
+
+Preprints.org’s Sam Rye
+[defines][preprints-org] a preprint as a
+“draft or in-progress version of a scholarly article.”
+That sounds like a really nice definition,
+especially if coupled with the
+traditional view of the academic publication flow.
+Consider for example the
+[Publishing Status Ontology][publishing-status-ontology].
+Under [green open access][pso-green-open-access],
+it seems to define a preprint as
+“the version of the article as first submitted for publication.”
+Note the _the_ article here,
+referring apparently to the fact that
+a preprint is _intended_ for
+future publication is a peer-reviewed journal.
+
+In my applied academic reality,
+though,
+I have been struggling to
+understand whether the difference stands.
+The issue is exacerbated by the fact that
+if a researcher fancies
+self-publishing something
+virtually
+in 2026,
+multiple options fortuitously present themselves:
+
+- A legit _preprint server._
+ArXiv, medRxiv, ChemRxiv,
+you name it.
+These apparently are platforms that
+_intend_ to host publications
+_intended_ to be submitted for
+publication in a peer-reviewed journal.
+Or so reads the name.
+- Various researcher-oriented data repositories,
+including Zenodo, Dryad, or
+the Open Science Framework (OSF).
+These vary in terms of their inclusion criteria but
+overall seem to operate under the policy of
+“anything goes”
+(unless thematically constrained)
+or even offer
+the researcher a variety of options to identify with
+when they submit their document.
+  - Within this category,
+  one might observe a
+  class of platforms called _registers._
+  These seem to exist to _register_
+  research documents
+  in some particular, 
+  register-specific sense.
+  For example,
+  my interpretation is that a research document
+  published on Zenodo
+  would not be considered “registered”
+  due to the fact that
+  Zenodo does not position itself as
+  a register,
+  despite the fact that
+  metadata for all Zenodo registrations are
+  nevertheless _registered_
+  with [DataCite][datacite].
+- Non-research-oriented repositories
+might also be legitimately used.
+For example,
+GitHub, GitLab, or even
+Google Drive have all been used
+extensively to host
+public research documents.
+- Distributed hosting solutions are
+also not off the table. These include the InterPlanetary File System (IPFS),
+Arweave, BitTorrent, and
+many other similar protocols and services.
+- Not least,
+the researcher may opt to
+self-host their research document.
+What that means varies
+depending on whether they
+self-host it on their own physical computer, on 
+a rented host,
+on the said distributed nodes,
+and so on.
+
+Ultimately,
+it seems to me that the
+distinction between these options
+is often more societal
+than it is technological.
+For example,
+publishing a document redundantly through
+both a scientific data curator
+(e.g., DataCite) and through
+the IPFS makes a lot of sense provenance-wise
+because while the first avenue offers a trusted
+timestamping authority, the
+second avenue offers a strong
+cryptographic fingerprint of the data
+while also enabling self-maintenance.
+At the same time,
+publishing a protocol through Zenodo while
+also _registering_ the same document
+with the OSF would
+probably be more of a
+political consideration because
+technologically,
+both platforms will register their data through DataCite,
+but one is U.S. and the other
+E.U. based, and
+they also have different
+external data preservation arrangements;
+while on the other hand,
+one or the other could be
+more or less familiar
+within a particular scholarly community.
+
+This concludes my journey
+into the preprint-verse,
+for now.
+I hope that next time,
+I will surely select the right
+distribution channel for
+the right [publishing status][pso-publication-status].
+The traditional,
+paper-based academic publishing
+has been there for hundreds of years, and
+as still-pioneers of the digital
+it’s important that we get this right.
+
+The Start \| The End
+
+----
+
+_Written by Pavel Zhelnov on May 19, 2026._
+_[Last revised May 19, 2026.][commit-hx]_
+
+[preprints-org]: https://www.preprints.org/blog/post/preprints
+[publishing-status-ontology]: http://purl.org/spar/pso
+[pso-green-open-access]: http://purl.org/spar/pso/green-open-access
+[pso-publication-status]: http://purl.org/spar/pso/PublicationStatus
+[datacite]: https://datacite.org/
+[commit-hx]: https://github.com/drzhelnov/drzhelnov.github.io/commits/master/b/2026-05-19-preprint.md
