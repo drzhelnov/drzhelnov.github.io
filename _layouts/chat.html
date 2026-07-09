@@ -1,0 +1,15 @@
+---
+layout: base
+# chat:
+#   transcript_symlink_relpath: chats/yyyy-mm-dd-something/some-chat.md
+#   public_url: https://example.com/share/<UUID>
+---
+
+{%- capture chat -%}
+{% include {{ page.chat.transcript_symlink_relpath }} %}
+{%- endcapture -%}
+
+{%- assign first_line = chat | split: "  " | first -%}
+{%- assign new_first_line = "*URL:* <" | append: page.chat.public_url | append: ">" -%}
+
+{{ chat | replace_first: first_line, new_first_line | markdownify }}
