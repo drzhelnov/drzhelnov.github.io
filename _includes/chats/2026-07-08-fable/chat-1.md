@@ -1,1 +1,1 @@
-/Volumes/home/anonymous/drzhelnov.github.io/assets/chats/2026-07-08-fable/chat-1.md
+assets/chats/2026-07-08-fable/chat-1.md
