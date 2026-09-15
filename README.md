@@ -4,8 +4,8 @@
 
 {::options parse_block_html="true" /}
 
-[Jump to portfolio](https://p1m.org/portfolio)
-| [Blog](https://pavel.zheln.com/ai/)
+[Jump to portfolio](https://p1m.org/portfolio) 
+\| [Blog](https://pavel.zheln.com/ai/)
 
 > Last updated: {{ site.time | date: "%B %e, %Y" }}
 > 
@@ -26,11 +26,14 @@
 
 I live in Toronto, Ontario, Canada.
 
-This website [drzhelnov.github.io](https://drzhelnov.github.io) is my personal website.
+This website [pavel.zheln.com](https://pavel.zheln.com) is my personal website.
 
 My email is `... pavel [at] zheln [dot] com`.
 
-[ORCiD](https://orcid.org/0000-0003-2767-5123) \| [LinkedIn](https://www.linkedin.com/in/drzhelnov/)  \| [GitHub](https://github.com/p1m-ortho/) \| [Twitter](https://twitter.com/@drzhelnov) 
+[ORCiD](https://orcid.org/0000-0003-2767-5123) 
+\| [LinkedIn](https://www.linkedin.com/in/drzhelnov/) 
+\| [GitHub](https://github.com/paveljee/) 
+\| [Twitter](https://twitter.com/@drzhelnov)
 
 ## b) DEGREES
 
