@@ -5,6 +5,7 @@
 {::options parse_block_html="true" /}
 
 [Jump to portfolio](https://p1m.org/portfolio)
+| [Blog](https://pavel.zheln.com/ai/)
 
 > Last updated: {{ site.time | date: "%B %e, %Y" }}
 > 
