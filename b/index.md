@@ -13,5 +13,5 @@ title: Blog
 
 /b/
 
-- 2026-05-01 - [Into the Preprint-Verse](/b/preprint/)
+- 2026-05-19 - [Into the Preprint-Verse](/b/preprint/)
 - 2026-10-16 - [Challenging humans with transcendental realism](/b/realism/)
