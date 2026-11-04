@@ -20,7 +20,9 @@
     {% include styles.html %}
     {% include fa.html %}
     {% include icons.html %}
-    {% include ya-metrika.html %}
+    {% if site.ya_metrika %}
+      {% include ya-metrika.html %}
+    {% endif %}
   </head>
   <body>
     <div class="wrapper">

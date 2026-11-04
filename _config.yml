@@ -12,6 +12,7 @@ description: "Hi, I’m Pavel, a surgeon-turned-research engineer. I help people
 lang: "en-US"
 show_downloads: true
 google_analytics: G-TX0TDKGNHK
+ya_metrika: 70928308
 markdown: kramdown
 plugins:
   - jekyll-readme-index
