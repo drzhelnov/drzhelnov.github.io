@@ -23,6 +23,9 @@
     {% if site.ya_metrika %}
       {% include ya-metrika.html %}
     {% endif %}
+    {% if site.google_analytics %}
+      {% include g-analytics.html %}
+    {% endif %}
   </head>
   <body>
     <div class="wrapper">
@@ -31,9 +34,6 @@
 
     </div>
     <!--<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>-->
-    {% if site.google_analytics %}
-    {% include g-analytics.html %}
-    {% endif %}
     <script>
       mermaid.initialize({ startOnLoad: true });
       window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid')); // credit to wooohooo @ https://stackoverflow.com/a/53893998
