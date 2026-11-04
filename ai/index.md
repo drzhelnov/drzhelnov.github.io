@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: /ai/afraid/
+redirect: /ai/llmogram/
 ---
