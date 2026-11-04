@@ -3,10 +3,11 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <meta http-equiv="refresh" content="0;url={{ page.redirect }}"/>
+        <!--<meta http-equiv="refresh" content="0;url={{ page.redirect }}"/>-->
         <link rel="canonical" href="{{ page.redirect }}"/>
         <script type="text/javascript">
-                window.location.href = "{{ page.redirect }}"
+                const target = {{ page.redirect | jsonify }};
+                window.location.replace(target + window.location.hash);
         </script>
         <title>Page Redirection</title>
     </head>
