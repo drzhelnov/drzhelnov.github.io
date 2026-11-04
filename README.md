@@ -257,7 +257,7 @@ _Key Achievements:_
 
 
 - [Researched and compiled 245 original research summaries for a major medical publisher’s blog over a period of 2.5 years with a total of over 200,000 impressions.](https://t.me/firstmedtv)
-- Engineered and developed a software stack for finding and summarizing relevant, high-quality health research. This technology is currently tested in production (Technology Readiness Level 5) and is being prepared for a public release. [Contact Pavel.](https://drzhelnov.github.io/#a-contacts)
+- Engineered and developed a software stack for finding and summarizing relevant, high-quality health research. This technology is currently tested in production (Technology Readiness Level 5) and is being prepared for a public release. [Contact Pavel.](#a-contacts)
 
 ### Previous:
 
