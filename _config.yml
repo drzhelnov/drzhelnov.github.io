@@ -12,6 +12,10 @@ defaults:
     values:
       sitemap: true
   - scope:
+      path: "cv"
+    values:
+      sitemap: true
+  - scope:
       path: "ai"
     values:
       sitemap: true
