@@ -15,3 +15,5 @@ gem "base64", "~> 0.3.0"
 gem "bigdecimal", "~> 3.3.1"
 
 gem "webrick", "~> 1.9.1"
+
+gem "jekyll-sitemap", "~> 1.4.0"

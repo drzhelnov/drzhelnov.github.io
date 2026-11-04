@@ -6,6 +6,35 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+      sitemap: false
+  - scope:
+      path: "README.md"
+    values:
+      sitemap: true
+  - scope:
+      path: "ai"
+    values:
+      sitemap: true
+  - scope:
+      path: "ai/chats"
+    values:
+      sitemap: false
+  - scope:
+      path: "b"
+    values:
+      sitemap: true
+  - scope:
+      path: "usmle"
+    values:
+      sitemap: true
+  - scope:
+      path: "usmle/**/*.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "usmle/usmle.org"
+    values:
+      sitemap: false
 title: "Pavel Zhelnov"
 url: "https://pavel.zheln.com"
 description: "Hi, I’m Pavel, a surgeon-turned-research engineer. I help people who need reproducible scientific data and AI but lack the technical expertise. I’ve worked for 10 years in medicine and health administration and shipped software since 2012."
@@ -19,6 +48,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-optional-front-matter
   - jekyll-titles-from-headings
+  - jekyll-sitemap
 readme_index:
   enabled:          true
   remove_originals: false
