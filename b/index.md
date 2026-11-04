@@ -20,7 +20,7 @@ title: Blog
 <div id="cv">/cv/</div>
 
 <!--- - 2014-03-05 - [Software Developer](/cv/#computer-skills)--->
-- 2017-06-22 - [Pavel Zhelnov, MD](/cv/#b-degrees)
+- 2017-06-22 - [Pavel Zhelnov, MD](/cv/)
 <!--- - 2019-08-03 - [Orthopaedic Surgeon](/cv/#previous)--->
 <!--- - 2024-08-25 - [AI Engineer](#ai)--->
-- 2026-07-28 - [PhD Candidate](/cv/#current)
+<!--- - 2026-07-28 - [PhD Candidate](/cv/#current)--->
