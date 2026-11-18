@@ -1,19 +1,20 @@
 <!-- Source code by koppor @ StackOverflow
 ---- https://stackoverflow.com/a/58850736 
-later edited manually -->
-<html>
+later edited manually, with GPT's suggestions -->
+<!doctype html>
+{% assign target = page.redirect | absolute_url %}
+<html lang="en">
     <head>
         <meta charset="utf-8"/>
-        <!--<meta http-equiv="refresh" content="0;url={{ page.redirect }}"/>-->
-        <link rel="canonical" href="{{ page.redirect }}"/>
+        <meta http-equiv="refresh" content="0; url={{ target | escape }}"/>
+        <link rel="canonical" href="{{ target | escape }}"/>
         <script type="text/javascript">
-                /*window.location.href = "{{ page.redirect }}"*/
-                const target = {{ page.redirect | jsonify }};
+                const target = {{ target | jsonify }};
                 window.location.replace(target + window.location.hash);
         </script>
         <title>Page Redirection</title>
     </head>
     <body>
-        If you are not redirected automatically, follow <a href='{{ page.redirect }}'>this link</a>.
+        If you are not redirected automatically, follow <a href='{{ target | escape }}'>this link</a>.
     </body>
 </html>
