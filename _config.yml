@@ -48,7 +48,7 @@ google_analytics: G-TX0TDKGNHK
 ya_metrika: 70928308
 markdown: kramdown
 plugins:
-  - jekyll-readme-index
+  #- jekyll-readme-index
   - jekyll-seo-tag
   - jekyll-optional-front-matter
   - jekyll-titles-from-headings

@@ -1,3 +1,7 @@
+---
+permalink: /cv/
+---
+
 # Curriculum Vitae
 
 {% assign locale = site.data.locale | where: "lang", site.lang | first %}
@@ -5,7 +9,7 @@
 {::options parse_block_html="true" /}
 
 [Jump to portfolio](https://p1m.org/portfolio) 
-\| [Blog](/b/)
+\| [Blog](https://pavel.zheln.com)
 
 > Last updated: {{ site.time | date: "%B %e, %Y" }}
 > 
@@ -26,7 +30,7 @@
 
 I live in Toronto, Ontario, Canada.
 
-This website [pavel.zheln.com](https://pavel.zheln.com) is my personal website.
+This website `pavel.zheln.com` is my personal website.
 
 My email is `... pavel [at] zheln [dot] com`.
 

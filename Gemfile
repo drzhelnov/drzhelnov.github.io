@@ -6,7 +6,7 @@ source "https://rubygems.org"
 
 gem "github-pages", "~> 232"
 
-gem "jekyll-readme-index", "~> 0.3.0"
+# gem "jekyll-readme-index", "~> 0.3.0"
 
 gem "csv", "~> 3.3.5"
 
