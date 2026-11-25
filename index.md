@@ -11,6 +11,7 @@ title: Blog
 - 2026-05-25 - [I trust AI](/ai/trust/)
 - 2026-07-08 - [GPFM evaluation fable]( /ai/fable/)
 - 2026-10-28 - [LLM-o-gram]( /ai/llmogram/)
+- 2026-11-25 - [One thing everyone needs to know about AI]( /ai/one/)
 
 <div id="b">/b/</div>
 
